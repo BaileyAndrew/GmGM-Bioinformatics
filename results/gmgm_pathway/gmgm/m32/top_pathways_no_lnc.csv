@@ -1,0 +1,61 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,2.3372904091874915e-16
+GO:BP,GO:0009987,cellular process,1.167369349211901e-15
+GO:BP,GO:0044238,primary metabolic process,6.449519971769485e-13
+GO:BP,GO:0008152,metabolic process,6.946796990514866e-13
+GO:BP,GO:0009058,biosynthetic process,7.416273198087747e-09
+GO:BP,GO:0006139,nucleobase-containing compound metabolic process,1.8319047644570706e-07
+GO:BP,GO:0043170,macromolecule metabolic process,1.4893378394967084e-06
+GO:BP,GO:0034654,nucleobase-containing compound biosynthetic process,1.7009452268721293e-06
+GO:BP,GO:0010467,gene expression,1.869396324646171e-05
+GO:BP,GO:0009059,macromolecule biosynthetic process,2.452876908319003e-05
+GO:BP,GO:0032774,RNA biosynthetic process,3.6811197089128706e-05
+GO:BP,GO:0016070,RNA metabolic process,4.3927154086760314e-05
+GO:BP,GO:0090304,nucleic acid metabolic process,6.0299125908304114e-05
+GO:BP,GO:0141187,nucleic acid biosynthetic process,8.005571489451065e-05
+GO:BP,GO:0050794,regulation of cellular process,0.0005947777266509468
+GO:BP,GO:0050789,regulation of biological process,0.0009655118205650247
+GO:BP,GO:0019538,protein metabolic process,0.0010598593736057152
+GO:BP,GO:0051254,positive regulation of RNA metabolic process,0.001538481531314426
+GO:BP,GO:0019219,regulation of nucleobase-containing compound metabolic process,0.0015745202877381756
+GO:BP,GO:0065007,biological regulation,0.001727397448677178
+GO:CC,GO:0110165,cellular anatomical structure,1.0315725993070803e-21
+GO:CC,GO:0005575,cellular_component,2.42994582921142e-21
+GO:CC,GO:0005622,intracellular anatomical structure,1.8562937634655875e-20
+GO:CC,GO:0043226,organelle,9.523370080509219e-16
+GO:CC,GO:0043229,intracellular organelle,2.1651819489220806e-15
+GO:CC,GO:0043227,membrane-bounded organelle,9.126278260436433e-13
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,2.532614937169622e-11
+GO:CC,GO:0005737,cytoplasm,2.106879424008684e-08
+GO:CC,GO:0005634,nucleus,1.3830053704800321e-06
+GO:CC,GO:0070013,intracellular organelle lumen,7.555002578587114e-06
+GO:CC,GO:0031974,membrane-enclosed lumen,7.555002578587114e-06
+GO:CC,GO:0043233,organelle lumen,7.555002578587114e-06
+GO:CC,GO:0031981,nuclear lumen,6.347819550920528e-05
+GO:CC,GO:0005829,cytosol,0.0001980801614802028
+GO:CC,GO:0005654,nucleoplasm,0.0003579445794319313
+GO:CC,GO:0043232,intracellular membraneless organelle,0.0006926403573031383
+GO:CC,GO:0043228,membraneless organelle,0.0006926403573031383
+GO:CC,GO:0005739,mitochondrion,0.006436997535714325
+GO:CC,GO:0031967,organelle envelope,0.010297529352451514
+GO:CC,GO:0140513,nuclear protein-containing complex,0.010709195385623784
+GO:MF,GO:0003674,molecular_function,2.06207030756099e-27
+GO:MF,GO:0005488,binding,4.8340531930823047e-20
+GO:MF,GO:0005515,protein binding,7.884767541636355e-15
+GO:MF,GO:0043167,ion binding,3.317893015343152e-07
+GO:MF,GO:0036094,small molecule binding,9.545476537785803e-07
+GO:MF,GO:0003824,catalytic activity,8.074760437186513e-06
+GO:MF,GO:0043168,anion binding,0.00014543702700983588
+GO:MF,GO:1901363,heterocyclic compound binding,0.0007484868846080782
+GO:MF,GO:1901265,nucleoside phosphate binding,0.0009240105933150676
+GO:MF,GO:0097367,carbohydrate derivative binding,0.0013180695725077641
+GO:MF,GO:0035639,purine ribonucleoside triphosphate binding,0.002378975280818276
+GO:MF,GO:0017076,purine nucleotide binding,0.0025161426992746172
+GO:MF,GO:0000166,nucleotide binding,0.0025974985640588597
+GO:MF,GO:0032555,purine ribonucleotide binding,0.00382046575381455
+GO:MF,GO:0032553,ribonucleotide binding,0.004314015105038944
+GO:MF,GO:0046872,metal ion binding,0.006453467740145904
+GO:MF,GO:0140110,transcription regulator activity,0.007944388759663587
+GO:MF,GO:0043169,cation binding,0.010340170388117315
+KEGG,KEGG:00000,KEGG root term,0.008644737308438425
+KEGG,KEGG:04960,Aldosterone-regulated sodium reabsorption,0.03491609414818474

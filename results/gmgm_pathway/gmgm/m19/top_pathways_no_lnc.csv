@@ -1,0 +1,65 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,3.613227093431356e-19
+GO:BP,GO:0009987,cellular process,1.075109722456596e-17
+GO:BP,GO:0044238,primary metabolic process,7.457148165695879e-12
+GO:BP,GO:0008152,metabolic process,7.857043793915802e-11
+GO:BP,GO:0009058,biosynthetic process,1.7683429120249531e-10
+GO:BP,GO:0043170,macromolecule metabolic process,3.044685136654017e-07
+GO:BP,GO:0009059,macromolecule biosynthetic process,9.679061102793705e-07
+GO:BP,GO:0010467,gene expression,1.4115006012828132e-05
+GO:BP,GO:0006139,nucleobase-containing compound metabolic process,0.00025079196330930883
+GO:BP,GO:0050789,regulation of biological process,0.000470659579386038
+GO:BP,GO:0050794,regulation of cellular process,0.0006067591417207544
+GO:BP,GO:0065007,biological regulation,0.00232170115252363
+GO:BP,GO:0034654,nucleobase-containing compound biosynthetic process,0.002763628218871415
+GO:BP,GO:0006412,translation,0.002886882876204396
+GO:BP,GO:0090304,nucleic acid metabolic process,0.008089221099002742
+GO:BP,GO:0010608,post-transcriptional regulation of gene expression,0.008204438971089535
+GO:BP,GO:0010629,negative regulation of gene expression,0.008571921572066939
+GO:BP,GO:0061013,regulation of mRNA catabolic process,0.009128065926111092
+GO:BP,GO:0048523,negative regulation of cellular process,0.011508655282551235
+GO:BP,GO:0048519,negative regulation of biological process,0.011890857412898314
+GO:CC,GO:0005575,cellular_component,1.3867884372874395e-22
+GO:CC,GO:0110165,cellular anatomical structure,7.175857689093363e-22
+GO:CC,GO:0043227,membrane-bounded organelle,6.5348472601799225e-21
+GO:CC,GO:0005622,intracellular anatomical structure,3.858413718699574e-20
+GO:CC,GO:0043226,organelle,4.957288440929017e-20
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,1.5349473939541252e-18
+GO:CC,GO:0043229,intracellular organelle,2.818385799337666e-18
+GO:CC,GO:0005737,cytoplasm,1.2414109180972247e-15
+GO:CC,GO:0005829,cytosol,1.0205877612200741e-10
+GO:CC,GO:0005634,nucleus,4.834075987024449e-08
+GO:CC,GO:0070013,intracellular organelle lumen,6.27039303996758e-07
+GO:CC,GO:0043233,organelle lumen,6.27039303996758e-07
+GO:CC,GO:0031974,membrane-enclosed lumen,6.27039303996758e-07
+GO:CC,GO:0016020,membrane,1.4483692416732458e-06
+GO:CC,GO:0005654,nucleoplasm,7.998068056948167e-05
+GO:CC,GO:1902494,catalytic complex,0.0002548470072681719
+GO:CC,GO:0031981,nuclear lumen,0.0010516557518829945
+GO:CC,GO:0032991,protein-containing complex,0.0013999101116177236
+GO:CC,GO:0035770,ribonucleoprotein granule,0.0020274090809405654
+GO:CC,GO:0012505,endomembrane system,0.0029441218775548153
+GO:MF,GO:0003674,molecular_function,1.5228184960601468e-20
+GO:MF,GO:0005488,binding,1.5233494923049116e-15
+GO:MF,GO:0005515,protein binding,6.49839810021156e-13
+GO:MF,GO:0036094,small molecule binding,8.809832808720719e-05
+GO:MF,GO:0043167,ion binding,8.833562224809311e-05
+GO:MF,GO:0003676,nucleic acid binding,0.0006601004923182914
+GO:MF,GO:0003824,catalytic activity,0.0013999327742783125
+GO:MF,GO:0003723,RNA binding,0.0046544104467877425
+GO:MF,GO:0005524,ATP binding,0.0068233861750894974
+GO:MF,GO:0043168,anion binding,0.008826141877285767
+GO:MF,GO:0035639,purine ribonucleoside triphosphate binding,0.009424853664221114
+GO:MF,GO:0032559,adenyl ribonucleotide binding,0.010209526550510039
+GO:MF,GO:0043022,ribosome binding,0.010352850554043483
+GO:MF,GO:0043021,ribonucleoprotein complex binding,0.014329933514135276
+GO:MF,GO:0032555,purine ribonucleotide binding,0.015105248531889364
+GO:MF,GO:0031369,translation initiation factor binding,0.015890909450530177
+GO:MF,GO:0032553,ribonucleotide binding,0.01704531605282646
+GO:MF,GO:0140098,"catalytic activity, acting on RNA",0.018186883752608442
+GO:MF,GO:0097367,carbohydrate derivative binding,0.019546910029997783
+GO:MF,GO:0030554,adenyl nucleotide binding,0.024393696959353964
+KEGG,KEGG:00000,KEGG root term,2.583214084828634e-07
+KEGG,KEGG:01100,Metabolic pathways,0.0004395503088808354
+KEGG,KEGG:00983,Drug metabolism - other enzymes,0.016326496112277013
+KEGG,KEGG:03020,RNA polymerase,0.0452956941308725

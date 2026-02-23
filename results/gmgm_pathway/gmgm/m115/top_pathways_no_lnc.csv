@@ -1,0 +1,22 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,8.724646416369466e-09
+GO:BP,GO:0009987,cellular process,2.4309699850962924e-06
+GO:BP,GO:0048522,positive regulation of cellular process,0.02390921949918236
+GO:BP,GO:0065007,biological regulation,0.04180581018555692
+GO:CC,GO:0005575,cellular_component,8.388142321286586e-13
+GO:CC,GO:0110165,cellular anatomical structure,2.5249807128447095e-11
+GO:CC,GO:0005622,intracellular anatomical structure,2.426611334622722e-07
+GO:CC,GO:0043226,organelle,9.805012180642065e-07
+GO:CC,GO:0043227,membrane-bounded organelle,3.045749790912412e-06
+GO:CC,GO:0043229,intracellular organelle,1.811667260076996e-05
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,2.1755219375695616e-05
+GO:CC,GO:0005737,cytoplasm,0.0026474799064772447
+GO:CC,GO:0098798,mitochondrial protein-containing complex,0.007187982048067417
+GO:CC,GO:0042721,TIM22 mitochondrial import inner membrane insertion complex,0.0191699293641796
+GO:CC,GO:0016020,membrane,0.02266219434146433
+GO:CC,GO:0019866,organelle inner membrane,0.025364925826561368
+GO:CC,GO:0098800,inner mitochondrial membrane protein complex,0.032888547121965366
+GO:CC,GO:0031090,organelle membrane,0.036752587993986424
+GO:MF,GO:0003674,molecular_function,4.621037953720926e-11
+GO:MF,GO:0005488,binding,6.186318926584098e-07
+GO:MF,GO:0005515,protein binding,8.931590788061809e-06

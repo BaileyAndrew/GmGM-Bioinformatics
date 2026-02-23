@@ -1,0 +1,62 @@
+source,native,name,p_value
+GO:BP,GO:0048856,anatomical structure development,1.0560420001719074e-20
+GO:BP,GO:0032502,developmental process,5.997425125063416e-20
+GO:BP,GO:0030154,cell differentiation,2.3904205932099386e-17
+GO:BP,GO:0048869,cellular developmental process,2.432964858647081e-17
+GO:BP,GO:0048731,system development,3.0283756092816744e-17
+GO:BP,GO:0007275,multicellular organism development,8.500410285102471e-17
+GO:BP,GO:0007399,nervous system development,3.033163084145856e-15
+GO:BP,GO:0032501,multicellular organismal process,1.1627423967438668e-14
+GO:BP,GO:0009653,anatomical structure morphogenesis,5.450849824721529e-14
+GO:BP,GO:0016043,cellular component organization,2.0055940182362383e-12
+GO:BP,GO:0048468,cell development,2.1945677781055643e-12
+GO:BP,GO:0071840,cellular component organization or biogenesis,7.364332079945996e-12
+GO:BP,GO:0022008,neurogenesis,1.5131501093751556e-11
+GO:BP,GO:0048699,generation of neurons,2.7233596524555416e-11
+GO:BP,GO:0050789,regulation of biological process,4.2210749413870425e-11
+GO:BP,GO:0048522,positive regulation of cellular process,1.3249323970684133e-10
+GO:BP,GO:0050794,regulation of cellular process,2.919426337251132e-10
+GO:BP,GO:0048518,positive regulation of biological process,4.2049705873228836e-10
+GO:BP,GO:0065007,biological regulation,9.549694429880945e-10
+GO:BP,GO:0030182,neuron differentiation,2.204233698764688e-08
+GO:CC,GO:0043232,intracellular membraneless organelle,3.7640878507211456e-11
+GO:CC,GO:0043228,membraneless organelle,3.7640878507211456e-11
+GO:CC,GO:0005634,nucleus,1.9661774879284316e-10
+GO:CC,GO:0005829,cytosol,2.2939043548733667e-08
+GO:CC,GO:0031981,nuclear lumen,6.071948437995565e-08
+GO:CC,GO:0005622,intracellular anatomical structure,2.0473377249144542e-07
+GO:CC,GO:0043229,intracellular organelle,2.6429679020939677e-07
+GO:CC,GO:0042995,cell projection,2.735552740752231e-07
+GO:CC,GO:0120025,plasma membrane bounded cell projection,4.5666048465119673e-07
+GO:CC,GO:0005575,cellular_component,4.6305245650277305e-07
+GO:CC,GO:0110165,cellular anatomical structure,4.834950461011245e-07
+GO:CC,GO:0043005,neuron projection,5.005429251566897e-07
+GO:CC,GO:0030424,axon,5.160577033944027e-07
+GO:CC,GO:0005654,nucleoplasm,6.075819360828924e-07
+GO:CC,GO:0030054,cell junction,6.219589797906608e-06
+GO:CC,GO:0031974,membrane-enclosed lumen,7.09179497153147e-06
+GO:CC,GO:0070013,intracellular organelle lumen,7.09179497153147e-06
+GO:CC,GO:0043233,organelle lumen,7.09179497153147e-06
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,8.490814124135555e-06
+GO:CC,GO:0043226,organelle,9.30941520542438e-06
+GO:MF,GO:0060090,molecular adaptor activity,2.9671853567497745e-09
+GO:MF,GO:0030674,protein-macromolecule adaptor activity,1.906741912785737e-08
+GO:MF,GO:0005515,protein binding,1.0252540169210873e-07
+GO:MF,GO:0003676,nucleic acid binding,2.1850687485786783e-07
+GO:MF,GO:0005488,binding,4.367504035135511e-07
+GO:MF,GO:0003712,transcription coregulator activity,3.255092770145375e-06
+GO:MF,GO:0003674,molecular_function,4.705426346121935e-06
+GO:MF,GO:0003779,actin binding,1.56023777495241e-05
+GO:MF,GO:0003723,RNA binding,8.590535090786368e-05
+GO:MF,GO:0008092,cytoskeletal protein binding,0.00018439086806099991
+GO:MF,GO:0003729,mRNA binding,0.00027500560321117035
+GO:MF,GO:0042826,histone deacetylase binding,0.00032247430391459873
+GO:MF,GO:0140658,ATP-dependent chromatin remodeler activity,0.0005573618615594141
+GO:MF,GO:0008094,"ATP-dependent activity, acting on DNA",0.0007747629371254389
+GO:MF,GO:0003677,DNA binding,0.0012134653289302393
+GO:MF,GO:1990247,N6-methyladenosine-containing RNA reader activity,0.001677938665650948
+GO:MF,GO:0003682,chromatin binding,0.0025144469878271205
+GO:MF,GO:0042393,histone binding,0.003192898289332137
+GO:MF,GO:0003714,transcription corepressor activity,0.004012878799683879
+GO:MF,GO:0140517,protein-RNA adaptor activity,0.012531588583276099
+KEGG,KEGG:03082,ATP-dependent chromatin remodeling,0.03318761688244502

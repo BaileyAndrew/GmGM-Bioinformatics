@@ -1,0 +1,13 @@
+source,native,name,p_value
+GO:BP,GO:0043170,macromolecule metabolic process,0.019004892511853732
+GO:BP,GO:0008152,metabolic process,0.02154070707918107
+GO:BP,GO:0044238,primary metabolic process,0.028468938198154364
+GO:CC,GO:0005622,intracellular anatomical structure,0.0012237462960335561
+GO:CC,GO:0005737,cytoplasm,0.006774682297660749
+GO:CC,GO:0110165,cellular anatomical structure,0.01338326966424542
+GO:CC,GO:0030658,transport vesicle membrane,0.014510912962599145
+GO:CC,GO:0005575,cellular_component,0.019329274372783704
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,0.027797799507251388
+GO:MF,GO:0005488,binding,3.344565188963811e-05
+GO:MF,GO:0003674,molecular_function,5.5489470744327474e-05
+GO:MF,GO:0005515,protein binding,0.0003741517843825712

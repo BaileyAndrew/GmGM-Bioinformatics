@@ -1,0 +1,62 @@
+source,native,name,p_value
+GO:BP,GO:0003341,cilium movement,3.3791703298857535e-104
+GO:BP,GO:0007018,microtubule-based movement,2.1482239138840962e-92
+GO:BP,GO:0044782,cilium organization,3.6083309813576204e-90
+GO:BP,GO:0060271,cilium assembly,1.569069855603837e-85
+GO:BP,GO:0007017,microtubule-based process,5.076863565511676e-82
+GO:BP,GO:0035082,axoneme assembly,5.2928065163975755e-79
+GO:BP,GO:0001539,cilium or flagellum-dependent cell motility,1.5867337363308583e-77
+GO:BP,GO:0060285,cilium-dependent cell motility,1.5867337363308583e-77
+GO:BP,GO:0060294,cilium movement involved in cell motility,1.3275446427642777e-76
+GO:BP,GO:0030031,cell projection assembly,4.3182997719710205e-73
+GO:BP,GO:0120031,plasma membrane bounded cell projection assembly,4.675069135463387e-73
+GO:BP,GO:0001578,microtubule bundle formation,1.4215730313345428e-72
+GO:BP,GO:0030317,flagellated sperm motility,1.4692926638150348e-63
+GO:BP,GO:0097722,sperm motility,1.4692926638150348e-63
+GO:BP,GO:0070925,organelle assembly,5.655229753335195e-48
+GO:BP,GO:0030030,cell projection organization,1.9054606846573297e-45
+GO:BP,GO:0120036,plasma membrane bounded cell projection organization,3.782436335441442e-40
+GO:BP,GO:0000226,microtubule cytoskeleton organization,2.2130246349705237e-39
+GO:BP,GO:0044458,motile cilium assembly,6.153124549904097e-38
+GO:BP,GO:0003351,epithelial cilium movement involved in extracellular fluid movement,7.831635952334887e-34
+GO:CC,GO:0005929,cilium,1.3618779029920662e-142
+GO:CC,GO:0005930,axoneme,6.787729898862489e-113
+GO:CC,GO:0097014,ciliary plasm,1.3936841640269513e-112
+GO:CC,GO:0031514,motile cilium,1.780934614880232e-108
+GO:CC,GO:0032838,plasma membrane bounded cell projection cytoplasm,1.0123952599901307e-93
+GO:CC,GO:0099568,cytoplasmic region,2.842662846368816e-89
+GO:CC,GO:0097729,9+2 motile cilium,8.856794186842243e-82
+GO:CC,GO:0042995,cell projection,2.051526571402123e-75
+GO:CC,GO:0005856,cytoskeleton,8.96564032418436e-75
+GO:CC,GO:0120025,plasma membrane bounded cell projection,1.901863566107835e-74
+GO:CC,GO:0036126,sperm flagellum,5.571437651908604e-61
+GO:CC,GO:0015630,microtubule cytoskeleton,2.860909121707688e-50
+GO:CC,GO:0005879,axonemal microtubule,1.7607922043813202e-37
+GO:CC,GO:0097545,axonemal doublet microtubule,7.615694193872003e-37
+GO:CC,GO:0160110,axonemal microtubule doublet inner sheath,3.078474501430248e-34
+GO:CC,GO:0005874,microtubule,2.9133114890236874e-33
+GO:CC,GO:0097649,A axonemal microtubule,9.980230853737406e-33
+GO:CC,GO:0043232,intracellular membraneless organelle,1.1585839909176647e-30
+GO:CC,GO:0043228,membraneless organelle,1.1585839909176647e-30
+GO:CC,GO:0099513,polymeric cytoskeletal fiber,5.5037371032896576e-30
+GO:MF,GO:0120544,polypeptide conformation or assembly isomerase activity,1.1686258971071514e-12
+GO:MF,GO:0008569,minus-end-directed microtubule motor activity,1.6579748797127168e-12
+GO:MF,GO:0003774,cytoskeletal motor activity,3.6164285562605675e-12
+GO:MF,GO:0003777,microtubule motor activity,1.2821407479761831e-11
+GO:MF,GO:0051959,dynein light intermediate chain binding,6.812111878933956e-11
+GO:MF,GO:0045505,dynein intermediate chain binding,1.38017928421958e-10
+GO:MF,GO:0015631,tubulin binding,1.4905134485810884e-10
+GO:MF,GO:0008017,microtubule binding,8.382052723116707e-08
+GO:MF,GO:0008092,cytoskeletal protein binding,4.7628840406421015e-07
+GO:MF,GO:0045504,dynein heavy chain binding,8.66043994930583e-06
+GO:MF,GO:0120543,macromolecular conformation isomerase activity,5.8444345118319595e-05
+GO:MF,GO:0045503,dynein light chain binding,0.000252423927810221
+GO:MF,GO:0004550,nucleoside diphosphate kinase activity,0.0009441523306971133
+GO:MF,GO:0004127,(d)CMP kinase activity,0.0015253813766174379
+GO:MF,GO:0016853,isomerase activity,0.005909628927506089
+GO:MF,GO:0016776,"phosphotransferase activity, phosphate group as acceptor",0.006452858679377178
+GO:MF,GO:0005488,binding,0.009922852541540796
+GO:MF,GO:0019205,nucleobase-containing compound kinase activity,0.0176124605136476
+GO:MF,GO:0004017,adenylate kinase activity,0.019997261816857195
+GO:MF,GO:0003674,molecular_function,0.020621215353736108
+KEGG,KEGG:04814,Motor proteins,5.215155933976353e-13

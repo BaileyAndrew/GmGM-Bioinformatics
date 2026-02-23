@@ -1,0 +1,42 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,4.855215400981255e-13
+GO:BP,GO:0009987,cellular process,2.2056526393024955e-10
+GO:BP,GO:0065007,biological regulation,4.28189803594875e-07
+GO:BP,GO:0043170,macromolecule metabolic process,2.425046908492549e-05
+GO:BP,GO:0050789,regulation of biological process,0.00013510435690252737
+GO:BP,GO:0044238,primary metabolic process,0.000240480952326961
+GO:BP,GO:0008152,metabolic process,0.000718697438305064
+GO:BP,GO:0050794,regulation of cellular process,0.0009454212811545459
+GO:BP,GO:0141187,nucleic acid biosynthetic process,0.0047318645713144356
+GO:BP,GO:0009059,macromolecule biosynthetic process,0.005973380891899345
+GO:BP,GO:0006139,nucleobase-containing compound metabolic process,0.006319378134023502
+GO:BP,GO:0034654,nucleobase-containing compound biosynthetic process,0.006944867893924848
+GO:BP,GO:0090304,nucleic acid metabolic process,0.012271264570090087
+GO:BP,GO:0009058,biosynthetic process,0.015037860124883574
+GO:BP,GO:0032774,RNA biosynthetic process,0.02371179028993816
+GO:BP,GO:0050896,response to stimulus,0.03497471899419746
+GO:CC,GO:0005575,cellular_component,5.863315261644303e-19
+GO:CC,GO:0110165,cellular anatomical structure,7.369804035087014e-18
+GO:CC,GO:0005622,intracellular anatomical structure,6.591769426521169e-16
+GO:CC,GO:0043226,organelle,8.11998691007092e-16
+GO:CC,GO:0043229,intracellular organelle,8.210948215598628e-15
+GO:CC,GO:0043227,membrane-bounded organelle,3.872218067109866e-14
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,3.725999188447132e-13
+GO:CC,GO:0005634,nucleus,1.1360637049510546e-07
+GO:CC,GO:0005737,cytoplasm,1.716808548498102e-06
+GO:CC,GO:0070013,intracellular organelle lumen,9.06124612827892e-05
+GO:CC,GO:0043233,organelle lumen,9.06124612827892e-05
+GO:CC,GO:0031974,membrane-enclosed lumen,9.06124612827892e-05
+GO:CC,GO:0031981,nuclear lumen,0.0003659350834296162
+GO:CC,GO:0005654,nucleoplasm,0.0037770098358421733
+GO:CC,GO:0005829,cytosol,0.0038635176242814363
+GO:CC,GO:0032991,protein-containing complex,0.01335718816908893
+GO:CC,GO:1902494,catalytic complex,0.016184878505078548
+GO:MF,GO:0003674,molecular_function,1.2030326274557998e-17
+GO:MF,GO:0005488,binding,1.2753766465982773e-11
+GO:MF,GO:0005515,protein binding,1.4574342947771842e-09
+GO:MF,GO:0036094,small molecule binding,4.55516746122756e-05
+GO:MF,GO:0043167,ion binding,0.0005790137763614891
+GO:MF,GO:0046872,metal ion binding,0.0010643091721901745
+GO:MF,GO:0043169,cation binding,0.0016921442788025759
+GO:MF,GO:0035173,histone kinase activity,0.04401582125608576

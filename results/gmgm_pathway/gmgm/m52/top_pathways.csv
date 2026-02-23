@@ -1,0 +1,6 @@
+source,native,name,p_value
+GO:CC,GO:0005737,cytoplasm,0.0006908898266973484
+GO:CC,GO:0031090,organelle membrane,0.0009823691058778877
+GO:CC,GO:0098588,bounding membrane of organelle,0.005426570830369937
+GO:CC,GO:0005622,intracellular anatomical structure,0.020043171597940432
+GO:CC,GO:0012505,endomembrane system,0.026014452020995102

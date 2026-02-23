@@ -1,0 +1,31 @@
+source,native,name,p_value
+GO:BP,GO:0007399,nervous system development,2.434241044564356e-14
+GO:BP,GO:0032501,multicellular organismal process,1.6027382518262673e-12
+GO:BP,GO:0048731,system development,4.2574602352952955e-11
+GO:BP,GO:0007275,multicellular organism development,5.456577816026799e-11
+GO:BP,GO:0007417,central nervous system development,8.629249146857677e-10
+GO:BP,GO:0048856,anatomical structure development,3.577213981971693e-09
+GO:BP,GO:0032502,developmental process,3.3361366405086924e-08
+GO:BP,GO:0022008,neurogenesis,5.70308774577051e-08
+GO:BP,GO:0030182,neuron differentiation,5.706003438167192e-08
+GO:BP,GO:0048699,generation of neurons,6.853381817927698e-08
+GO:BP,GO:0048513,animal organ development,6.94362833350697e-07
+GO:BP,GO:0009888,tissue development,7.940828277907886e-07
+GO:BP,GO:0030154,cell differentiation,2.011916601537393e-06
+GO:BP,GO:0048869,cellular developmental process,2.032325153024263e-06
+GO:BP,GO:0048598,embryonic morphogenesis,3.5778991580194947e-06
+GO:BP,GO:0009790,embryo development,6.827957981690461e-06
+GO:BP,GO:0009653,anatomical structure morphogenesis,1.1133872443862232e-05
+GO:BP,GO:0048519,negative regulation of biological process,1.2199475599055955e-05
+GO:BP,GO:0045595,regulation of cell differentiation,2.704965199249665e-05
+GO:BP,GO:0009954,proximal/distal pattern formation,3.1236010345004906e-05
+GO:CC,GO:0005886,plasma membrane,5.874637020245687e-05
+GO:CC,GO:0071944,cell periphery,0.0001085933061675446
+GO:CC,GO:0036477,somatodendritic compartment,0.008129250744505908
+GO:CC,GO:0030425,dendrite,0.010509130155224514
+GO:CC,GO:0097447,dendritic tree,0.010706636802891715
+GO:MF,GO:0038023,signaling receptor activity,0.0011382979710194072
+GO:MF,GO:0060089,molecular transducer activity,0.0011382979710194072
+KEGG,KEGG:04550,Signaling pathways regulating pluripotency of stem cells,2.9432304209598052e-05
+KEGG,KEGG:04350,TGF-beta signaling pathway,0.0007279386942330969
+KEGG,KEGG:04390,Hippo signaling pathway,0.008698727989888001

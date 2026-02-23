@@ -1,0 +1,7 @@
+source,native,name,p_value
+GO:CC,GO:0043226,organelle,0.013072157185748525
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,0.019965823769563868
+GO:CC,GO:0043229,intracellular organelle,0.027248459389731326
+GO:CC,GO:0005622,intracellular anatomical structure,0.03107785857313434
+GO:CC,GO:0043227,membrane-bounded organelle,0.044007046596553
+KEGG,KEGG:04062,Chemokine signaling pathway,0.04794277028045256

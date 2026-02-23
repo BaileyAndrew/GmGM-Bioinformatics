@@ -1,0 +1,73 @@
+source,native,name,p_value
+GO:BP,GO:0006119,oxidative phosphorylation,8.753649273475149e-13
+GO:BP,GO:1902600,proton transmembrane transport,1.3644208071532743e-11
+GO:BP,GO:0009060,aerobic respiration,2.9686227570948076e-11
+GO:BP,GO:0019646,aerobic electron transport chain,3.8852281304204186e-11
+GO:BP,GO:0042773,ATP synthesis coupled electron transport,8.813314126600551e-11
+GO:BP,GO:0042775,mitochondrial ATP synthesis coupled electron transport,8.813314126600551e-11
+GO:BP,GO:0045333,cellular respiration,2.1720782159794624e-10
+GO:BP,GO:0022904,respiratory electron transport chain,3.716412216211113e-10
+GO:BP,GO:0022900,electron transport chain,8.849987445587978e-10
+GO:BP,GO:0015980,energy derivation by oxidation of organic compounds,8.455300713664107e-09
+GO:BP,GO:0006091,generation of precursor metabolites and energy,1.2707862753127966e-08
+GO:BP,GO:0042776,proton motive force-driven mitochondrial ATP synthesis,3.3663086963864965e-08
+GO:BP,GO:0015988,"energy coupled proton transmembrane transport, against electrochemical gradient",6.171952945975613e-08
+GO:BP,GO:0015990,electron transport coupled proton transport,6.171952945975613e-08
+GO:BP,GO:0015986,proton motive force-driven ATP synthesis,1.0086445020008397e-07
+GO:BP,GO:0070482,response to oxygen levels,2.832379420367298e-07
+GO:BP,GO:0006754,ATP biosynthetic process,5.945201627430686e-07
+GO:BP,GO:0009206,purine ribonucleoside triphosphate biosynthetic process,1.2441270011318713e-06
+GO:BP,GO:0009145,purine nucleoside triphosphate biosynthetic process,1.3254054901813267e-06
+GO:BP,GO:0009201,ribonucleoside triphosphate biosynthetic process,1.8030912838924307e-06
+GO:CC,GO:0098803,respiratory chain complex,2.0084452476692783e-15
+GO:CC,GO:1990204,oxidoreductase complex,3.6011656622332893e-10
+GO:CC,GO:1902495,transmembrane transporter complex,5.52908218909897e-08
+GO:CC,GO:0005743,mitochondrial inner membrane,9.825659758758767e-08
+GO:CC,GO:1990351,transporter complex,1.0256081252038734e-07
+GO:CC,GO:0019866,organelle inner membrane,2.9416196738329826e-07
+GO:CC,GO:0098796,membrane protein complex,1.2706252102737714e-06
+GO:CC,GO:0045271,respiratory chain complex I,2.912512485434859e-06
+GO:CC,GO:0030964,NADH dehydrogenase complex,2.912512485434859e-06
+GO:CC,GO:0031966,mitochondrial membrane,8.642566986667353e-06
+GO:CC,GO:0005740,mitochondrial envelope,1.6342749686207353e-05
+GO:CC,GO:0070069,cytochrome complex,2.7849162251983473e-05
+GO:CC,GO:1902494,catalytic complex,0.0001111195292127178
+GO:CC,GO:0031967,organelle envelope,0.00020826250433892757
+GO:CC,GO:0045277,respiratory chain complex IV,0.00037353446712503496
+GO:CC,GO:0005739,mitochondrion,0.005928804423269064
+GO:CC,GO:0031090,organelle membrane,0.008863500894781854
+GO:CC,GO:0032991,protein-containing complex,0.014689429680847165
+GO:MF,GO:0015453,oxidoreduction-driven active transmembrane transporter activity,5.663011511247167e-13
+GO:MF,GO:0015078,proton transmembrane transporter activity,2.4161610019028998e-12
+GO:MF,GO:0009055,electron transfer activity,7.783722843800814e-11
+GO:MF,GO:0022853,active monoatomic ion transmembrane transporter activity,1.2685787404668095e-10
+GO:MF,GO:0015399,primary active transmembrane transporter activity,2.9672145353511106e-09
+GO:MF,GO:0022890,inorganic cation transmembrane transporter activity,2.452238895386916e-07
+GO:MF,GO:0008324,monoatomic cation transmembrane transporter activity,4.4901442102683884e-07
+GO:MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,1.4707688121305662e-06
+GO:MF,GO:0015075,monoatomic ion transmembrane transporter activity,2.699960593831172e-06
+GO:MF,GO:0008137,NADH dehydrogenase (ubiquinone) activity,3.094557769715938e-06
+GO:MF,GO:0003954,NADH dehydrogenase activity,4.467754328793172e-06
+GO:MF,GO:0022804,active transmembrane transporter activity,1.5574132166434193e-05
+GO:MF,GO:0016655,"oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor",1.6947595450446507e-05
+GO:MF,GO:0016491,oxidoreductase activity,6.947465682089262e-05
+GO:MF,GO:0022857,transmembrane transporter activity,0.00011444132492088899
+GO:MF,GO:0016651,"oxidoreductase activity, acting on NAD(P)H",0.00017069530270425484
+GO:MF,GO:0005215,transporter activity,0.00028151043675565595
+GO:MF,GO:0004129,cytochrome-c oxidase activity,0.000506451153336117
+GO:MF,GO:0016675,"oxidoreductase activity, acting on a heme group of donors",0.0006438155043130684
+KEGG,KEGG:00190,Oxidative phosphorylation,1.2573166448360354e-14
+KEGG,KEGG:05208,Chemical carcinogenesis - reactive oxygen species,5.86825706507903e-14
+KEGG,KEGG:05020,Prion disease,5.57166010093175e-13
+KEGG,KEGG:05012,Parkinson disease,6.124804257411104e-13
+KEGG,KEGG:05415,Diabetic cardiomyopathy,1.0122908580421488e-12
+KEGG,KEGG:04714,Thermogenesis,5.589000023219611e-12
+KEGG,KEGG:05016,Huntington disease,1.1848208743832842e-10
+KEGG,KEGG:05014,Amyotrophic lateral sclerosis,6.625568093437026e-10
+KEGG,KEGG:05010,Alzheimer disease,1.0764541700395447e-09
+KEGG,KEGG:01100,Metabolic pathways,3.6055336977539863e-09
+KEGG,KEGG:05022,Pathways of neurodegeneration - multiple diseases,1.1735966851658865e-08
+KEGG,KEGG:04723,Retrograde endocannabinoid signaling,0.0002771434306617803
+KEGG,KEGG:04260,Cardiac muscle contraction,0.0006432834805036072
+KEGG,KEGG:04932,Non-alcoholic fatty liver disease,0.006459971747390046
+KEGG,KEGG:00000,KEGG root term,0.02922839965872602

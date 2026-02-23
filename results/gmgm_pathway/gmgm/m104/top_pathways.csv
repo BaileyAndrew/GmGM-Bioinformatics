@@ -1,0 +1,7 @@
+source,native,name,p_value
+GO:BP,GO:1902747,negative regulation of lens fiber cell differentiation,0.0006247471507311568
+GO:BP,GO:1902746,regulation of lens fiber cell differentiation,0.0021759880334334372
+GO:BP,GO:0070373,negative regulation of ERK1 and ERK2 cascade,0.0042657314990798756
+GO:BP,GO:0044238,primary metabolic process,0.009136534505997948
+GO:MF,GO:0003674,molecular_function,0.006303474622268331
+KEGG,KEGG:00280,"Valine, leucine and isoleucine degradation",0.032535601601544104

@@ -1,0 +1,43 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,7.10691914191384e-16
+GO:BP,GO:0009987,cellular process,6.302360679123594e-12
+GO:BP,GO:0008152,metabolic process,5.595193901494128e-11
+GO:BP,GO:0044238,primary metabolic process,8.807561177227327e-10
+GO:BP,GO:0043170,macromolecule metabolic process,1.8159181654787703e-07
+GO:BP,GO:0019538,protein metabolic process,0.0006780833275648616
+GO:BP,GO:0009058,biosynthetic process,0.0008209542813762757
+GO:BP,GO:0009059,macromolecule biosynthetic process,0.005792560898582802
+GO:BP,GO:0065007,biological regulation,0.011063101637712206
+GO:BP,GO:0050794,regulation of cellular process,0.02337930574583793
+GO:BP,GO:0010467,gene expression,0.031047884096466003
+GO:CC,GO:0005575,cellular_component,6.799595191659747e-21
+GO:CC,GO:0110165,cellular anatomical structure,7.093861991421314e-17
+GO:CC,GO:0005622,intracellular anatomical structure,2.274210822123268e-16
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,2.032088122680694e-11
+GO:CC,GO:0043226,organelle,1.9617382767238632e-10
+GO:CC,GO:0043227,membrane-bounded organelle,2.2204149388893933e-10
+GO:CC,GO:0043229,intracellular organelle,3.2482156383606135e-10
+GO:CC,GO:0005737,cytoplasm,5.413441684700743e-09
+GO:CC,GO:0005634,nucleus,1.4898311135999448e-05
+GO:CC,GO:0031974,membrane-enclosed lumen,3.3581905632879747e-05
+GO:CC,GO:0070013,intracellular organelle lumen,3.3581905632879747e-05
+GO:CC,GO:0043233,organelle lumen,3.3581905632879747e-05
+GO:CC,GO:0016020,membrane,0.0018937830467143214
+GO:CC,GO:0031981,nuclear lumen,0.002204903208636615
+GO:CC,GO:0005654,nucleoplasm,0.004478360206840566
+GO:CC,GO:0031090,organelle membrane,0.007907761435645632
+GO:CC,GO:0005783,endoplasmic reticulum,0.013490735371063876
+GO:CC,GO:1990234,transferase complex,0.02420915763337573
+GO:CC,GO:0140535,intracellular protein-containing complex,0.037850973037675366
+GO:MF,GO:0003674,molecular_function,1.0714513597271877e-16
+GO:MF,GO:0005488,binding,2.8059251307140717e-13
+GO:MF,GO:0005515,protein binding,1.322111746125715e-09
+GO:MF,GO:0016746,acyltransferase activity,0.005293152427452191
+GO:MF,GO:0004842,ubiquitin-protein transferase activity,0.010876010806690324
+GO:MF,GO:0003676,nucleic acid binding,0.013356580570956482
+GO:MF,GO:0019787,ubiquitin-like protein transferase activity,0.01816000342692062
+GO:MF,GO:0016755,aminoacyltransferase activity,0.022759682129237728
+GO:MF,GO:0016740,transferase activity,0.039046622586764286
+KEGG,KEGG:00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,0.01286608699537202
+KEGG,KEGG:00000,KEGG root term,0.022837964610315998
+KEGG,KEGG:03015,mRNA surveillance pathway,0.045941135888727974

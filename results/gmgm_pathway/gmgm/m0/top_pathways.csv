@@ -1,0 +1,5 @@
+source,native,name,p_value
+GO:BP,GO:0050907,detection of chemical stimulus involved in sensory perception,9.322769850112653e-05
+GO:BP,GO:0050911,detection of chemical stimulus involved in sensory perception of smell,0.000511013191120979
+GO:BP,GO:0009593,detection of chemical stimulus,0.007334899537515765
+GO:MF,GO:0004984,olfactory receptor activity,1.0227667985243444e-05

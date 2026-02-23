@@ -1,0 +1,80 @@
+source,native,name,p_value
+GO:BP,GO:0002181,cytoplasmic translation,2.2316537535385458e-100
+GO:BP,GO:0006412,translation,2.2558950830256842e-72
+GO:BP,GO:0008150,biological_process,1.345341743977966e-46
+GO:BP,GO:0009987,cellular process,2.1226441964570607e-42
+GO:BP,GO:0008152,metabolic process,3.082905213824141e-40
+GO:BP,GO:0019538,protein metabolic process,1.0592791849233917e-36
+GO:BP,GO:0009058,biosynthetic process,1.1249600464350244e-36
+GO:BP,GO:0044238,primary metabolic process,2.5193181686750624e-34
+GO:BP,GO:0009059,macromolecule biosynthetic process,1.9988696355756354e-32
+GO:BP,GO:0010467,gene expression,2.2243768109052038e-32
+GO:BP,GO:0022613,ribonucleoprotein complex biogenesis,2.2912596569201253e-29
+GO:BP,GO:0043170,macromolecule metabolic process,8.465549702914511e-29
+GO:BP,GO:0042254,ribosome biogenesis,4.666569420626331e-28
+GO:BP,GO:0042274,ribosomal small subunit biogenesis,3.9326579249871695e-27
+GO:BP,GO:0006396,RNA processing,3.652921735884489e-15
+GO:BP,GO:0006364,rRNA processing,1.891173331001684e-13
+GO:BP,GO:0042255,ribosome assembly,3.6564602265988453e-13
+GO:BP,GO:0022618,protein-RNA complex assembly,8.300944008812177e-13
+GO:BP,GO:0071826,protein-RNA complex organization,1.9773859036300704e-12
+GO:BP,GO:0016072,rRNA metabolic process,6.245912598766347e-12
+GO:CC,GO:0022626,cytosolic ribosome,1.8570741424091358e-115
+GO:CC,GO:0044391,ribosomal subunit,1.2381285487894133e-102
+GO:CC,GO:0005840,ribosome,1.2139459011658154e-94
+GO:CC,GO:1990904,ribonucleoprotein complex,1.8518722884642667e-75
+GO:CC,GO:0022625,cytosolic large ribosomal subunit,1.370464333259582e-71
+GO:CC,GO:0015934,large ribosomal subunit,1.0514460436324624e-58
+GO:CC,GO:0005737,cytoplasm,5.6069260571658484e-58
+GO:CC,GO:0005575,cellular_component,2.5242434832781224e-56
+GO:CC,GO:0043226,organelle,9.988070738509618e-54
+GO:CC,GO:0005622,intracellular anatomical structure,4.506821572812789e-53
+GO:CC,GO:0110165,cellular anatomical structure,2.6043743396759486e-52
+GO:CC,GO:0032991,protein-containing complex,3.8151330842252307e-50
+GO:CC,GO:0043229,intracellular organelle,4.107490567112319e-50
+GO:CC,GO:0043227,membrane-bounded organelle,1.3101739295833012e-49
+GO:CC,GO:0022627,cytosolic small ribosomal subunit,5.9581846605376744e-49
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,4.21668065618257e-43
+GO:CC,GO:0005829,cytosol,1.2451501990266053e-42
+GO:CC,GO:0015935,small ribosomal subunit,8.477659309945982e-42
+GO:CC,GO:0070062,extracellular exosome,1.9023523242548686e-41
+GO:CC,GO:1903561,extracellular vesicle,6.016216369052516e-41
+GO:MF,GO:0003735,structural constituent of ribosome,4.0985898142778585e-100
+GO:MF,GO:0003723,RNA binding,3.260747205402704e-57
+GO:MF,GO:0005198,structural molecule activity,8.463448296617853e-53
+GO:MF,GO:0003674,molecular_function,1.0260777303286591e-50
+GO:MF,GO:0005488,binding,1.227336404530144e-42
+GO:MF,GO:0005515,protein binding,2.6281905795395233e-37
+GO:MF,GO:0003676,nucleic acid binding,1.222989627955092e-34
+GO:MF,GO:0019843,rRNA binding,2.9495498049147694e-16
+GO:MF,GO:1990948,ubiquitin ligase inhibitor activity,3.10883324416075e-10
+GO:MF,GO:0055105,ubiquitin-protein transferase inhibitor activity,8.622964617212117e-09
+GO:MF,GO:0003729,mRNA binding,4.100119995615904e-08
+GO:MF,GO:0055106,ubiquitin-protein transferase regulator activity,9.281236698976184e-06
+GO:MF,GO:0019899,enzyme binding,1.1025777866572352e-05
+GO:MF,GO:0048027,mRNA 5'-UTR binding,3.5573459457652635e-05
+GO:MF,GO:0045296,cadherin binding,3.92698781089486e-05
+GO:MF,GO:0046933,"proton-transporting ATP synthase activity, rotational mechanism",0.00026802255974729797
+GO:MF,GO:0031625,ubiquitin protein ligase binding,0.00031918528787634677
+GO:MF,GO:0015078,proton transmembrane transporter activity,0.00035268072519838546
+GO:MF,GO:0050839,cell adhesion molecule binding,0.0003549707569517542
+GO:MF,GO:0044389,ubiquitin-like protein ligase binding,0.0006458324017398453
+KEGG,KEGG:03010,Ribosome,2.3974797623689e-106
+KEGG,KEGG:05171,Coronavirus disease - COVID-19,2.5563719597367317e-90
+KEGG,KEGG:00000,KEGG root term,4.1440992333607263e-44
+KEGG,KEGG:00190,Oxidative phosphorylation,7.168528010879916e-11
+KEGG,KEGG:05012,Parkinson disease,1.8515638302205987e-10
+KEGG,KEGG:04714,Thermogenesis,1.990916825209742e-08
+KEGG,KEGG:05415,Diabetic cardiomyopathy,2.0918008115285643e-08
+KEGG,KEGG:05010,Alzheimer disease,8.115120694005076e-08
+KEGG,KEGG:05020,Prion disease,1.1927282744891134e-07
+KEGG,KEGG:05208,Chemical carcinogenesis - reactive oxygen species,6.627459031948048e-07
+KEGG,KEGG:05016,Huntington disease,1.1326755289982187e-06
+KEGG,KEGG:05022,Pathways of neurodegeneration - multiple diseases,3.0747968164642538e-06
+KEGG,KEGG:05014,Amyotrophic lateral sclerosis,1.0302912503882965e-05
+KEGG,KEGG:03040,Spliceosome,4.3910340269207245e-05
+KEGG,KEGG:01100,Metabolic pathways,0.00014555562573025297
+KEGG,KEGG:04932,Non-alcoholic fatty liver disease,0.0005952240137149849
+KEGG,KEGG:04260,Cardiac muscle contraction,0.0007193677302257979
+KEGG,KEGG:04217,Necroptosis,0.016369000478252276
+KEGG,KEGG:04216,Ferroptosis,0.04122866859361217

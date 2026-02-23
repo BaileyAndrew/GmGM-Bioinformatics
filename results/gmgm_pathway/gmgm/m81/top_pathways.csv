@@ -1,0 +1,6 @@
+source,native,name,p_value
+GO:CC,GO:0000126,transcription factor TFIIIB complex,0.017787770713532262
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,0.019965823769563868
+GO:CC,GO:0016604,nuclear body,0.023391020153330545
+GO:CC,GO:0043227,membrane-bounded organelle,0.044007046596553
+GO:MF,GO:0005515,protein binding,0.006905997923279247

@@ -1,0 +1,13 @@
+source,native,name,p_value
+GO:BP,GO:0008152,metabolic process,0.011127423714366378
+GO:BP,GO:0044238,primary metabolic process,0.04755534659802203
+GO:CC,GO:0043226,organelle,3.106917542286132e-05
+GO:CC,GO:0043229,intracellular organelle,8.054978960338557e-05
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,0.0009881145515051651
+GO:CC,GO:0043227,membrane-bounded organelle,0.0012930749447627138
+GO:CC,GO:0005622,intracellular anatomical structure,0.0017811961664081926
+GO:CC,GO:0110165,cellular anatomical structure,0.03340384853272629
+GO:MF,GO:0003674,molecular_function,0.005838770996991272
+GO:MF,GO:0005488,binding,0.008423638409416397
+GO:MF,GO:0005515,protein binding,0.009338753647914153
+GO:MF,GO:0019899,enzyme binding,0.015027314820358717

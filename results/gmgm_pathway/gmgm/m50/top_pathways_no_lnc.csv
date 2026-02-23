@@ -1,0 +1,75 @@
+source,native,name,p_value
+GO:BP,GO:0008610,lipid biosynthetic process,2.3727181135777556e-31
+GO:BP,GO:0016126,sterol biosynthetic process,2.4068163868579492e-30
+GO:BP,GO:0016125,sterol metabolic process,1.8924640758005928e-29
+GO:BP,GO:0008203,cholesterol metabolic process,7.294524105105311e-29
+GO:BP,GO:0044281,small molecule metabolic process,2.1249022137453856e-28
+GO:BP,GO:1902652,secondary alcohol metabolic process,4.237370857716269e-28
+GO:BP,GO:0006629,lipid metabolic process,1.4025464558641417e-27
+GO:BP,GO:0006695,cholesterol biosynthetic process,1.72366667593533e-27
+GO:BP,GO:1902653,secondary alcohol biosynthetic process,1.72366667593533e-27
+GO:BP,GO:0044283,small molecule biosynthetic process,6.809663696813096e-26
+GO:BP,GO:0006694,steroid biosynthetic process,2.15684109959212e-25
+GO:BP,GO:0008202,steroid metabolic process,2.137226781579503e-24
+GO:BP,GO:0006066,alcohol metabolic process,8.639930638406044e-22
+GO:BP,GO:0046165,alcohol biosynthetic process,8.900532447495539e-20
+GO:BP,GO:0008150,biological_process,5.7373951193292644e-18
+GO:BP,GO:0009987,cellular process,2.1052036766163329e-16
+GO:BP,GO:0019637,organophosphate metabolic process,6.4929071027615896e-15
+GO:BP,GO:0008152,metabolic process,1.1033897343831236e-13
+GO:BP,GO:0006631,fatty acid metabolic process,2.9440765817333696e-13
+GO:BP,GO:0009058,biosynthetic process,3.6075715551484595e-13
+GO:CC,GO:0005575,cellular_component,1.3634708547947864e-20
+GO:CC,GO:0005622,intracellular anatomical structure,1.8031763475999822e-20
+GO:CC,GO:0110165,cellular anatomical structure,7.047032779293613e-20
+GO:CC,GO:0005737,cytoplasm,2.851396126922375e-17
+GO:CC,GO:0005789,endoplasmic reticulum membrane,2.5886919113562345e-16
+GO:CC,GO:0098827,endoplasmic reticulum subcompartment,3.0442066889896075e-16
+GO:CC,GO:0042175,nuclear outer membrane-endoplasmic reticulum membrane network,5.053637660988278e-16
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,3.2460497037479216e-15
+GO:CC,GO:0012505,endomembrane system,8.41523027646053e-15
+GO:CC,GO:0005783,endoplasmic reticulum,2.6630469517739484e-14
+GO:CC,GO:0031984,organelle subcompartment,6.361920894705957e-14
+GO:CC,GO:0043227,membrane-bounded organelle,6.36963268749926e-14
+GO:CC,GO:0043226,organelle,6.783514572519177e-14
+GO:CC,GO:0043229,intracellular organelle,9.984690580998197e-14
+GO:CC,GO:0031090,organelle membrane,3.6637338588669324e-10
+GO:CC,GO:0016020,membrane,6.9474985308410794e-09
+GO:CC,GO:0005739,mitochondrion,0.0004247795709079507
+GO:CC,GO:0042579,microbody,0.0011511892637713207
+GO:CC,GO:0005777,peroxisome,0.0011511892637713207
+GO:CC,GO:0098588,bounding membrane of organelle,0.0027428840812906683
+GO:MF,GO:0003674,molecular_function,2.0000117477255698e-24
+GO:MF,GO:0005488,binding,9.067405922196872e-18
+GO:MF,GO:0036094,small molecule binding,6.391394375836974e-16
+GO:MF,GO:0003824,catalytic activity,3.2133604309314595e-15
+GO:MF,GO:0043167,ion binding,5.189245743922715e-12
+GO:MF,GO:0043168,anion binding,8.184359335880611e-10
+GO:MF,GO:0005515,protein binding,1.0310308112882364e-09
+GO:MF,GO:1901363,heterocyclic compound binding,5.44322116034345e-09
+GO:MF,GO:1901265,nucleoside phosphate binding,5.592579424918241e-09
+GO:MF,GO:0000166,nucleotide binding,2.0512245501216716e-08
+GO:MF,GO:0097367,carbohydrate derivative binding,7.452563765541149e-07
+GO:MF,GO:0017076,purine nucleotide binding,1.176330887350623e-06
+GO:MF,GO:0016491,oxidoreductase activity,1.5858061272425504e-06
+GO:MF,GO:0032555,purine ribonucleotide binding,6.778331611996072e-06
+GO:MF,GO:0032553,ribonucleotide binding,7.987468994068951e-06
+GO:MF,GO:0035639,purine ribonucleoside triphosphate binding,1.4315987453657278e-05
+GO:MF,GO:0016717,"oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water",3.0706497167913785e-05
+GO:MF,GO:0030554,adenyl nucleotide binding,3.7032969842820264e-05
+GO:MF,GO:0032559,adenyl ribonucleotide binding,0.00020788367834174236
+GO:MF,GO:0016215,acyl-CoA desaturase activity,0.00022142356481208208
+KEGG,KEGG:01100,Metabolic pathways,2.6814652450105434e-26
+KEGG,KEGG:00100,Steroid biosynthesis,2.890505551616176e-20
+KEGG,KEGG:00000,KEGG root term,6.022430486326267e-16
+KEGG,KEGG:01212,Fatty acid metabolism,1.168501565627222e-13
+KEGG,KEGG:00900,Terpenoid backbone biosynthesis,3.080320935898768e-10
+KEGG,KEGG:01040,Biosynthesis of unsaturated fatty acids,1.368036437032919e-07
+KEGG,KEGG:00061,Fatty acid biosynthesis,9.569833513158015e-05
+KEGG,KEGG:03320,PPAR signaling pathway,0.0007649210664605918
+KEGG,KEGG:04979,Cholesterol metabolism,0.003872147514239544
+KEGG,KEGG:00650,Butanoate metabolism,0.009214609802828453
+KEGG,KEGG:04152,AMPK signaling pathway,0.01377612998311683
+KEGG,KEGG:00062,Fatty acid elongation,0.015723413590534464
+KEGG,KEGG:00630,Glyoxylate and dicarboxylate metabolism,0.022172324951704996
+KEGG,KEGG:01240,Biosynthesis of cofactors,0.03360066898189987

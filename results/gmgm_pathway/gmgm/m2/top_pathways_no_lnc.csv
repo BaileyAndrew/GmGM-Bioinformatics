@@ -1,0 +1,64 @@
+source,native,name,p_value
+GO:BP,GO:0003341,cilium movement,3.366334302214002e-118
+GO:BP,GO:0007018,microtubule-based movement,1.1352301729385528e-108
+GO:BP,GO:0044782,cilium organization,1.0724709180114137e-105
+GO:BP,GO:0007017,microtubule-based process,3.785547299908995e-102
+GO:BP,GO:0060271,cilium assembly,3.9089638898655097e-100
+GO:BP,GO:0030031,cell projection assembly,2.2476093352725089e-88
+GO:BP,GO:0120031,plasma membrane bounded cell projection assembly,3.3218333910730664e-88
+GO:BP,GO:0060285,cilium-dependent cell motility,3.523260579624181e-88
+GO:BP,GO:0001539,cilium or flagellum-dependent cell motility,3.523260579624181e-88
+GO:BP,GO:0035082,axoneme assembly,1.2520712994493774e-87
+GO:BP,GO:0060294,cilium movement involved in cell motility,4.117194939323245e-87
+GO:BP,GO:0001578,microtubule bundle formation,1.9847232532242387e-81
+GO:BP,GO:0097722,sperm motility,1.836776674119803e-72
+GO:BP,GO:0030317,flagellated sperm motility,1.836776674119803e-72
+GO:BP,GO:0030030,cell projection organization,2.33602707966676e-62
+GO:BP,GO:0070925,organelle assembly,2.716500620489559e-62
+GO:BP,GO:0120036,plasma membrane bounded cell projection organization,1.332480593586088e-55
+GO:BP,GO:0000226,microtubule cytoskeleton organization,6.699150805260223e-50
+GO:BP,GO:0044458,motile cilium assembly,1.2340979039106898e-42
+GO:BP,GO:0022414,reproductive process,4.7807891592920994e-39
+GO:CC,GO:0005929,cilium,1.5750304110157146e-169
+GO:CC,GO:0005930,axoneme,1.534841881434697e-126
+GO:CC,GO:0097014,ciliary plasm,3.168001392156543e-126
+GO:CC,GO:0031514,motile cilium,7.78719987680382e-124
+GO:CC,GO:0032838,plasma membrane bounded cell projection cytoplasm,2.5072039717321635e-107
+GO:CC,GO:0042995,cell projection,9.346749937069769e-104
+GO:CC,GO:0099568,cytoplasmic region,5.830873225657252e-103
+GO:CC,GO:0005856,cytoskeleton,1.8906000828644637e-102
+GO:CC,GO:0120025,plasma membrane bounded cell projection,8.573299001402046e-102
+GO:CC,GO:0097729,9+2 motile cilium,6.854241286040544e-93
+GO:CC,GO:0036126,sperm flagellum,9.999787004346881e-70
+GO:CC,GO:0015630,microtubule cytoskeleton,4.159298900524254e-67
+GO:CC,GO:0043232,intracellular membraneless organelle,2.208157171997439e-55
+GO:CC,GO:0043228,membraneless organelle,2.208157171997439e-55
+GO:CC,GO:0005879,axonemal microtubule,1.1104273992489412e-41
+GO:CC,GO:0005874,microtubule,1.7426601206866255e-41
+GO:CC,GO:0097545,axonemal doublet microtubule,8.661273920231442e-41
+GO:CC,GO:0099513,polymeric cytoskeletal fiber,1.046671883383902e-38
+GO:CC,GO:0160110,axonemal microtubule doublet inner sheath,6.461175545468926e-38
+GO:CC,GO:0110165,cellular anatomical structure,6.897701368727973e-37
+GO:MF,GO:0003674,molecular_function,1.7233794723767744e-37
+GO:MF,GO:0005488,binding,4.833340187598552e-34
+GO:MF,GO:0005515,protein binding,3.790698009553309e-28
+GO:MF,GO:0120544,polypeptide conformation or assembly isomerase activity,2.054003413868905e-15
+GO:MF,GO:0003774,cytoskeletal motor activity,8.351103424679744e-15
+GO:MF,GO:0015631,tubulin binding,1.7933796341026034e-14
+GO:MF,GO:0008569,minus-end-directed microtubule motor activity,5.15031932319537e-14
+GO:MF,GO:0003777,microtubule motor activity,8.223554118739229e-14
+GO:MF,GO:0051959,dynein light intermediate chain binding,1.6493490462653249e-12
+GO:MF,GO:0045505,dynein intermediate chain binding,2.579019366316494e-12
+GO:MF,GO:0008092,cytoskeletal protein binding,6.7808447769836005e-12
+GO:MF,GO:0008017,microtubule binding,9.652831538007288e-11
+GO:MF,GO:0120543,macromolecular conformation isomerase activity,2.3514800271198544e-07
+GO:MF,GO:0045504,dynein heavy chain binding,8.922656543198885e-07
+GO:MF,GO:0016853,isomerase activity,2.6733983014002517e-05
+GO:MF,GO:0045503,dynein light chain binding,4.579191479577384e-05
+GO:MF,GO:0004550,nucleoside diphosphate kinase activity,0.00013292302075319158
+GO:MF,GO:0004127,(d)CMP kinase activity,0.00036790737093205574
+GO:MF,GO:0016776,"phosphotransferase activity, phosphate group as acceptor",0.0007352451150808438
+GO:MF,GO:0019205,nucleobase-containing compound kinase activity,0.002062222643702263
+KEGG,KEGG:04814,Motor proteins,4.2270140145524247e-16
+KEGG,KEGG:05016,Huntington disease,0.005376607087757022
+KEGG,KEGG:05014,Amyotrophic lateral sclerosis,0.03064494117652527

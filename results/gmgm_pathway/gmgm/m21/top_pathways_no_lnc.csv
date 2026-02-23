@@ -1,0 +1,54 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,3.686207839832197e-21
+GO:BP,GO:0009987,cellular process,1.7907023688625015e-20
+GO:BP,GO:0044238,primary metabolic process,1.22637215444782e-15
+GO:BP,GO:0008152,metabolic process,3.547968834723606e-15
+GO:BP,GO:0009058,biosynthetic process,4.7742060849640416e-11
+GO:BP,GO:0043170,macromolecule metabolic process,6.567911162481626e-11
+GO:BP,GO:0050794,regulation of cellular process,6.762792082695602e-08
+GO:BP,GO:0050789,regulation of biological process,4.5816018181813715e-07
+GO:BP,GO:0009059,macromolecule biosynthetic process,9.679061102793705e-07
+GO:BP,GO:0065007,biological regulation,1.1383700384775275e-06
+GO:BP,GO:0048522,positive regulation of cellular process,1.2116470771762153e-05
+GO:BP,GO:0048518,positive regulation of biological process,7.797579078584174e-05
+GO:BP,GO:0019538,protein metabolic process,8.6128262521514e-05
+GO:BP,GO:0010467,gene expression,0.00011026608895494303
+GO:BP,GO:0019222,regulation of metabolic process,0.0001302905159851044
+GO:BP,GO:0034654,nucleobase-containing compound biosynthetic process,0.00013491245244405263
+GO:BP,GO:0080090,regulation of primary metabolic process,0.00014516397691726856
+GO:BP,GO:0060255,regulation of macromolecule metabolic process,0.00033853223939736657
+GO:BP,GO:0141187,nucleic acid biosynthetic process,0.0004142800023079843
+GO:BP,GO:0006139,nucleobase-containing compound metabolic process,0.0006673794820830289
+GO:CC,GO:0005575,cellular_component,2.0931094118163853e-20
+GO:CC,GO:0110165,cellular anatomical structure,8.834653741270786e-20
+GO:CC,GO:0005622,intracellular anatomical structure,1.8586346507530627e-18
+GO:CC,GO:0043226,organelle,2.027608346987555e-15
+GO:CC,GO:0043227,membrane-bounded organelle,6.80814305763368e-15
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,2.3652593769889358e-14
+GO:CC,GO:0043229,intracellular organelle,5.071333427140739e-14
+GO:CC,GO:0005737,cytoplasm,7.407002862240131e-12
+GO:CC,GO:1902494,catalytic complex,1.1277313920554065e-08
+GO:CC,GO:1990234,transferase complex,8.781915960768502e-08
+GO:CC,GO:0032991,protein-containing complex,4.919040056509812e-07
+GO:CC,GO:0005829,cytosol,0.00010060007086954055
+GO:CC,GO:0031974,membrane-enclosed lumen,0.00010860021807748123
+GO:CC,GO:0043233,organelle lumen,0.00010860021807748123
+GO:CC,GO:0070013,intracellular organelle lumen,0.00010860021807748123
+GO:CC,GO:0140535,intracellular protein-containing complex,0.0007702875445350678
+GO:CC,GO:0005634,nucleus,0.0008854277442221136
+GO:CC,GO:0140513,nuclear protein-containing complex,0.005140776034947847
+GO:CC,GO:0005760,gamma DNA polymerase complex,0.023931956232575328
+GO:CC,GO:0012505,endomembrane system,0.037025702878710744
+GO:MF,GO:0003674,molecular_function,1.2936956793981398e-21
+GO:MF,GO:0005488,binding,1.5233494923049116e-15
+GO:MF,GO:0005515,protein binding,5.706335090263926e-15
+GO:MF,GO:0003824,catalytic activity,4.2617603706717506e-10
+GO:MF,GO:0016740,transferase activity,1.1615557399298993e-08
+GO:MF,GO:0140096,"catalytic activity, acting on a protein",0.00013453618880112557
+GO:MF,GO:0008047,enzyme activator activity,0.015972342198025007
+GO:MF,GO:0030234,enzyme regulator activity,0.017014048595056105
+GO:MF,GO:0016772,"transferase activity, transferring phosphorus-containing groups",0.028761572546392007
+GO:MF,GO:0060090,molecular adaptor activity,0.03312241275085883
+GO:MF,GO:0036094,small molecule binding,0.03690116429909556
+KEGG,KEGG:00000,KEGG root term,1.961367833212031e-06
+KEGG,KEGG:01100,Metabolic pathways,0.0050140359909675225

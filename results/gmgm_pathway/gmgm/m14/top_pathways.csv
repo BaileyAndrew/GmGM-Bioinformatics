@@ -1,0 +1,14 @@
+source,native,name,p_value
+GO:BP,GO:0048731,system development,9.779995419716025e-05
+GO:BP,GO:0007275,multicellular organism development,0.0026444912050218737
+GO:BP,GO:0001501,skeletal system development,0.0034287300331354493
+GO:BP,GO:0007399,nervous system development,0.011730302473196884
+GO:BP,GO:0030154,cell differentiation,0.021379284820331985
+GO:BP,GO:0048869,cellular developmental process,0.021533081910846654
+GO:BP,GO:0048699,generation of neurons,0.036445535448483286
+GO:BP,GO:0030182,neuron differentiation,0.03809492669420935
+GO:BP,GO:0048667,cell morphogenesis involved in neuron differentiation,0.0383344778130184
+GO:BP,GO:0060429,epithelium development,0.04199591765064332
+KEGG,KEGG:04916,Melanogenesis,0.005439765573353587
+KEGG,KEGG:05144,Malaria,0.00988885586363816
+KEGG,KEGG:04912,GnRH signaling pathway,0.03467555584283156

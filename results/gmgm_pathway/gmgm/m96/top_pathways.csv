@@ -1,0 +1,15 @@
+source,native,name,p_value
+GO:BP,GO:0080090,regulation of primary metabolic process,0.032187195803239026
+GO:BP,GO:0060255,regulation of macromolecule metabolic process,0.03847612994231118
+GO:BP,GO:0043170,macromolecule metabolic process,0.039308403472567074
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,0.008227002811731322
+GO:CC,GO:0043226,organelle,0.01056003561517609
+GO:CC,GO:0043227,membrane-bounded organelle,0.012444770667629617
+GO:CC,GO:0043229,intracellular organelle,0.015362367835887472
+GO:CC,GO:0005622,intracellular anatomical structure,0.018689135524433062
+GO:CC,GO:0005634,nucleus,0.02310569505370016
+GO:CC,GO:1902494,catalytic complex,0.02591158486076344
+GO:CC,GO:1990234,transferase complex,0.039056941541453366
+GO:CC,GO:0005737,cytoplasm,0.04651242239854034
+KEGG,KEGG:03020,RNA polymerase,0.02122516382378448
+KEGG,KEGG:04140,Autophagy - animal,0.031653953084769336

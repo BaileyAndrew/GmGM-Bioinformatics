@@ -1,0 +1,9 @@
+source,native,name,p_value
+GO:CC,GO:0005575,cellular_component,0.0064457998124864075
+GO:CC,GO:0110165,cellular anatomical structure,0.00954582067592564
+GO:CC,GO:0045273,respiratory chain complex II (succinate dehydrogenase),0.03701789907232621
+GO:MF,GO:0003674,molecular_function,0.0013825623297002334
+GO:MF,GO:0005488,binding,0.031785675748523534
+GO:MF,GO:0008177,succinate dehydrogenase (quinone) activity,0.03690826621739702
+GO:MF,GO:0000104,succinate dehydrogenase activity,0.03690826621739702
+KEGG,KEGG:00020,Citrate cycle (TCA cycle),0.022172324951704996

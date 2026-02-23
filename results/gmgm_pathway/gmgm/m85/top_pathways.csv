@@ -1,0 +1,14 @@
+source,native,name,p_value
+GO:BP,GO:0043243,positive regulation of protein-containing complex disassembly,0.03466730476728051
+GO:CC,GO:0005622,intracellular anatomical structure,5.385662240279809e-05
+GO:CC,GO:0043229,intracellular organelle,0.0004302823584521005
+GO:CC,GO:0043226,organelle,0.0008834100426735203
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,0.002001163393243195
+GO:CC,GO:0043227,membrane-bounded organelle,0.004240140990782221
+GO:CC,GO:0005737,cytoplasm,0.005007989938107244
+GO:CC,GO:0110165,cellular anatomical structure,0.007630411322567477
+GO:CC,GO:0005575,cellular_component,0.011294271059114368
+GO:MF,GO:0005488,binding,0.013239070119625275
+GO:MF,GO:0003674,molecular_function,0.02887154098448504
+GO:MF,GO:0005515,protein binding,0.04415386348496499
+KEGG,KEGG:05166,Human T-cell leukemia virus 1 infection,0.021011724304007877

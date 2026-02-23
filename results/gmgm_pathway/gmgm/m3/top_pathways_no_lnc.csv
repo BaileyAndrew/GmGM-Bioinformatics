@@ -1,0 +1,81 @@
+source,native,name,p_value
+GO:BP,GO:0007399,nervous system development,1.0719510493082133e-42
+GO:BP,GO:0008150,biological_process,7.366935654454748e-42
+GO:BP,GO:0032501,multicellular organismal process,2.0831430690896718e-41
+GO:BP,GO:0048731,system development,1.1559452317354758e-38
+GO:BP,GO:0009987,cellular process,1.9669091183598606e-38
+GO:BP,GO:0007275,multicellular organism development,3.257813703678527e-34
+GO:BP,GO:0048666,neuron development,2.31736680930718e-33
+GO:BP,GO:0032502,developmental process,2.3972703065602504e-33
+GO:BP,GO:0048699,generation of neurons,7.814193885848894e-33
+GO:BP,GO:0031175,neuron projection development,5.451642186394315e-32
+GO:BP,GO:0048856,anatomical structure development,7.459964660378301e-32
+GO:BP,GO:0030182,neuron differentiation,1.798685319759761e-31
+GO:BP,GO:0022008,neurogenesis,8.966769607150544e-30
+GO:BP,GO:0065007,biological regulation,3.6677512175586773e-28
+GO:BP,GO:0099536,synaptic signaling,4.202587520555746e-28
+GO:BP,GO:0007268,chemical synaptic transmission,3.27451523608139e-27
+GO:BP,GO:0098916,anterograde trans-synaptic signaling,3.27451523608139e-27
+GO:BP,GO:0099537,trans-synaptic signaling,5.083297734147018e-27
+GO:BP,GO:0007267,cell-cell signaling,5.93146816680516e-27
+GO:BP,GO:0007154,cell communication,2.441761729761581e-25
+GO:CC,GO:0005575,cellular_component,2.2835578313084941e-54
+GO:CC,GO:0110165,cellular anatomical structure,2.7275572291439196e-54
+GO:CC,GO:0043005,neuron projection,8.457073148852288e-50
+GO:CC,GO:0045202,synapse,2.616511412370114e-45
+GO:CC,GO:0030424,axon,4.7692415523815755e-39
+GO:CC,GO:0042995,cell projection,1.2422375928925125e-38
+GO:CC,GO:0030054,cell junction,1.8765626727308088e-36
+GO:CC,GO:0120025,plasma membrane bounded cell projection,2.1630490432919843e-35
+GO:CC,GO:0016020,membrane,5.56288350389137e-35
+GO:CC,GO:0036477,somatodendritic compartment,5.852466950447514e-32
+GO:CC,GO:0071944,cell periphery,3.1581531331474124e-31
+GO:CC,GO:0005886,plasma membrane,8.58707518056572e-31
+GO:CC,GO:0097060,synaptic membrane,1.0132516376023747e-27
+GO:CC,GO:0098793,presynapse,1.5630221648020448e-27
+GO:CC,GO:0150034,distal axon,6.915022791733766e-24
+GO:CC,GO:0098794,postsynapse,3.800881828187377e-23
+GO:CC,GO:0097447,dendritic tree,4.2293519967872895e-23
+GO:CC,GO:0030425,dendrite,3.155581415215341e-22
+GO:CC,GO:0098590,plasma membrane region,1.0515122931159912e-21
+GO:CC,GO:0044297,cell body,1.1692774513445254e-21
+GO:MF,GO:0003674,molecular_function,2.997791648352415e-49
+GO:MF,GO:0005488,binding,4.792571177803019e-38
+GO:MF,GO:0005515,protein binding,9.071161794305098e-24
+GO:MF,GO:0005216,monoatomic ion channel activity,1.4511537335017986e-15
+GO:MF,GO:0022836,gated channel activity,4.628443861496143e-15
+GO:MF,GO:0015267,channel activity,2.429429987507165e-14
+GO:MF,GO:0022803,passive transmembrane transporter activity,2.429429987507165e-14
+GO:MF,GO:0005261,monoatomic cation channel activity,1.3840926668208244e-13
+GO:MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,1.9721073301017008e-13
+GO:MF,GO:0022857,transmembrane transporter activity,4.557922990057213e-13
+GO:MF,GO:0005215,transporter activity,7.858000383271505e-13
+GO:MF,GO:0015075,monoatomic ion transmembrane transporter activity,1.30205953576676e-12
+GO:MF,GO:0022890,inorganic cation transmembrane transporter activity,4.575499866388991e-12
+GO:MF,GO:0046873,metal ion transmembrane transporter activity,1.258096170938013e-11
+GO:MF,GO:0008324,monoatomic cation transmembrane transporter activity,2.3690076710272042e-11
+GO:MF,GO:0008092,cytoskeletal protein binding,3.822842367512465e-10
+GO:MF,GO:0022843,voltage-gated monoatomic cation channel activity,5.728032025842709e-10
+GO:MF,GO:0005244,voltage-gated monoatomic ion channel activity,1.0332130565035232e-08
+GO:MF,GO:0022832,voltage-gated channel activity,1.513005402263599e-08
+GO:MF,GO:0015085,calcium ion transmembrane transporter activity,2.8773770833473177e-08
+KEGG,KEGG:05033,Nicotine addiction,5.3741497163704537e-08
+KEGG,KEGG:04514,Cell adhesion molecules,1.1053195516552246e-06
+KEGG,KEGG:00000,KEGG root term,2.163082069366195e-06
+KEGG,KEGG:04723,Retrograde endocannabinoid signaling,2.202993207013865e-06
+KEGG,KEGG:04727,GABAergic synapse,8.212836342503784e-05
+KEGG,KEGG:04721,Synaptic vesicle cycle,0.00025521048111032304
+KEGG,KEGG:04260,Cardiac muscle contraction,0.0005111602667915821
+KEGG,KEGG:04724,Glutamatergic synapse,0.0007096147750128015
+KEGG,KEGG:04261,Adrenergic signaling in cardiomyocytes,0.0009106502132372986
+KEGG,KEGG:04713,Circadian entrainment,0.001446332734278497
+KEGG,KEGG:04728,Dopaminergic synapse,0.0021227772972856975
+KEGG,KEGG:04726,Serotonergic synapse,0.002856375277534612
+KEGG,KEGG:04911,Insulin secretion,0.003986806768861011
+KEGG,KEGG:05412,Arrhythmogenic right ventricular cardiomyopathy,0.00594853642322896
+KEGG,KEGG:05032,Morphine addiction,0.006926428594448533
+KEGG,KEGG:05410,Hypertrophic cardiomyopathy,0.010673023301414132
+KEGG,KEGG:05031,Amphetamine addiction,0.011937680331610492
+KEGG,KEGG:04080,Neuroactive ligand-receptor interaction,0.013579808669970748
+KEGG,KEGG:05414,Dilated cardiomyopathy,0.013979458872762453
+KEGG,KEGG:04148,Efferocytosis,0.040658977247352394

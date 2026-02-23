@@ -1,0 +1,81 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,6.424000201549063e-66
+GO:BP,GO:0009987,cellular process,2.4254251030578766e-59
+GO:BP,GO:0050789,regulation of biological process,3.0664149745277267e-40
+GO:BP,GO:0065007,biological regulation,3.4041168101660976e-39
+GO:BP,GO:0050794,regulation of cellular process,1.7865447490922549e-38
+GO:BP,GO:0032502,developmental process,2.7782420759578117e-33
+GO:BP,GO:0048856,anatomical structure development,1.6030135009603672e-32
+GO:BP,GO:0032501,multicellular organismal process,5.6337651818309024e-30
+GO:BP,GO:0008152,metabolic process,2.951650706182932e-29
+GO:BP,GO:0050896,response to stimulus,1.4189146393470688e-27
+GO:BP,GO:0007275,multicellular organism development,3.9514158558826445e-27
+GO:BP,GO:0048731,system development,8.958305093635884e-27
+GO:BP,GO:0044238,primary metabolic process,2.0854644245045286e-26
+GO:BP,GO:0048519,negative regulation of biological process,3.528827512127043e-25
+GO:BP,GO:0016043,cellular component organization,4.732148230018846e-25
+GO:BP,GO:0030154,cell differentiation,4.7533405566010644e-24
+GO:BP,GO:0048869,cellular developmental process,4.8724647525956055e-24
+GO:BP,GO:0048523,negative regulation of cellular process,5.1273828989930296e-24
+GO:BP,GO:0071840,cellular component organization or biogenesis,7.511750658542298e-24
+GO:BP,GO:0051716,cellular response to stimulus,1.047485020900098e-22
+GO:CC,GO:0110165,cellular anatomical structure,9.341712675354587e-66
+GO:CC,GO:0005575,cellular_component,1.1356049814136302e-64
+GO:CC,GO:0005622,intracellular anatomical structure,1.3755813217424312e-47
+GO:CC,GO:0043226,organelle,2.814479718785732e-41
+GO:CC,GO:0005737,cytoplasm,3.338324620302478e-36
+GO:CC,GO:0043229,intracellular organelle,2.5919510293501767e-34
+GO:CC,GO:0043227,membrane-bounded organelle,1.4226228455853808e-30
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,1.2926883450213936e-25
+GO:CC,GO:0016020,membrane,1.479015257257349e-21
+GO:CC,GO:0071944,cell periphery,5.757252437706537e-21
+GO:CC,GO:0005829,cytosol,1.9018688142131346e-16
+GO:CC,GO:0043228,membraneless organelle,4.749830684241006e-16
+GO:CC,GO:0043232,intracellular membraneless organelle,4.749830684241006e-16
+GO:CC,GO:0005886,plasma membrane,7.847321241726441e-15
+GO:CC,GO:0030054,cell junction,9.01821063002897e-14
+GO:CC,GO:0005634,nucleus,8.567758091142116e-10
+GO:CC,GO:0032991,protein-containing complex,1.2322969136664678e-09
+GO:CC,GO:0070161,anchoring junction,2.1655828758947803e-09
+GO:CC,GO:0012505,endomembrane system,3.92090492276492e-09
+GO:CC,GO:0031974,membrane-enclosed lumen,9.583797314449975e-09
+GO:MF,GO:0003674,molecular_function,2.9803752441817144e-63
+GO:MF,GO:0005488,binding,1.270996491629212e-53
+GO:MF,GO:0005515,protein binding,1.1776031760304613e-51
+GO:MF,GO:0036094,small molecule binding,4.9190427752560806e-20
+GO:MF,GO:0043167,ion binding,5.673833229884714e-18
+GO:MF,GO:0003824,catalytic activity,7.28510123100609e-18
+GO:MF,GO:0019838,growth factor binding,1.0405827826693152e-11
+GO:MF,GO:0097367,carbohydrate derivative binding,2.2484160532079538e-11
+GO:MF,GO:0016740,transferase activity,7.189751764044428e-10
+GO:MF,GO:0043169,cation binding,7.247580703390595e-10
+GO:MF,GO:0046872,metal ion binding,1.1910112189553994e-09
+GO:MF,GO:1901265,nucleoside phosphate binding,4.278557951644604e-08
+GO:MF,GO:0030554,adenyl nucleotide binding,4.5430019515338696e-08
+GO:MF,GO:1901363,heterocyclic compound binding,5.255225707609159e-08
+GO:MF,GO:0000166,nucleotide binding,8.420549661969296e-08
+GO:MF,GO:0017076,purine nucleotide binding,1.0375190647121026e-07
+GO:MF,GO:0140096,"catalytic activity, acting on a protein",4.225377391751225e-07
+GO:MF,GO:0016772,"transferase activity, transferring phosphorus-containing groups",6.067250049006625e-07
+GO:MF,GO:0050839,cell adhesion molecule binding,7.557936368661825e-07
+GO:MF,GO:0016301,kinase activity,8.496272201436541e-07
+KEGG,KEGG:00000,KEGG root term,3.3910273063605274e-19
+KEGG,KEGG:01100,Metabolic pathways,2.95685649689992e-07
+KEGG,KEGG:00100,Steroid biosynthesis,5.2615966611698574e-06
+KEGG,KEGG:00900,Terpenoid backbone biosynthesis,1.490054661301722e-05
+KEGG,KEGG:05205,Proteoglycans in cancer,8.781376138132841e-05
+KEGG,KEGG:05165,Human papillomavirus infection,0.00015274113121898963
+KEGG,KEGG:04151,PI3K-Akt signaling pathway,0.0002134519702115892
+KEGG,KEGG:04115,p53 signaling pathway,0.00032090949748714976
+KEGG,KEGG:01212,Fatty acid metabolism,0.0005416334846245731
+KEGG,KEGG:04510,Focal adhesion,0.0007162580696464599
+KEGG,KEGG:04512,ECM-receptor interaction,0.0010089102441683772
+KEGG,KEGG:01040,Biosynthesis of unsaturated fatty acids,0.0013843696837353052
+KEGG,KEGG:05222,Small cell lung cancer,0.00166976970389719
+KEGG,KEGG:04068,FoxO signaling pathway,0.01278960306975565
+KEGG,KEGG:04530,Tight junction,0.013428438663282779
+KEGG,KEGG:05206,MicroRNAs in cancer,0.016269463023980274
+KEGG,KEGG:04933,AGE-RAGE signaling pathway in diabetic complications,0.019378416382721714
+KEGG,KEGG:04120,Ubiquitin mediated proteolysis,0.029910495331391635
+KEGG,KEGG:04066,HIF-1 signaling pathway,0.03153881099854403
+KEGG,KEGG:04810,Regulation of actin cytoskeleton,0.032868976987149884

@@ -1,0 +1,46 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,4.3026353442235387e-08
+GO:BP,GO:0009987,cellular process,1.0739801431912584e-06
+GO:BP,GO:0009058,biosynthetic process,3.0133686920958098e-06
+GO:BP,GO:0044238,primary metabolic process,5.493979045912525e-06
+GO:BP,GO:0008152,metabolic process,1.3624562511470955e-05
+GO:BP,GO:0009059,macromolecule biosynthetic process,0.000165474507736922
+GO:BP,GO:0034654,nucleobase-containing compound biosynthetic process,0.0009835613652172748
+GO:BP,GO:0032774,RNA biosynthetic process,0.0012874924299496448
+GO:BP,GO:0006139,nucleobase-containing compound metabolic process,0.002223469930197216
+GO:BP,GO:0141187,nucleic acid biosynthetic process,0.002303923797905581
+GO:BP,GO:0010467,gene expression,0.002435502726664246
+GO:BP,GO:0016070,RNA metabolic process,0.0034585899168140684
+GO:BP,GO:0006351,DNA-templated transcription,0.004336214504320476
+GO:BP,GO:0090304,nucleic acid metabolic process,0.005256678642642589
+GO:BP,GO:0043170,macromolecule metabolic process,0.006213339660873945
+GO:BP,GO:0006355,regulation of DNA-templated transcription,0.023665164474830972
+GO:BP,GO:2001141,regulation of RNA biosynthetic process,0.025708324718329723
+GO:CC,GO:0005622,intracellular anatomical structure,3.9590226792775875e-13
+GO:CC,GO:0005575,cellular_component,1.5198475501246375e-12
+GO:CC,GO:0110165,cellular anatomical structure,6.835540503755165e-11
+GO:CC,GO:0043226,organelle,1.3495704032766448e-10
+GO:CC,GO:0043229,intracellular organelle,8.843337963203848e-10
+GO:CC,GO:0043227,membrane-bounded organelle,1.4294354710940466e-08
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,2.1658979129710905e-08
+GO:CC,GO:0031974,membrane-enclosed lumen,6.801822138141044e-06
+GO:CC,GO:0070013,intracellular organelle lumen,6.801822138141044e-06
+GO:CC,GO:0043233,organelle lumen,6.801822138141044e-06
+GO:CC,GO:0005737,cytoplasm,7.197789685296897e-06
+GO:CC,GO:0031981,nuclear lumen,0.00014418174312416546
+GO:CC,GO:0005634,nucleus,0.0006037402704221381
+GO:CC,GO:0005654,nucleoplasm,0.001927582691697493
+GO:CC,GO:0005730,nucleolus,0.005450326028416807
+GO:CC,GO:0043228,membraneless organelle,0.045088077770114136
+GO:CC,GO:0043232,intracellular membraneless organelle,0.045088077770114136
+GO:CC,GO:0140513,nuclear protein-containing complex,0.04584278580871354
+GO:MF,GO:0003674,molecular_function,1.5122708145461805e-12
+GO:MF,GO:0005488,binding,9.532667879288866e-12
+GO:MF,GO:0005515,protein binding,1.3805486801487279e-08
+GO:MF,GO:0003824,catalytic activity,0.01432128748044274
+GO:MF,GO:0008483,transaminase activity,0.019701146376027035
+GO:MF,GO:0036094,small molecule binding,0.019897187862977304
+GO:MF,GO:0043167,ion binding,0.02797916883042675
+GO:MF,GO:0016769,"transferase activity, transferring nitrogenous groups",0.033761186348654326
+KEGG,KEGG:00000,KEGG root term,0.0003700948512992974
+KEGG,KEGG:00270,Cysteine and methionine metabolism,0.027942611622104034

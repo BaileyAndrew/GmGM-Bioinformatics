@@ -1,0 +1,68 @@
+source,native,name,p_value
+GO:BP,GO:0022402,cell cycle process,2.581221157555844e-89
+GO:BP,GO:0007049,cell cycle,6.1169313168707836e-86
+GO:BP,GO:1903047,mitotic cell cycle process,2.730057446108441e-85
+GO:BP,GO:0000278,mitotic cell cycle,3.5785042362073995e-84
+GO:BP,GO:0007059,chromosome segregation,3.5586566363505835e-82
+GO:BP,GO:0051301,cell division,3.3486318005435796e-79
+GO:BP,GO:0000280,nuclear division,6.151425044494983e-78
+GO:BP,GO:0140014,mitotic nuclear division,2.1791552528464968e-76
+GO:BP,GO:0048285,organelle fission,1.5039614399123284e-75
+GO:BP,GO:0098813,nuclear chromosome segregation,1.1951421214289564e-73
+GO:BP,GO:0000070,mitotic sister chromatid segregation,3.8155395076402247e-69
+GO:BP,GO:0000819,sister chromatid segregation,1.2977961255690358e-68
+GO:BP,GO:0051276,chromosome organization,1.0919361340136073e-64
+GO:BP,GO:0006996,organelle organization,1.1268108513972608e-57
+GO:BP,GO:0010564,regulation of cell cycle process,7.439767359532872e-55
+GO:BP,GO:0051726,regulation of cell cycle,8.619516949845221e-52
+GO:BP,GO:1902850,microtubule cytoskeleton organization involved in mitosis,2.1832866024057643e-50
+GO:BP,GO:0000226,microtubule cytoskeleton organization,6.901009159594575e-49
+GO:BP,GO:0009987,cellular process,7.564930930089292e-49
+GO:BP,GO:0008150,biological_process,2.405347032092145e-48
+GO:CC,GO:0005819,spindle,2.226190988958573e-64
+GO:CC,GO:0015630,microtubule cytoskeleton,1.0038737603288441e-63
+GO:CC,GO:0043232,intracellular membraneless organelle,1.7293985229591613e-62
+GO:CC,GO:0043228,membraneless organelle,1.7293985229591613e-62
+GO:CC,GO:0005622,intracellular anatomical structure,6.74110946326086e-57
+GO:CC,GO:0005856,cytoskeleton,9.971456922209185e-55
+GO:CC,GO:0043229,intracellular organelle,9.430798002904719e-54
+GO:CC,GO:0005575,cellular_component,1.2026736520128788e-53
+GO:CC,GO:0110165,cellular anatomical structure,8.59168425725916e-52
+GO:CC,GO:0043226,organelle,1.086782271503172e-49
+GO:CC,GO:0005813,centrosome,9.670322191390081e-48
+GO:CC,GO:0000793,condensed chromosome,5.8580869902109096e-46
+GO:CC,GO:0005815,microtubule organizing center,8.274826240100071e-45
+GO:CC,GO:0000775,"chromosome, centromeric region",9.361315141569792e-45
+GO:CC,GO:0000779,"condensed chromosome, centromeric region",5.613778613513859e-43
+GO:CC,GO:0005737,cytoplasm,6.910998825697534e-43
+GO:CC,GO:0098687,chromosomal region,4.28076272278836e-42
+GO:CC,GO:0072686,mitotic spindle,6.863154283313527e-39
+GO:CC,GO:0005634,nucleus,1.2671982693000184e-38
+GO:CC,GO:0000776,kinetochore,4.2990145255035577e-38
+GO:MF,GO:0003674,molecular_function,5.487945198009869e-48
+GO:MF,GO:0005488,binding,7.511125028238521e-46
+GO:MF,GO:0005515,protein binding,4.697698694439258e-43
+GO:MF,GO:0008017,microtubule binding,6.6384827951562305e-31
+GO:MF,GO:0015631,tubulin binding,6.503699157735787e-30
+GO:MF,GO:0008092,cytoskeletal protein binding,9.655613639552788e-20
+GO:MF,GO:0003824,catalytic activity,6.144589784250643e-14
+GO:MF,GO:0003777,microtubule motor activity,4.2955421319212416e-11
+GO:MF,GO:0032559,adenyl ribonucleotide binding,7.345709570667537e-10
+GO:MF,GO:0005524,ATP binding,1.0993133328499244e-09
+GO:MF,GO:0003774,cytoskeletal motor activity,1.5482170822352222e-09
+GO:MF,GO:0030554,adenyl nucleotide binding,1.5866651596373529e-09
+GO:MF,GO:0032555,purine ribonucleotide binding,3.1880443374463284e-09
+GO:MF,GO:0120544,polypeptide conformation or assembly isomerase activity,3.7126518451329207e-09
+GO:MF,GO:0032553,ribonucleotide binding,4.220036245878122e-09
+GO:MF,GO:0017076,purine nucleotide binding,5.457534353947627e-09
+GO:MF,GO:1901265,nucleoside phosphate binding,1.0402238655329179e-08
+GO:MF,GO:0035639,purine ribonucleoside triphosphate binding,1.1732699180072794e-08
+GO:MF,GO:0004674,protein serine/threonine kinase activity,1.4403212838151044e-08
+GO:MF,GO:0000166,nucleotide binding,2.3908504156322045e-08
+KEGG,KEGG:04110,Cell cycle,2.957440038961341e-28
+KEGG,KEGG:04914,Progesterone-mediated oocyte maturation,3.162326681727753e-11
+KEGG,KEGG:04114,Oocyte meiosis,5.772684902880838e-11
+KEGG,KEGG:04814,Motor proteins,1.8735928158013395e-10
+KEGG,KEGG:00000,KEGG root term,1.8053732987663052e-06
+KEGG,KEGG:05166,Human T-cell leukemia virus 1 infection,6.99007035317151e-05
+KEGG,KEGG:04120,Ubiquitin mediated proteolysis,0.03544087216673575

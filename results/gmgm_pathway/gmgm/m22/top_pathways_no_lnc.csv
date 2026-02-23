@@ -1,0 +1,47 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,2.3000627819594743e-21
+GO:BP,GO:0009987,cellular process,8.148943802532544e-20
+GO:BP,GO:0008152,metabolic process,9.292559216786358e-15
+GO:BP,GO:0044238,primary metabolic process,4.1993300866117736e-11
+GO:BP,GO:0043170,macromolecule metabolic process,9.44632799725433e-10
+GO:BP,GO:0009058,biosynthetic process,6.214454241120663e-08
+GO:BP,GO:0065007,biological regulation,1.2567783759239692e-05
+GO:BP,GO:0006139,nucleobase-containing compound metabolic process,4.3851038392612986e-05
+GO:BP,GO:0010467,gene expression,5.937657064922134e-05
+GO:BP,GO:0019222,regulation of metabolic process,7.057390982554378e-05
+GO:BP,GO:0009059,macromolecule biosynthetic process,0.00010476056174753779
+GO:BP,GO:0034654,nucleobase-containing compound biosynthetic process,0.00014844565882085888
+GO:BP,GO:0050794,regulation of cellular process,0.0002778730231534771
+GO:BP,GO:0009889,regulation of biosynthetic process,0.00033104328892552787
+GO:BP,GO:0050789,regulation of biological process,0.0005488020908526377
+GO:BP,GO:0060255,regulation of macromolecule metabolic process,0.001118295135908733
+GO:BP,GO:0010468,regulation of gene expression,0.001169037844895672
+GO:BP,GO:0080090,regulation of primary metabolic process,0.0012299506071876275
+GO:BP,GO:0016043,cellular component organization,0.0017920915260943456
+GO:BP,GO:0050896,response to stimulus,0.0019216685574845462
+GO:CC,GO:0005575,cellular_component,1.5813369045728397e-21
+GO:CC,GO:0110165,cellular anatomical structure,6.552178572377089e-20
+GO:CC,GO:0005622,intracellular anatomical structure,7.030824744858032e-16
+GO:CC,GO:0043226,organelle,2.5538652148577224e-13
+GO:CC,GO:0043227,membrane-bounded organelle,5.728730058973328e-13
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,5.004574872925596e-12
+GO:CC,GO:0043229,intracellular organelle,1.856655231051051e-10
+GO:CC,GO:0005634,nucleus,1.2668085354369254e-08
+GO:CC,GO:0005737,cytoplasm,6.162707773232673e-07
+GO:CC,GO:0005829,cytosol,4.926524298291681e-05
+GO:CC,GO:0097196,Shu complex,0.008361016489145797
+GO:CC,GO:0016020,membrane,0.016672373123408343
+GO:CC,GO:0070013,intracellular organelle lumen,0.04935362910917885
+GO:CC,GO:0031974,membrane-enclosed lumen,0.04935362910917885
+GO:CC,GO:0043233,organelle lumen,0.04935362910917885
+GO:MF,GO:0003674,molecular_function,3.921393298055391e-25
+GO:MF,GO:0005488,binding,4.599515905675841e-23
+GO:MF,GO:0005515,protein binding,1.648998491874923e-15
+GO:MF,GO:0036094,small molecule binding,7.069017340483991e-06
+GO:MF,GO:0043167,ion binding,1.858104558141617e-05
+GO:MF,GO:0003824,catalytic activity,0.0008401756477909642
+GO:MF,GO:0046872,metal ion binding,0.0018019160161721502
+GO:MF,GO:0043169,cation binding,0.0031142278245205467
+GO:MF,GO:0030332,cyclin binding,0.017036808704504042
+KEGG,KEGG:00000,KEGG root term,0.00014285702876396775
+KEGG,KEGG:00230,Purine metabolism,0.02979629433055369

@@ -1,0 +1,66 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,8.327734026729427e-13
+GO:BP,GO:0009987,cellular process,5.624286727618075e-11
+GO:BP,GO:0065007,biological regulation,5.345369025182542e-08
+GO:BP,GO:0050789,regulation of biological process,1.5180189699812064e-07
+GO:BP,GO:0050794,regulation of cellular process,4.6482052322189086e-07
+GO:BP,GO:0008152,metabolic process,4.161032872657907e-06
+GO:BP,GO:0009889,regulation of biosynthetic process,5.001502368922429e-06
+GO:BP,GO:0019222,regulation of metabolic process,6.692449486765594e-06
+GO:BP,GO:0071840,cellular component organization or biogenesis,4.66543712328372e-05
+GO:BP,GO:0009058,biosynthetic process,5.150625966324033e-05
+GO:BP,GO:0016043,cellular component organization,5.393978523119576e-05
+GO:BP,GO:0010556,regulation of macromolecule biosynthetic process,9.298988598486987e-05
+GO:BP,GO:0044238,primary metabolic process,0.00014738477728029812
+GO:BP,GO:0006139,nucleobase-containing compound metabolic process,0.00016467057033853877
+GO:BP,GO:0010468,regulation of gene expression,0.00017410178241521776
+GO:BP,GO:0048519,negative regulation of biological process,0.0004779839372116176
+GO:BP,GO:0009059,macromolecule biosynthetic process,0.0005120913729345708
+GO:BP,GO:0034654,nucleobase-containing compound biosynthetic process,0.0005505773861246493
+GO:BP,GO:0048523,negative regulation of cellular process,0.0006332880135480614
+GO:BP,GO:0080090,regulation of primary metabolic process,0.0006680856564778516
+GO:CC,GO:0110165,cellular anatomical structure,1.3021973420394714e-17
+GO:CC,GO:0005575,cellular_component,2.5647624130688053e-17
+GO:CC,GO:0005622,intracellular anatomical structure,1.2659051222213611e-15
+GO:CC,GO:0005737,cytoplasm,1.4770124408043422e-12
+GO:CC,GO:0043229,intracellular organelle,4.288060126348262e-12
+GO:CC,GO:0043226,organelle,2.2888978854139656e-11
+GO:CC,GO:0043227,membrane-bounded organelle,3.7557488925231e-08
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,4.165149059118699e-08
+GO:CC,GO:0043233,organelle lumen,1.7651744893559425e-06
+GO:CC,GO:0070013,intracellular organelle lumen,1.7651744893559425e-06
+GO:CC,GO:0031974,membrane-enclosed lumen,1.7651744893559425e-06
+GO:CC,GO:0005634,nucleus,3.0986337523399883e-06
+GO:CC,GO:0031981,nuclear lumen,2.64280493517275e-05
+GO:CC,GO:0043232,intracellular membraneless organelle,0.0001939385865776022
+GO:CC,GO:0043228,membraneless organelle,0.0001939385865776022
+GO:CC,GO:0005654,nucleoplasm,0.0003279249311222481
+GO:CC,GO:0005884,actin filament,0.0008006530580596463
+GO:CC,GO:0031982,vesicle,0.001026071182545843
+GO:CC,GO:0005829,cytosol,0.0010780806496269685
+GO:CC,GO:0140513,nuclear protein-containing complex,0.0015165591265922072
+GO:MF,GO:0005515,protein binding,6.365199781723339e-17
+GO:MF,GO:0005488,binding,3.784361254526347e-14
+GO:MF,GO:0003674,molecular_function,6.493854848188695e-14
+GO:MF,GO:0003676,nucleic acid binding,0.0001292437831985707
+GO:MF,GO:0019208,phosphatase regulator activity,0.0006950029544555826
+GO:MF,GO:0019899,enzyme binding,0.0008743760586318597
+GO:MF,GO:0042578,phosphoric ester hydrolase activity,0.001522250620410193
+GO:MF,GO:0016791,phosphatase activity,0.0018496973076099078
+GO:MF,GO:0036094,small molecule binding,0.002252451574183401
+GO:MF,GO:0043167,ion binding,0.0030820637537230756
+GO:MF,GO:0016787,hydrolase activity,0.004105634871303159
+GO:MF,GO:0002134,UTP binding,0.0054959862571191676
+GO:MF,GO:0098772,molecular function regulator activity,0.006602181576726137
+GO:MF,GO:0019888,protein phosphatase regulator activity,0.0069564681891306065
+GO:MF,GO:0140678,molecular function inhibitor activity,0.008459209514520965
+GO:MF,GO:0003824,catalytic activity,0.011726864211116439
+GO:MF,GO:0004721,phosphoprotein phosphatase activity,0.012849094104856082
+GO:MF,GO:0032557,pyrimidine ribonucleotide binding,0.016451906942455245
+GO:MF,GO:0003785,actin monomer binding,0.0392985350008364
+GO:MF,GO:0019903,protein phosphatase binding,0.04781939263338327
+KEGG,KEGG:00000,KEGG root term,0.0028272860422597678
+KEGG,KEGG:05132,Salmonella infection,0.00950605211370043
+KEGG,KEGG:03082,ATP-dependent chromatin remodeling,0.035033177249902285
+KEGG,KEGG:04510,Focal adhesion,0.038322840207007415
+KEGG,KEGG:04015,Rap1 signaling pathway,0.04195388247341826

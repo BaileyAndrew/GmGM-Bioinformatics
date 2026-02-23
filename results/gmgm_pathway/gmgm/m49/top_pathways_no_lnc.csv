@@ -1,0 +1,47 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,5.7799281773241234e-15
+GO:BP,GO:0009987,cellular process,3.4202811242472845e-11
+GO:BP,GO:0006508,proteolysis,0.00011483385043276863
+GO:BP,GO:0044238,primary metabolic process,0.00029709149075487037
+GO:BP,GO:0008152,metabolic process,0.00031374369882072466
+GO:BP,GO:0071705,nitrogen compound transport,0.001323432109114679
+GO:BP,GO:0065007,biological regulation,0.004675101995991725
+GO:BP,GO:0030163,protein catabolic process,0.010063757084335028
+GO:BP,GO:0051603,proteolysis involved in protein catabolic process,0.010135627934502652
+GO:BP,GO:0050794,regulation of cellular process,0.010151652329622445
+GO:BP,GO:0015031,protein transport,0.012953251331039098
+GO:BP,GO:0043170,macromolecule metabolic process,0.014111476477695901
+GO:BP,GO:0070647,protein modification by small protein conjugation or removal,0.01446282474558065
+GO:BP,GO:0045184,establishment of protein localization,0.01807236345162054
+GO:BP,GO:0051179,localization,0.02468316177762092
+GO:BP,GO:0009056,catabolic process,0.025386717552292565
+GO:BP,GO:0043687,post-translational protein modification,0.028330774931137476
+GO:BP,GO:0050789,regulation of biological process,0.03479250206380983
+GO:BP,GO:0019538,protein metabolic process,0.03731022824433205
+GO:BP,GO:0051234,establishment of localization,0.0459309402951661
+GO:CC,GO:0110165,cellular anatomical structure,4.575672729625158e-20
+GO:CC,GO:0005575,cellular_component,1.0434978709335371e-19
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,9.460249416650214e-18
+GO:CC,GO:0043227,membrane-bounded organelle,1.4167188511199475e-16
+GO:CC,GO:0005622,intracellular anatomical structure,2.274210822123268e-16
+GO:CC,GO:0043229,intracellular organelle,1.3283068687044258e-15
+GO:CC,GO:0043226,organelle,3.1132193588578567e-15
+GO:CC,GO:0005737,cytoplasm,1.3385245435032886e-14
+GO:CC,GO:0070013,intracellular organelle lumen,1.1561092731924707e-05
+GO:CC,GO:0043233,organelle lumen,1.1561092731924707e-05
+GO:CC,GO:0031974,membrane-enclosed lumen,1.1561092731924707e-05
+GO:CC,GO:0012505,endomembrane system,1.369917133490305e-05
+GO:CC,GO:0005634,nucleus,4.092920187720093e-05
+GO:CC,GO:1990234,transferase complex,0.0002511954842797766
+GO:CC,GO:0005829,cytosol,0.000306342338587523
+GO:CC,GO:0032991,protein-containing complex,0.0005646832605664886
+GO:CC,GO:0016020,membrane,0.0008022039314051968
+GO:CC,GO:0005654,nucleoplasm,0.0017013774384858828
+GO:CC,GO:1902494,catalytic complex,0.002852800869577068
+GO:CC,GO:0140240,perforant pathway to dendrate granule cell synapse,0.005019544902165368
+GO:MF,GO:0003674,molecular_function,4.379929019386614e-21
+GO:MF,GO:0005488,binding,1.2404687359317302e-20
+GO:MF,GO:0005515,protein binding,9.710903065854353e-17
+GO:MF,GO:0042802,identical protein binding,0.004983284239168974
+KEGG,KEGG:00000,KEGG root term,0.00018068379839704542
+KEGG,KEGG:04120,Ubiquitin mediated proteolysis,0.024450607780044174

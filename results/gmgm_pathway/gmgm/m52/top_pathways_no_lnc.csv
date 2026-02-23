@@ -1,0 +1,33 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,1.9703251814748943e-13
+GO:BP,GO:0009987,cellular process,7.0600485287905115e-12
+GO:BP,GO:0065007,biological regulation,6.314963028498042e-05
+GO:BP,GO:0050789,regulation of biological process,0.0008486448684292216
+GO:BP,GO:0008152,metabolic process,0.003972407853154165
+GO:BP,GO:0050794,regulation of cellular process,0.004020552473154449
+GO:BP,GO:0009056,catabolic process,0.03557282732398663
+GO:CC,GO:0110165,cellular anatomical structure,2.177239657799885e-16
+GO:CC,GO:0005575,cellular_component,4.489012924400552e-16
+GO:CC,GO:0005622,intracellular anatomical structure,5.573829078671011e-16
+GO:CC,GO:0005737,cytoplasm,1.2280713236206984e-15
+GO:CC,GO:0043229,intracellular organelle,1.604855010656946e-12
+GO:CC,GO:0043226,organelle,6.411149327293026e-11
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,1.218167376253992e-09
+GO:CC,GO:0043227,membrane-bounded organelle,3.026036792429203e-08
+GO:CC,GO:0031090,organelle membrane,5.193263887838329e-08
+GO:CC,GO:0012505,endomembrane system,2.0783436880696745e-06
+GO:CC,GO:0098588,bounding membrane of organelle,7.612965799251241e-06
+GO:CC,GO:0016020,membrane,1.3355771403110866e-05
+GO:CC,GO:0005829,cytosol,0.00013978644595922618
+GO:CC,GO:0031410,cytoplasmic vesicle,0.006237708710113736
+GO:CC,GO:0097708,intracellular vesicle,0.006502941250862951
+GO:CC,GO:0005794,Golgi apparatus,0.008597906607131814
+GO:CC,GO:0031984,organelle subcompartment,0.013549038817255261
+GO:CC,GO:0005789,endoplasmic reticulum membrane,0.03931551744085093
+GO:CC,GO:0098827,endoplasmic reticulum subcompartment,0.041546843168105106
+GO:CC,GO:0042175,nuclear outer membrane-endoplasmic reticulum membrane network,0.04935503407185267
+GO:MF,GO:0003674,molecular_function,5.3137453542633745e-21
+GO:MF,GO:0005488,binding,3.8776835140523575e-13
+GO:MF,GO:0005515,protein binding,5.184041933963598e-13
+GO:MF,GO:0003824,catalytic activity,0.0013570773046145234
+KEGG,KEGG:00000,KEGG root term,0.0013265378374773063

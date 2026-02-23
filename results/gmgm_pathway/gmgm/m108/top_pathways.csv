@@ -1,0 +1,23 @@
+source,native,name,p_value
+GO:BP,GO:0090304,nucleic acid metabolic process,0.00305137509387753
+GO:BP,GO:0009987,cellular process,0.0037322821908376174
+GO:BP,GO:0006139,nucleobase-containing compound metabolic process,0.004105999390098641
+GO:BP,GO:0008150,biological_process,0.0043462959696831446
+GO:BP,GO:0044238,primary metabolic process,0.004407153474437189
+GO:BP,GO:0034654,nucleobase-containing compound biosynthetic process,0.005456752978044015
+GO:BP,GO:0141187,nucleic acid biosynthetic process,0.012048211476784863
+GO:BP,GO:0043170,macromolecule metabolic process,0.013550029098647201
+GO:BP,GO:0044085,cellular component biogenesis,0.014372988389691112
+GO:BP,GO:0032774,RNA biosynthetic process,0.0210964026436728
+GO:BP,GO:0008152,metabolic process,0.025191838976722638
+GO:CC,GO:0043227,membrane-bounded organelle,0.0011290985484784563
+GO:CC,GO:0043226,organelle,0.0015324469350228654
+GO:CC,GO:0005575,cellular_component,0.007197645633411743
+GO:CC,GO:0031974,membrane-enclosed lumen,0.010219585829604645
+GO:CC,GO:0070013,intracellular organelle lumen,0.010219585829604645
+GO:CC,GO:0043233,organelle lumen,0.010219585829604645
+GO:CC,GO:0005622,intracellular anatomical structure,0.01255573623508057
+GO:CC,GO:0110165,cellular anatomical structure,0.01343062814105628
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,0.019105269818467916
+GO:CC,GO:0043229,intracellular organelle,0.021776538272187358
+GO:CC,GO:0031981,nuclear lumen,0.049814374971444114

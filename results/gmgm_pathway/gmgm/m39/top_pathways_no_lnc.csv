@@ -1,0 +1,48 @@
+source,native,name,p_value
+GO:BP,GO:0009987,cellular process,4.483594372137614e-13
+GO:BP,GO:0008150,biological_process,5.587111147148334e-13
+GO:BP,GO:0008152,metabolic process,2.367259287787302e-12
+GO:BP,GO:0044238,primary metabolic process,5.281976500315502e-10
+GO:BP,GO:0043170,macromolecule metabolic process,7.124089333824113e-08
+GO:BP,GO:0009058,biosynthetic process,0.00013698388221933838
+GO:BP,GO:0009059,macromolecule biosynthetic process,0.00023721219044820554
+GO:BP,GO:0071840,cellular component organization or biogenesis,0.0002448544578390938
+GO:BP,GO:0065007,biological regulation,0.0005192846710971472
+GO:BP,GO:0050794,regulation of cellular process,0.0006511996579100364
+GO:BP,GO:0010467,gene expression,0.0007162818904340708
+GO:BP,GO:0019222,regulation of metabolic process,0.0008226097122754674
+GO:BP,GO:0019538,protein metabolic process,0.001605916939388272
+GO:BP,GO:0016043,cellular component organization,0.002002792161143089
+GO:BP,GO:0050789,regulation of biological process,0.002386975276776802
+GO:BP,GO:0080090,regulation of primary metabolic process,0.0034826332880830264
+GO:BP,GO:0060255,regulation of macromolecule metabolic process,0.011680114515582063
+GO:BP,GO:0009889,regulation of biosynthetic process,0.02516149997895823
+GO:CC,GO:0110165,cellular anatomical structure,5.92596648579464e-15
+GO:CC,GO:0005575,cellular_component,1.1829946502767132e-14
+GO:CC,GO:0005622,intracellular anatomical structure,2.861440287861173e-12
+GO:CC,GO:0043226,organelle,4.021660492813162e-11
+GO:CC,GO:0043227,membrane-bounded organelle,6.036176430081008e-09
+GO:CC,GO:0043229,intracellular organelle,8.456242309883707e-09
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,5.325412581452487e-08
+GO:CC,GO:0005737,cytoplasm,2.5177480730506993e-07
+GO:CC,GO:0016020,membrane,5.271557290180099e-07
+GO:CC,GO:0005829,cytosol,0.0006105149840372341
+GO:CC,GO:0031984,organelle subcompartment,0.0006599949297468957
+GO:CC,GO:0032991,protein-containing complex,0.00256484035055389
+GO:CC,GO:0098791,Golgi apparatus subcompartment,0.003939751779930764
+GO:CC,GO:0031090,organelle membrane,0.005576930565359382
+GO:CC,GO:0012505,endomembrane system,0.007511541672146747
+GO:CC,GO:0005634,nucleus,0.007645526024281139
+GO:CC,GO:0031967,organelle envelope,0.00773648844302459
+GO:CC,GO:0140535,intracellular protein-containing complex,0.012817052986643498
+GO:CC,GO:0005794,Golgi apparatus,0.02234793272425108
+GO:CC,GO:1990234,transferase complex,0.03576628565545437
+GO:MF,GO:0003674,molecular_function,9.151905017436645e-14
+GO:MF,GO:0005488,binding,5.556291855704453e-09
+GO:MF,GO:0005515,protein binding,3.427748227926577e-06
+GO:MF,GO:0043167,ion binding,5.1096079148610795e-05
+GO:MF,GO:0003824,catalytic activity,9.785788402994378e-05
+GO:MF,GO:0036094,small molecule binding,0.00012010461831239038
+GO:MF,GO:0046872,metal ion binding,0.000796343502994788
+GO:MF,GO:0043169,cation binding,0.0013086975446942577
+KEGG,KEGG:00000,KEGG root term,0.009470683989305277

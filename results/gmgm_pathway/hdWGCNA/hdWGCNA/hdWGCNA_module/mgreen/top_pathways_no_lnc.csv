@@ -1,0 +1,71 @@
+source,native,name,p_value
+GO:BP,GO:0022402,cell cycle process,2.0479785581786173e-122
+GO:BP,GO:0007049,cell cycle,3.997833452039497e-114
+GO:BP,GO:0000278,mitotic cell cycle,3.450618107569984e-106
+GO:BP,GO:1903047,mitotic cell cycle process,5.441104679023475e-106
+GO:BP,GO:0007059,chromosome segregation,3.1704361131534186e-103
+GO:BP,GO:0000280,nuclear division,1.6115005341724706e-93
+GO:BP,GO:0048285,organelle fission,2.96743554535926e-89
+GO:BP,GO:0051301,cell division,1.1465890485364876e-82
+GO:BP,GO:0098813,nuclear chromosome segregation,2.3803624058407992e-82
+GO:BP,GO:0051276,chromosome organization,6.529882568103517e-82
+GO:BP,GO:0140014,mitotic nuclear division,9.678982690679666e-82
+GO:BP,GO:0000070,mitotic sister chromatid segregation,5.9830513560142204e-74
+GO:BP,GO:0000819,sister chromatid segregation,1.673201261719657e-73
+GO:BP,GO:0006996,organelle organization,3.6535228911119194e-72
+GO:BP,GO:0010564,regulation of cell cycle process,3.8950062599094645e-72
+GO:BP,GO:0051726,regulation of cell cycle,2.616563275308247e-63
+GO:BP,GO:0000226,microtubule cytoskeleton organization,4.0125525982843913e-60
+GO:BP,GO:0016043,cellular component organization,1.2988808878200746e-55
+GO:BP,GO:0007017,microtubule-based process,1.7519435552784088e-54
+GO:BP,GO:0071840,cellular component organization or biogenesis,1.9718816273497065e-53
+GO:CC,GO:0043232,intracellular membraneless organelle,3.904364911356018e-81
+GO:CC,GO:0043228,membraneless organelle,3.904364911356018e-81
+GO:CC,GO:0015630,microtubule cytoskeleton,3.062391975321852e-68
+GO:CC,GO:0005819,spindle,1.450263429415585e-66
+GO:CC,GO:0000793,condensed chromosome,1.2872708827052843e-57
+GO:CC,GO:0043229,intracellular organelle,1.5209734905667495e-57
+GO:CC,GO:0000775,"chromosome, centromeric region",2.117289706369135e-56
+GO:CC,GO:0005856,cytoskeleton,7.373532915146914e-55
+GO:CC,GO:0005634,nucleus,1.1570815765043796e-54
+GO:CC,GO:0005622,intracellular anatomical structure,2.2620822164770717e-53
+GO:CC,GO:0098687,chromosomal region,5.242941935666393e-53
+GO:CC,GO:0043226,organelle,1.1264908185105747e-52
+GO:CC,GO:0005694,chromosome,2.3158523925803355e-52
+GO:CC,GO:0005813,centrosome,4.551943051266309e-50
+GO:CC,GO:0000779,"condensed chromosome, centromeric region",6.029644425185654e-50
+GO:CC,GO:0005815,microtubule organizing center,1.357915394819283e-49
+GO:CC,GO:0005575,cellular_component,5.307129777836807e-47
+GO:CC,GO:0110165,cellular anatomical structure,1.9500024964632104e-46
+GO:CC,GO:0000776,kinetochore,2.0360795022791796e-46
+GO:CC,GO:0099080,supramolecular complex,1.5452567923319287e-40
+GO:MF,GO:0005515,protein binding,8.177779630301995e-40
+GO:MF,GO:0005488,binding,7.894830946444827e-39
+GO:MF,GO:0003674,molecular_function,5.221149353011825e-37
+GO:MF,GO:0015631,tubulin binding,6.941270130798239e-37
+GO:MF,GO:0008017,microtubule binding,2.2381536026232442e-35
+GO:MF,GO:0008092,cytoskeletal protein binding,1.337984780142572e-23
+GO:MF,GO:0003777,microtubule motor activity,1.2813158285793744e-14
+GO:MF,GO:0120543,macromolecular conformation isomerase activity,4.599143244432243e-12
+GO:MF,GO:0005524,ATP binding,5.9226061993727654e-12
+GO:MF,GO:0032559,adenyl ribonucleotide binding,1.592737660563993e-11
+GO:MF,GO:0003774,cytoskeletal motor activity,2.3644146156647026e-11
+GO:MF,GO:0030554,adenyl nucleotide binding,3.315988720818973e-11
+GO:MF,GO:0003677,DNA binding,4.220273234764225e-11
+GO:MF,GO:0120544,polypeptide conformation or assembly isomerase activity,6.131074624679667e-11
+GO:MF,GO:0003824,catalytic activity,1.1528692546676575e-10
+GO:MF,GO:0032555,purine ribonucleotide binding,1.5760659268426193e-10
+GO:MF,GO:0035639,purine ribonucleoside triphosphate binding,1.9211729610011364e-10
+GO:MF,GO:0032553,ribonucleotide binding,2.1018181775620306e-10
+GO:MF,GO:0017076,purine nucleotide binding,2.532149728388639e-10
+GO:MF,GO:0019900,kinase binding,4.4278369313137947e-10
+KEGG,KEGG:04110,Cell cycle,1.1716022490683684e-29
+KEGG,KEGG:04114,Oocyte meiosis,6.747775456932951e-13
+KEGG,KEGG:04914,Progesterone-mediated oocyte maturation,1.595810869711861e-10
+KEGG,KEGG:03460,Fanconi anemia pathway,2.7553052313591695e-09
+KEGG,KEGG:04814,Motor proteins,5.246023042324224e-09
+KEGG,KEGG:00000,KEGG root term,0.0002488587903500991
+KEGG,KEGG:03440,Homologous recombination,0.002594712461886298
+KEGG,KEGG:04115,p53 signaling pathway,0.003995233550125808
+KEGG,KEGG:01524,Platinum drug resistance,0.02980792035631051
+KEGG,KEGG:04218,Cellular senescence,0.03327038876261734

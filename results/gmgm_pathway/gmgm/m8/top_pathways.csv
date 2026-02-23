@@ -1,0 +1,78 @@
+source,native,name,p_value
+GO:BP,GO:0048646,anatomical structure formation involved in morphogenesis,9.619078470830926e-16
+GO:BP,GO:0042060,wound healing,2.4089052701623468e-15
+GO:BP,GO:0032501,multicellular organismal process,6.359743460369575e-15
+GO:BP,GO:0072359,circulatory system development,9.943029245581896e-15
+GO:BP,GO:0009611,response to wounding,1.3725319439395342e-14
+GO:BP,GO:0048856,anatomical structure development,2.967503729179319e-14
+GO:BP,GO:0048514,blood vessel morphogenesis,7.990123223221955e-14
+GO:BP,GO:0007155,cell adhesion,9.475688746774205e-14
+GO:BP,GO:0001568,blood vessel development,1.5139072661863367e-13
+GO:BP,GO:0009653,anatomical structure morphogenesis,2.2843341750156486e-13
+GO:BP,GO:0001525,angiogenesis,3.669138580206473e-13
+GO:BP,GO:0001944,vasculature development,5.975881384581533e-13
+GO:BP,GO:0009888,tissue development,1.4254322558845491e-12
+GO:BP,GO:0061061,muscle structure development,1.8439480888856024e-12
+GO:BP,GO:0032502,developmental process,2.099595143545461e-12
+GO:BP,GO:0048522,positive regulation of cellular process,2.233911693471271e-12
+GO:BP,GO:0035239,tube morphogenesis,2.4416752483054707e-12
+GO:BP,GO:0035295,tube development,5.306183277349888e-12
+GO:BP,GO:0048518,positive regulation of biological process,1.2946776457133331e-11
+GO:BP,GO:0050794,regulation of cellular process,4.215585029563464e-11
+GO:CC,GO:0005615,extracellular space,1.0132035983196745e-12
+GO:CC,GO:0005576,extracellular region,4.670240652661396e-11
+GO:CC,GO:0005575,cellular_component,3.124930077947448e-08
+GO:CC,GO:0110165,cellular anatomical structure,6.256488394198643e-08
+GO:CC,GO:0071944,cell periphery,1.0129747395460417e-07
+GO:CC,GO:0005925,focal adhesion,2.2697047412682542e-07
+GO:CC,GO:0070161,anchoring junction,2.750713327442435e-07
+GO:CC,GO:0030055,cell-substrate junction,3.531399854088141e-07
+GO:CC,GO:0031012,extracellular matrix,3.908166000561195e-07
+GO:CC,GO:0030312,external encapsulating structure,4.0708966011366543e-07
+GO:CC,GO:0030016,myofibril,4.4350041941380345e-07
+GO:CC,GO:0043292,contractile muscle fiber,8.556902525160515e-07
+GO:CC,GO:0062023,collagen-containing extracellular matrix,1.023590974594487e-06
+GO:CC,GO:0031674,I band,7.248842605834706e-06
+GO:CC,GO:0030017,sarcomere,7.3514478452189515e-06
+GO:CC,GO:0030054,cell junction,7.154391421951874e-05
+GO:CC,GO:0099081,supramolecular polymer,7.209786666428209e-05
+GO:CC,GO:0097517,contractile actin filament bundle,8.13715021832809e-05
+GO:CC,GO:0001725,stress fiber,8.13715021832809e-05
+GO:CC,GO:0042641,actomyosin,0.00016411798274666408
+GO:MF,GO:0003674,molecular_function,6.31083635222973e-08
+GO:MF,GO:0005488,binding,8.779151679700547e-07
+GO:MF,GO:0005515,protein binding,9.576540233300661e-06
+GO:MF,GO:0008233,peptidase activity,0.0002379575736151006
+GO:MF,GO:0060089,molecular transducer activity,0.0003842192257078467
+GO:MF,GO:0038023,signaling receptor activity,0.0003842192257078467
+GO:MF,GO:0005102,signaling receptor binding,0.00041550616298515814
+GO:MF,GO:0001786,phosphatidylserine binding,0.0016713443191759877
+GO:MF,GO:0042802,identical protein binding,0.001884520488856948
+GO:MF,GO:0019834,phospholipase A2 inhibitor activity,0.002024174981943666
+GO:MF,GO:0000981,"DNA-binding transcription factor activity, RNA polymerase II-specific",0.0021949100348757668
+GO:MF,GO:0035497,cAMP response element binding,0.0024251087570026624
+GO:MF,GO:0001228,"DNA-binding transcription activator activity, RNA polymerase II-specific",0.00258002578195269
+GO:MF,GO:0001216,DNA-binding transcription activator activity,0.003202097108108547
+GO:MF,GO:0048018,receptor ligand activity,0.004217653403667322
+GO:MF,GO:0016787,hydrolase activity,0.004531396579162085
+GO:MF,GO:0140096,"catalytic activity, acting on a protein",0.004823857094088402
+GO:MF,GO:0030546,signaling receptor activator activity,0.005257487906462061
+GO:MF,GO:0005126,cytokine receptor binding,0.00758182927551039
+GO:MF,GO:0003700,DNA-binding transcription factor activity,0.008000189404714766
+KEGG,KEGG:04510,Focal adhesion,2.0106687138395524e-06
+KEGG,KEGG:04933,AGE-RAGE signaling pathway in diabetic complications,6.235311450516837e-06
+KEGG,KEGG:00000,KEGG root term,1.412159176814994e-05
+KEGG,KEGG:05410,Hypertrophic cardiomyopathy,4.0683392791607125e-05
+KEGG,KEGG:05205,Proteoglycans in cancer,7.72194241199835e-05
+KEGG,KEGG:05418,Fluid shear stress and atherosclerosis,7.890965902481344e-05
+KEGG,KEGG:04010,MAPK signaling pathway,0.0009887520791688055
+KEGG,KEGG:04022,cGMP-PKG signaling pathway,0.0029564863389203427
+KEGG,KEGG:05414,Dilated cardiomyopathy,0.005423367436674317
+KEGG,KEGG:04060,Cytokine-cytokine receptor interaction,0.011774072955128488
+KEGG,KEGG:05161,Hepatitis B,0.012052097501622816
+KEGG,KEGG:04380,Osteoclast differentiation,0.01220700286549182
+KEGG,KEGG:04530,Tight junction,0.01997914755772787
+KEGG,KEGG:04926,Relaxin signaling pathway,0.023439749058979935
+KEGG,KEGG:04270,Vascular smooth muscle contraction,0.023439749058979935
+KEGG,KEGG:04659,Th17 cell differentiation,0.029760235804863366
+KEGG,KEGG:04810,Regulation of actin cytoskeleton,0.03630442193782329

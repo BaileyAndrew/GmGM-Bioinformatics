@@ -1,0 +1,60 @@
+source,native,name,p_value
+GO:BP,GO:0009987,cellular process,1.5662250266982001e-18
+GO:BP,GO:0008150,biological_process,3.21322765341311e-18
+GO:BP,GO:0008152,metabolic process,6.235656598996031e-14
+GO:BP,GO:0044238,primary metabolic process,5.25084478166861e-13
+GO:BP,GO:0043170,macromolecule metabolic process,6.30757569116237e-12
+GO:BP,GO:0006139,nucleobase-containing compound metabolic process,3.91061558306497e-11
+GO:BP,GO:0090304,nucleic acid metabolic process,7.285510677990186e-11
+GO:BP,GO:0065007,biological regulation,3.7016104332839137e-09
+GO:BP,GO:0050789,regulation of biological process,1.63994597867585e-08
+GO:BP,GO:0050794,regulation of cellular process,2.4586852648059193e-08
+GO:BP,GO:0034654,nucleobase-containing compound biosynthetic process,4.0230770149862354e-08
+GO:BP,GO:0141187,nucleic acid biosynthetic process,4.075470411100119e-08
+GO:BP,GO:0009059,macromolecule biosynthetic process,7.001180517857695e-08
+GO:BP,GO:0016070,RNA metabolic process,8.220212447865008e-08
+GO:BP,GO:0032774,RNA biosynthetic process,2.0123957412088522e-07
+GO:BP,GO:0010467,gene expression,4.136105678394019e-07
+GO:BP,GO:0009058,biosynthetic process,1.4633142111527794e-06
+GO:BP,GO:0080090,regulation of primary metabolic process,1.806376606193699e-06
+GO:BP,GO:0019219,regulation of nucleobase-containing compound metabolic process,7.901021588373912e-06
+GO:BP,GO:0019222,regulation of metabolic process,1.4232851533232209e-05
+GO:CC,GO:0110165,cellular anatomical structure,1.7087737751613597e-24
+GO:CC,GO:0005575,cellular_component,4.41076955730575e-24
+GO:CC,GO:0005622,intracellular anatomical structure,9.870296695964497e-24
+GO:CC,GO:0043226,organelle,2.4135141163025933e-17
+GO:CC,GO:0043229,intracellular organelle,3.6236086376587425e-17
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,6.409283891990607e-16
+GO:CC,GO:0043227,membrane-bounded organelle,6.456346401575005e-16
+GO:CC,GO:0005737,cytoplasm,2.900606582293826e-10
+GO:CC,GO:0005634,nucleus,2.6098879634721975e-07
+GO:CC,GO:0005829,cytosol,4.662938253778796e-07
+GO:CC,GO:0070013,intracellular organelle lumen,3.6291376553379456e-05
+GO:CC,GO:0031974,membrane-enclosed lumen,3.6291376553379456e-05
+GO:CC,GO:0043233,organelle lumen,3.6291376553379456e-05
+GO:CC,GO:0032991,protein-containing complex,0.0002089222373848325
+GO:CC,GO:0031981,nuclear lumen,0.00043957915116650477
+GO:CC,GO:0005654,nucleoplasm,0.0018145417789622376
+GO:CC,GO:0005739,mitochondrion,0.02971549926343048
+GO:MF,GO:0003674,molecular_function,1.0584639022929937e-20
+GO:MF,GO:0005488,binding,7.886037139929314e-20
+GO:MF,GO:0043167,ion binding,1.0171597069165237e-12
+GO:MF,GO:0036094,small molecule binding,1.0659528964018936e-12
+GO:MF,GO:0005515,protein binding,1.2333267271203104e-12
+GO:MF,GO:0046872,metal ion binding,3.0269703365571476e-11
+GO:MF,GO:0043169,cation binding,7.423808841617452e-11
+GO:MF,GO:0003676,nucleic acid binding,2.2025660837183114e-08
+GO:MF,GO:0003824,catalytic activity,3.3264817435334967e-06
+GO:MF,GO:0003677,DNA binding,0.0001562687680945533
+GO:MF,GO:0043565,sequence-specific DNA binding,0.0009540236559324714
+GO:MF,GO:0140096,"catalytic activity, acting on a protein",0.0020763042740449132
+GO:MF,GO:0003723,RNA binding,0.002818617634202316
+GO:MF,GO:0003690,double-stranded DNA binding,0.0031317693011967012
+GO:MF,GO:0008270,zinc ion binding,0.0035088582595957547
+GO:MF,GO:1990837,sequence-specific double-stranded DNA binding,0.0043108089839678275
+GO:MF,GO:0046914,transition metal ion binding,0.004958690014570114
+GO:MF,GO:0004842,ubiquitin-protein transferase activity,0.0071643641819117134
+GO:MF,GO:0019787,ubiquitin-like protein transferase activity,0.012567804210902509
+GO:MF,GO:0140110,transcription regulator activity,0.0149577218251203
+KEGG,KEGG:00000,KEGG root term,3.2914625510733255e-06
+KEGG,KEGG:05168,Herpes simplex virus 1 infection,0.00107965272341778

@@ -1,0 +1,62 @@
+source,native,name,p_value
+GO:BP,GO:0065007,biological regulation,6.669513924331786e-11
+GO:BP,GO:0050789,regulation of biological process,1.0694262707350486e-10
+GO:BP,GO:0007267,cell-cell signaling,1.0807123511308728e-10
+GO:BP,GO:0032501,multicellular organismal process,7.067348419277659e-09
+GO:BP,GO:0065008,regulation of biological quality,8.100633987308381e-09
+GO:BP,GO:0008150,biological_process,9.117416663609003e-09
+GO:BP,GO:0007399,nervous system development,1.2891049412022189e-08
+GO:BP,GO:0050794,regulation of cellular process,3.388152206617848e-08
+GO:BP,GO:0009987,cellular process,7.261724017801899e-08
+GO:BP,GO:0048812,neuron projection morphogenesis,1.7180187026544196e-07
+GO:BP,GO:0120039,plasma membrane bounded cell projection morphogenesis,2.612814107734722e-07
+GO:BP,GO:0048858,cell projection morphogenesis,2.971323595116424e-07
+GO:BP,GO:0048731,system development,3.210719407576421e-07
+GO:BP,GO:0007275,multicellular organism development,3.233617484045743e-07
+GO:BP,GO:0030182,neuron differentiation,8.522077635650657e-07
+GO:BP,GO:0023052,signaling,9.879477873274938e-07
+GO:BP,GO:0007154,cell communication,1.1706618668217783e-06
+GO:BP,GO:0007268,chemical synaptic transmission,1.339173781879097e-06
+GO:BP,GO:0098916,anterograde trans-synaptic signaling,1.339173781879097e-06
+GO:BP,GO:0099537,trans-synaptic signaling,1.5367084162295793e-06
+GO:CC,GO:0110165,cellular anatomical structure,3.455893198127611e-17
+GO:CC,GO:0005575,cellular_component,7.703564365588269e-17
+GO:CC,GO:0030054,cell junction,1.2728928782751811e-12
+GO:CC,GO:0045202,synapse,4.399178846808007e-12
+GO:CC,GO:0016020,membrane,1.4643686456796342e-09
+GO:CC,GO:0071944,cell periphery,1.8476790144930425e-09
+GO:CC,GO:0043005,neuron projection,2.4813550325308114e-08
+GO:CC,GO:0005886,plasma membrane,3.9204946022260696e-08
+GO:CC,GO:0042995,cell projection,6.01919351200511e-06
+GO:CC,GO:0030424,axon,8.140946747050272e-06
+GO:CC,GO:0036477,somatodendritic compartment,9.579048002332399e-06
+GO:CC,GO:1990351,transporter complex,1.4195855867596108e-05
+GO:CC,GO:0034702,monoatomic ion channel complex,1.52687005050736e-05
+GO:CC,GO:0098794,postsynapse,1.683240967717403e-05
+GO:CC,GO:0030425,dendrite,3.2694447813069825e-05
+GO:CC,GO:0097447,dendritic tree,3.338804634748987e-05
+GO:CC,GO:1902495,transmembrane transporter complex,5.261477160324534e-05
+GO:CC,GO:0043025,neuronal cell body,7.928265043538419e-05
+GO:CC,GO:0120025,plasma membrane bounded cell projection,9.673836967691417e-05
+GO:CC,GO:0043204,perikaryon,0.0001251070030393195
+GO:MF,GO:0003674,molecular_function,6.003929011510865e-12
+GO:MF,GO:0005488,binding,5.0447361908584095e-09
+GO:MF,GO:0005515,protein binding,1.7652843814066526e-07
+GO:MF,GO:0015267,channel activity,2.1475993748382806e-06
+GO:MF,GO:0022803,passive transmembrane transporter activity,2.1475993748382806e-06
+GO:MF,GO:0046873,metal ion transmembrane transporter activity,4.336032075210395e-06
+GO:MF,GO:0005216,monoatomic ion channel activity,5.078042394486095e-06
+GO:MF,GO:0008324,monoatomic cation transmembrane transporter activity,7.103016987307444e-06
+GO:MF,GO:0015075,monoatomic ion transmembrane transporter activity,1.2411337729834735e-05
+GO:MF,GO:0005261,monoatomic cation channel activity,1.628550240997958e-05
+GO:MF,GO:0022890,inorganic cation transmembrane transporter activity,2.1670434010403877e-05
+GO:MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,3.279457474417059e-05
+GO:MF,GO:0005215,transporter activity,0.0003583061636904417
+GO:MF,GO:0022857,transmembrane transporter activity,0.00042909269949048556
+GO:MF,GO:0022836,gated channel activity,0.004867995871976116
+GO:MF,GO:0015079,potassium ion transmembrane transporter activity,0.007949508262760509
+GO:MF,GO:0022843,voltage-gated monoatomic cation channel activity,0.020953987504981165
+GO:MF,GO:0005267,potassium channel activity,0.021812868426823166
+GO:MF,GO:0030594,neurotransmitter receptor activity,0.045133928295022455
+KEGG,KEGG:04080,Neuroactive ligand-receptor interaction,0.0028011547211578528
+KEGG,KEGG:04261,Adrenergic signaling in cardiomyocytes,0.03705441760236398

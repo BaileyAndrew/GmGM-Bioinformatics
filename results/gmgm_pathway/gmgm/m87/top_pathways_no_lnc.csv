@@ -1,0 +1,53 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,6.987227311011923e-12
+GO:BP,GO:0043170,macromolecule metabolic process,8.541580891973021e-09
+GO:BP,GO:0008152,metabolic process,6.218460292990393e-08
+GO:BP,GO:0044238,primary metabolic process,1.0997908444746484e-07
+GO:BP,GO:0009987,cellular process,1.2754213934031642e-07
+GO:BP,GO:0060255,regulation of macromolecule metabolic process,2.9539176893372287e-06
+GO:BP,GO:0019222,regulation of metabolic process,1.1583817133239713e-05
+GO:BP,GO:0080090,regulation of primary metabolic process,1.2879122597310262e-05
+GO:BP,GO:0065007,biological regulation,3.2810838998448406e-05
+GO:BP,GO:0009059,macromolecule biosynthetic process,7.953187904306869e-05
+GO:BP,GO:0009058,biosynthetic process,0.00017956214666737432
+GO:BP,GO:0006351,DNA-templated transcription,0.0002112536844388266
+GO:BP,GO:0010467,gene expression,0.00041818246699752996
+GO:BP,GO:0050789,regulation of biological process,0.000892127626065794
+GO:BP,GO:0090304,nucleic acid metabolic process,0.000987077865929379
+GO:BP,GO:0006366,transcription by RNA polymerase II,0.0011069444013394416
+GO:BP,GO:0006355,regulation of DNA-templated transcription,0.0013728585678546331
+GO:BP,GO:2001141,regulation of RNA biosynthetic process,0.0015092733419821657
+GO:BP,GO:0051252,regulation of RNA metabolic process,0.0018372086249385433
+GO:BP,GO:0010468,regulation of gene expression,0.0020112537912174385
+GO:CC,GO:0005575,cellular_component,1.6777241322430964e-15
+GO:CC,GO:0110165,cellular anatomical structure,1.5436691575109963e-14
+GO:CC,GO:0005622,intracellular anatomical structure,1.3127834702173174e-12
+GO:CC,GO:0043226,organelle,7.767373691104703e-11
+GO:CC,GO:0043227,membrane-bounded organelle,7.922855578729499e-11
+GO:CC,GO:0043229,intracellular organelle,5.869895754448622e-10
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,1.732324060688533e-08
+GO:CC,GO:0005737,cytoplasm,1.8472035538129436e-06
+GO:CC,GO:0005634,nucleus,2.5510970950701582e-06
+GO:CC,GO:0043233,organelle lumen,0.000379726399070266
+GO:CC,GO:0070013,intracellular organelle lumen,0.000379726399070266
+GO:CC,GO:0031974,membrane-enclosed lumen,0.000379726399070266
+GO:CC,GO:0005829,cytosol,0.002309927951043579
+GO:CC,GO:0005654,nucleoplasm,0.0035013056914605612
+GO:CC,GO:0043232,intracellular membraneless organelle,0.0038178948898907198
+GO:CC,GO:0043228,membraneless organelle,0.0038178948898907198
+GO:CC,GO:0031981,nuclear lumen,0.007224149049144435
+GO:MF,GO:0003674,molecular_function,2.1268022333557346e-18
+GO:MF,GO:0005488,binding,2.9458653970235055e-11
+GO:MF,GO:0005515,protein binding,1.9651226436281998e-07
+GO:MF,GO:0003677,DNA binding,0.002013879521493412
+GO:MF,GO:0008270,zinc ion binding,0.002621903117046756
+GO:MF,GO:0003824,catalytic activity,0.002977602721643247
+GO:MF,GO:0046914,transition metal ion binding,0.0073397172713808734
+GO:MF,GO:0140096,"catalytic activity, acting on a protein",0.0134240410043957
+GO:MF,GO:0043167,ion binding,0.01677174536873544
+GO:MF,GO:0043565,sequence-specific DNA binding,0.018006344001852536
+GO:MF,GO:0003676,nucleic acid binding,0.020294924973715097
+GO:MF,GO:0036094,small molecule binding,0.030376519943250434
+GO:MF,GO:0140110,transcription regulator activity,0.035241796068818464
+GO:MF,GO:0000987,cis-regulatory region sequence-specific DNA binding,0.046664726124479854
+KEGG,KEGG:00000,KEGG root term,0.04393022404118901

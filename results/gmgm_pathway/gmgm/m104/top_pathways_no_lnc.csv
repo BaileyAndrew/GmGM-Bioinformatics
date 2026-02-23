@@ -1,0 +1,39 @@
+source,native,name,p_value
+GO:BP,GO:0044238,primary metabolic process,6.900838294695196e-07
+GO:BP,GO:0008150,biological_process,3.3212822745489105e-06
+GO:BP,GO:0009987,cellular process,4.1167866556944405e-06
+GO:BP,GO:0008152,metabolic process,1.53653008098713e-05
+GO:BP,GO:1902747,negative regulation of lens fiber cell differentiation,0.00041981763257105696
+GO:BP,GO:0050794,regulation of cellular process,0.0004305450469459495
+GO:BP,GO:0050789,regulation of biological process,0.0013269208131057315
+GO:BP,GO:1902746,regulation of lens fiber cell differentiation,0.0014636009276135988
+GO:BP,GO:0070373,negative regulation of ERK1 and ERK2 cascade,0.0019158596366738744
+GO:BP,GO:0065007,biological regulation,0.004228999578436755
+GO:BP,GO:0043170,macromolecule metabolic process,0.009467515056030548
+GO:BP,GO:0048583,regulation of response to stimulus,0.01220107485851642
+GO:BP,GO:0009968,negative regulation of signal transduction,0.012239265122038538
+GO:BP,GO:0006796,phosphate-containing compound metabolic process,0.016065323934203207
+GO:BP,GO:0006793,phosphorus metabolic process,0.016374396425307882
+GO:BP,GO:1902532,negative regulation of intracellular signal transduction,0.017500516901546633
+GO:BP,GO:0050896,response to stimulus,0.02118948727813537
+GO:BP,GO:0051716,cellular response to stimulus,0.026134527425015187
+GO:BP,GO:0009966,regulation of signal transduction,0.02781160685139374
+GO:BP,GO:0023057,negative regulation of signaling,0.029710884381807752
+GO:CC,GO:0110165,cellular anatomical structure,3.1277418932596997e-09
+GO:CC,GO:0005575,cellular_component,5.019937921424707e-09
+GO:CC,GO:0005622,intracellular anatomical structure,4.837623222267402e-07
+GO:CC,GO:0043227,membrane-bounded organelle,3.523846145293351e-06
+GO:CC,GO:0043226,organelle,1.1542886467218552e-05
+GO:CC,GO:0043229,intracellular organelle,5.979634544217023e-05
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,9.622442788162482e-05
+GO:CC,GO:0005737,cytoplasm,0.0015158700710676586
+GO:MF,GO:0003674,molecular_function,5.2542421832321896e-12
+GO:MF,GO:0005488,binding,1.9486745061998072e-07
+GO:MF,GO:0005515,protein binding,0.00010885510890199357
+GO:MF,GO:0016740,transferase activity,0.002551012056513798
+GO:MF,GO:0003824,catalytic activity,0.00608005490919391
+GO:MF,GO:0016772,"transferase activity, transferring phosphorus-containing groups",0.025032255060256962
+KEGG,KEGG:00000,KEGG root term,0.00027316253465315836
+KEGG,KEGG:00280,"Valine, leucine and isoleucine degradation",0.015449125400993803
+KEGG,KEGG:01100,Metabolic pathways,0.025982805690554115
+KEGG,KEGG:00604,Glycosphingolipid biosynthesis - ganglio series,0.04574618224890803

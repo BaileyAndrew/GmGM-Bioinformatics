@@ -1,0 +1,40 @@
+source,native,name,p_value
+GO:BP,GO:0009987,cellular process,9.524233734452723e-09
+GO:BP,GO:0008150,biological_process,9.670325391738857e-09
+GO:BP,GO:0008152,metabolic process,5.383190797373347e-07
+GO:BP,GO:0044238,primary metabolic process,2.466411980726371e-06
+GO:BP,GO:0043170,macromolecule metabolic process,2.783624194851351e-06
+GO:BP,GO:0065007,biological regulation,0.00017586369238538772
+GO:BP,GO:0050794,regulation of cellular process,0.0010429563732536715
+GO:BP,GO:0050789,regulation of biological process,0.001208382050124526
+GO:BP,GO:0048522,positive regulation of cellular process,0.005643103368611483
+GO:BP,GO:0009057,macromolecule catabolic process,0.01021808627449771
+GO:BP,GO:0048193,Golgi vesicle transport,0.010220973630494986
+GO:BP,GO:0009059,macromolecule biosynthetic process,0.012021652695953918
+GO:BP,GO:0019538,protein metabolic process,0.014957784329881756
+GO:BP,GO:0048518,positive regulation of biological process,0.018940905231880162
+GO:BP,GO:0009058,biosynthetic process,0.02547053071100108
+GO:BP,GO:0045184,establishment of protein localization,0.03939870115533058
+GO:BP,GO:0010467,gene expression,0.04501515759047604
+GO:BP,GO:0009056,catabolic process,0.04739198523685186
+GO:CC,GO:0110165,cellular anatomical structure,1.2507424337703196e-10
+GO:CC,GO:0005622,intracellular anatomical structure,1.3096058776762928e-10
+GO:CC,GO:0005575,cellular_component,2.1739849241499347e-10
+GO:CC,GO:0005737,cytoplasm,9.980652256478276e-08
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,8.591890751013364e-07
+GO:CC,GO:0043229,intracellular organelle,9.529343408544935e-07
+GO:CC,GO:0043227,membrane-bounded organelle,2.5946173718541897e-06
+GO:CC,GO:0043226,organelle,3.6205592618591705e-06
+GO:CC,GO:0005829,cytosol,0.0012355374072740557
+GO:CC,GO:0030658,transport vesicle membrane,0.0034988898857350862
+GO:CC,GO:0042579,microbody,0.026608101504622575
+GO:CC,GO:0005777,peroxisome,0.026608101504622575
+GO:CC,GO:0005634,nucleus,0.029076688941815417
+GO:CC,GO:0031090,organelle membrane,0.03720955312595324
+GO:MF,GO:0003674,molecular_function,9.786724384129403e-17
+GO:MF,GO:0005488,binding,1.731254544260287e-15
+GO:MF,GO:0005515,protein binding,1.3741303734790217e-11
+GO:MF,GO:0003824,catalytic activity,0.00020258166478191237
+GO:MF,GO:0140096,"catalytic activity, acting on a protein",0.009004430719083991
+GO:MF,GO:0036094,small molecule binding,0.016766676014210825
+GO:MF,GO:0003723,RNA binding,0.04405955122446926

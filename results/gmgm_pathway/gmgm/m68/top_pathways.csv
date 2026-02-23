@@ -1,0 +1,9 @@
+source,native,name,p_value
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,0.0031506948335511655
+GO:CC,GO:0005737,cytoplasm,0.0032600877352206266
+GO:CC,GO:0005622,intracellular anatomical structure,0.0035551839411006223
+GO:CC,GO:0043229,intracellular organelle,0.011076131380434529
+GO:CC,GO:0043227,membrane-bounded organelle,0.017968497690703168
+GO:CC,GO:0043226,organelle,0.0497814448608417
+GO:MF,GO:0003674,molecular_function,0.011441849430469244
+GO:MF,GO:0141185,UFM1-modified protein reader activity,0.04707083957739478

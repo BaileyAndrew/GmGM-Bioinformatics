@@ -1,0 +1,48 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,4.878272754149381e-13
+GO:BP,GO:0009987,cellular process,1.0418820598306175e-11
+GO:BP,GO:0044238,primary metabolic process,8.23526165175895e-08
+GO:BP,GO:0008152,metabolic process,8.260385175085703e-08
+GO:BP,GO:0009058,biosynthetic process,2.8818070779376983e-06
+GO:BP,GO:0043170,macromolecule metabolic process,0.0002483423315330319
+GO:BP,GO:0009059,macromolecule biosynthetic process,0.004374848236131771
+GO:BP,GO:0050794,regulation of cellular process,0.006969905522726195
+GO:BP,GO:0065007,biological regulation,0.00745021659444406
+GO:BP,GO:0010467,gene expression,0.0098404078318392
+GO:BP,GO:0050789,regulation of biological process,0.010533975484340513
+GO:BP,GO:0019538,protein metabolic process,0.030382287330556597
+GO:CC,GO:0110165,cellular anatomical structure,1.075108411794958e-15
+GO:CC,GO:0005575,cellular_component,2.2722647846974193e-15
+GO:CC,GO:0005622,intracellular anatomical structure,9.267448451509816e-14
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,9.624702103107374e-14
+GO:CC,GO:0043229,intracellular organelle,3.719042558019676e-13
+GO:CC,GO:0043227,membrane-bounded organelle,1.1716565294521105e-12
+GO:CC,GO:0043226,organelle,4.171186525943085e-12
+GO:CC,GO:0005737,cytoplasm,2.7731079804685675e-09
+GO:CC,GO:0031090,organelle membrane,6.294066438209862e-08
+GO:CC,GO:0005739,mitochondrion,5.23038979278403e-06
+GO:CC,GO:0016020,membrane,3.469238976974448e-05
+GO:CC,GO:0005740,mitochondrial envelope,8.298360365423324e-05
+GO:CC,GO:0098588,bounding membrane of organelle,0.00016778065879456778
+GO:CC,GO:0031966,mitochondrial membrane,0.0010967885104940967
+GO:CC,GO:0098574,cytoplasmic side of lysosomal membrane,0.005781517637246719
+GO:CC,GO:0005789,endoplasmic reticulum membrane,0.006455461641447986
+GO:CC,GO:0098827,endoplasmic reticulum subcompartment,0.006882638676887102
+GO:CC,GO:0031967,organelle envelope,0.007298539805996651
+GO:CC,GO:0042175,nuclear outer membrane-endoplasmic reticulum membrane network,0.008405959585950414
+GO:CC,GO:0005741,mitochondrial outer membrane,0.01054486060852993
+GO:MF,GO:0003674,molecular_function,1.2876631050778224e-14
+GO:MF,GO:0005488,binding,1.4885410416946693e-09
+GO:MF,GO:0005515,protein binding,3.713850420131715e-07
+GO:MF,GO:0003824,catalytic activity,7.900051896311124e-06
+GO:MF,GO:0036094,small molecule binding,0.008029871032409635
+GO:MF,GO:0043167,ion binding,0.009183286394776799
+GO:MF,GO:0035639,purine ribonucleoside triphosphate binding,0.01524986658251885
+GO:MF,GO:0032555,purine ribonucleotide binding,0.02322169761280467
+GO:MF,GO:0032553,ribonucleotide binding,0.025864096386116024
+GO:MF,GO:0016301,kinase activity,0.027659478204572586
+GO:MF,GO:0016740,transferase activity,0.0337498823088502
+GO:MF,GO:0016772,"transferase activity, transferring phosphorus-containing groups",0.04232164701523414
+GO:MF,GO:0017076,purine nucleotide binding,0.04446603115733107
+KEGG,KEGG:00000,KEGG root term,0.008606809973736819
+KEGG,KEGG:03060,Protein export,0.02162047226138469

@@ -1,0 +1,62 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,1.8997316748103926e-34
+GO:BP,GO:0009987,cellular process,1.3748898280034203e-31
+GO:BP,GO:0050789,regulation of biological process,2.2160819810563103e-27
+GO:BP,GO:0065007,biological regulation,3.691430113185542e-27
+GO:BP,GO:0007399,nervous system development,4.121191637484046e-24
+GO:BP,GO:0050794,regulation of cellular process,2.512944589815881e-22
+GO:BP,GO:0032502,developmental process,1.9615735292170647e-21
+GO:BP,GO:0032501,multicellular organismal process,8.183881616939862e-21
+GO:BP,GO:0048731,system development,1.3390841187396645e-20
+GO:BP,GO:0048856,anatomical structure development,1.8571938437331912e-19
+GO:BP,GO:0007275,multicellular organism development,4.14102390661498e-19
+GO:BP,GO:0048699,generation of neurons,4.937995501810935e-19
+GO:BP,GO:0022008,neurogenesis,4.919522371815074e-18
+GO:BP,GO:0030182,neuron differentiation,1.438713073508736e-17
+GO:BP,GO:0030154,cell differentiation,6.948041215582828e-17
+GO:BP,GO:0048869,cellular developmental process,7.054875815673057e-17
+GO:BP,GO:0023052,signaling,8.19438046946849e-13
+GO:BP,GO:0007154,cell communication,1.0681518878917998e-12
+GO:BP,GO:0048666,neuron development,1.971935428423259e-12
+GO:BP,GO:0048468,cell development,7.1938323492578e-11
+GO:CC,GO:0005575,cellular_component,7.530165928561598e-37
+GO:CC,GO:0110165,cellular anatomical structure,1.3666176374824906e-34
+GO:CC,GO:0071944,cell periphery,1.1218538847376996e-13
+GO:CC,GO:0043226,organelle,8.174299468850466e-13
+GO:CC,GO:0005622,intracellular anatomical structure,1.1643182417875865e-12
+GO:CC,GO:0005886,plasma membrane,2.3889799486276258e-11
+GO:CC,GO:0045202,synapse,3.764724444719023e-11
+GO:CC,GO:0030054,cell junction,2.0672672383367889e-10
+GO:CC,GO:0016020,membrane,3.556944414417744e-10
+GO:CC,GO:0043229,intracellular organelle,4.6105890369590135e-08
+GO:CC,GO:0098794,postsynapse,5.625947471635368e-08
+GO:CC,GO:0043227,membrane-bounded organelle,2.065241056970918e-07
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,3.5534151706831256e-06
+GO:CC,GO:0005634,nucleus,4.423762442758173e-06
+GO:CC,GO:0043005,neuron projection,5.450827806705454e-06
+GO:CC,GO:0036477,somatodendritic compartment,7.378418712263666e-06
+GO:CC,GO:0030424,axon,1.1767576988048376e-05
+GO:CC,GO:0099572,postsynaptic specialization,1.5439510814259966e-05
+GO:CC,GO:0043025,neuronal cell body,3.572123071484811e-05
+GO:CC,GO:0042995,cell projection,6.152095502811741e-05
+GO:MF,GO:0003674,molecular_function,6.989518556413366e-36
+GO:MF,GO:0005488,binding,5.506478961749782e-33
+GO:MF,GO:0005515,protein binding,2.352525561033288e-22
+GO:MF,GO:0140110,transcription regulator activity,2.4863326597394502e-06
+GO:MF,GO:0000981,"DNA-binding transcription factor activity, RNA polymerase II-specific",4.162154071546441e-06
+GO:MF,GO:0003700,DNA-binding transcription factor activity,1.6803053981394863e-05
+GO:MF,GO:0036094,small molecule binding,0.00015597011376802122
+GO:MF,GO:0070888,E-box binding,0.0002652884017165617
+GO:MF,GO:0043167,ion binding,0.0002831949242673372
+GO:MF,GO:1990837,sequence-specific double-stranded DNA binding,0.00031606371286903637
+GO:MF,GO:0043169,cation binding,0.00046897474300559123
+GO:MF,GO:0000976,transcription cis-regulatory region binding,0.0005256000969765947
+GO:MF,GO:0001067,transcription regulatory region nucleic acid binding,0.0005329681171332373
+GO:MF,GO:0003690,double-stranded DNA binding,0.0010458633794596342
+GO:MF,GO:0043565,sequence-specific DNA binding,0.0012016398078005094
+GO:MF,GO:0000987,cis-regulatory region sequence-specific DNA binding,0.002348806903893101
+GO:MF,GO:0022836,gated channel activity,0.0024252586489498557
+GO:MF,GO:0046872,metal ion binding,0.0032381814423360295
+GO:MF,GO:0000977,RNA polymerase II transcription regulatory region sequence-specific DNA binding,0.005773111974534538
+GO:MF,GO:0000978,RNA polymerase II cis-regulatory region sequence-specific DNA binding,0.006027526255805313
+KEGG,KEGG:04330,Notch signaling pathway,0.00016354383456490345

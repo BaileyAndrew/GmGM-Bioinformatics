@@ -1,0 +1,47 @@
+source,native,name,p_value
+GO:BP,GO:0009987,cellular process,4.1416929347483094e-20
+GO:BP,GO:0008150,biological_process,5.726585723166193e-19
+GO:BP,GO:0050794,regulation of cellular process,6.806456796356557e-11
+GO:BP,GO:0050789,regulation of biological process,1.1543577164584865e-10
+GO:BP,GO:0065007,biological regulation,2.244894725791619e-10
+GO:BP,GO:0008152,metabolic process,4.697212567860887e-09
+GO:BP,GO:0044238,primary metabolic process,1.004605786708168e-07
+GO:BP,GO:0019222,regulation of metabolic process,3.240146317473189e-07
+GO:BP,GO:0043170,macromolecule metabolic process,2.0290493930684304e-06
+GO:BP,GO:0009058,biosynthetic process,7.480791604377414e-05
+GO:BP,GO:0050896,response to stimulus,8.108292462464934e-05
+GO:BP,GO:0010467,gene expression,0.00010308593067683592
+GO:BP,GO:0009059,macromolecule biosynthetic process,0.00010831046161117321
+GO:BP,GO:0048523,negative regulation of cellular process,0.00033756439230962174
+GO:BP,GO:0009889,regulation of biosynthetic process,0.0003896206914680982
+GO:BP,GO:0032774,RNA biosynthetic process,0.0005985530678401851
+GO:BP,GO:0016070,RNA metabolic process,0.000623159557011785
+GO:BP,GO:0048519,negative regulation of biological process,0.0008792764222421981
+GO:BP,GO:0141187,nucleic acid biosynthetic process,0.001169489875987131
+GO:BP,GO:0080090,regulation of primary metabolic process,0.001252767913643608
+GO:CC,GO:0005575,cellular_component,5.582975113612553e-20
+GO:CC,GO:0110165,cellular anatomical structure,6.377135772096613e-18
+GO:CC,GO:0043226,organelle,1.2145774607950287e-17
+GO:CC,GO:0005622,intracellular anatomical structure,2.0908304855266248e-17
+GO:CC,GO:0043227,membrane-bounded organelle,2.6005454497844085e-16
+GO:CC,GO:0043229,intracellular organelle,4.0603127566474905e-16
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,6.326483848322569e-15
+GO:CC,GO:0005737,cytoplasm,1.2308578704105658e-10
+GO:CC,GO:0070013,intracellular organelle lumen,5.4698523492260175e-08
+GO:CC,GO:0031974,membrane-enclosed lumen,5.4698523492260175e-08
+GO:CC,GO:0043233,organelle lumen,5.4698523492260175e-08
+GO:CC,GO:0005634,nucleus,1.4512132626337723e-07
+GO:CC,GO:0043228,membraneless organelle,1.2816007372454161e-06
+GO:CC,GO:0043232,intracellular membraneless organelle,1.2816007372454161e-06
+GO:CC,GO:0031981,nuclear lumen,1.1228916269340555e-05
+GO:CC,GO:0032991,protein-containing complex,0.00015209859715587334
+GO:CC,GO:0005654,nucleoplasm,0.0002708904248764757
+GO:CC,GO:0036464,cytoplasmic ribonucleoprotein granule,0.001849457272932798
+GO:CC,GO:0035770,ribonucleoprotein granule,0.0032023601889065033
+GO:CC,GO:0031090,organelle membrane,0.004692656342480232
+GO:MF,GO:0003674,molecular_function,6.5173571210458615e-19
+GO:MF,GO:0005488,binding,2.7925169701715075e-17
+GO:MF,GO:0005515,protein binding,1.555615291609542e-13
+GO:MF,GO:0003723,RNA binding,0.0003039178152304305
+GO:MF,GO:0003676,nucleic acid binding,0.002621799626577498
+KEGG,KEGG:00000,KEGG root term,0.011649917668972925

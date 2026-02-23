@@ -1,0 +1,30 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,0.0019147934387044093
+GO:BP,GO:0009987,cellular process,0.0043040917597628745
+GO:BP,GO:0008152,metabolic process,0.004584415139774512
+GO:BP,GO:0071840,cellular component organization or biogenesis,0.013054681868389446
+GO:BP,GO:0050794,regulation of cellular process,0.02369063552864286
+GO:BP,GO:0090304,nucleic acid metabolic process,0.027795299881061858
+GO:BP,GO:0016070,RNA metabolic process,0.03292368709656475
+GO:BP,GO:0048518,positive regulation of biological process,0.04221755390617353
+GO:BP,GO:0006139,nucleobase-containing compound metabolic process,0.044147935170799305
+GO:BP,GO:0050789,regulation of biological process,0.04443295420696312
+GO:BP,GO:0016043,cellular component organization,0.0466382542161983
+GO:BP,GO:0141187,nucleic acid biosynthetic process,0.047798008052269275
+GO:CC,GO:0005622,intracellular anatomical structure,2.5059850540455486e-07
+GO:CC,GO:0043226,organelle,2.355000664716268e-06
+GO:CC,GO:0043229,intracellular organelle,3.614501271850236e-06
+GO:CC,GO:0043227,membrane-bounded organelle,1.6066429734477842e-05
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,1.6726252440970934e-05
+GO:CC,GO:0070013,intracellular organelle lumen,0.00030145943458993746
+GO:CC,GO:0043233,organelle lumen,0.00030145943458993746
+GO:CC,GO:0031974,membrane-enclosed lumen,0.00030145943458993746
+GO:CC,GO:0110165,cellular anatomical structure,0.0004299125217262732
+GO:CC,GO:0005737,cytoplasm,0.0004357935401235949
+GO:CC,GO:0031981,nuclear lumen,0.0005860817842981846
+GO:CC,GO:0005575,cellular_component,0.0007120595039003915
+GO:CC,GO:0005654,nucleoplasm,0.003967744577948138
+GO:CC,GO:0005634,nucleus,0.004431892869378878
+GO:MF,GO:0005488,binding,2.2405339915393186e-05
+GO:MF,GO:0003674,molecular_function,0.00013452406384403833
+GO:MF,GO:0005515,protein binding,0.00013475988583379716

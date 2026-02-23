@@ -1,0 +1,59 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,5.1310058914876864e-15
+GO:BP,GO:0009987,cellular process,9.578566290712471e-12
+GO:BP,GO:0043170,macromolecule metabolic process,6.992066111574719e-09
+GO:BP,GO:0008152,metabolic process,3.64198629944847e-08
+GO:BP,GO:0044238,primary metabolic process,5.3165020133302266e-08
+GO:BP,GO:0065007,biological regulation,1.0800551820090909e-07
+GO:BP,GO:0050794,regulation of cellular process,1.4275208149631455e-06
+GO:BP,GO:0010467,gene expression,1.4686510564959568e-06
+GO:BP,GO:0009059,macromolecule biosynthetic process,1.6626957110042235e-06
+GO:BP,GO:0019222,regulation of metabolic process,1.7462248092820167e-06
+GO:BP,GO:0050789,regulation of biological process,2.263699274147713e-06
+GO:BP,GO:0060255,regulation of macromolecule metabolic process,2.92994018467181e-06
+GO:BP,GO:0006139,nucleobase-containing compound metabolic process,7.1896209310776835e-06
+GO:BP,GO:0090304,nucleic acid metabolic process,8.320165917269617e-06
+GO:BP,GO:0009058,biosynthetic process,3.894257848915672e-05
+GO:BP,GO:0080090,regulation of primary metabolic process,6.375357125584755e-05
+GO:BP,GO:0016070,RNA metabolic process,8.554404799822953e-05
+GO:BP,GO:0141187,nucleic acid biosynthetic process,0.00016424362914337786
+GO:BP,GO:0032774,RNA biosynthetic process,0.0002568583654848753
+GO:BP,GO:0048519,negative regulation of biological process,0.00040978557679150526
+GO:CC,GO:0005575,cellular_component,3.1914799450669734e-20
+GO:CC,GO:0110165,cellular anatomical structure,2.5320444130715764e-19
+GO:CC,GO:0043227,membrane-bounded organelle,1.2998209206571562e-16
+GO:CC,GO:0043226,organelle,3.34086020231091e-16
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,5.252139811286014e-16
+GO:CC,GO:0005622,intracellular anatomical structure,2.909606605456993e-14
+GO:CC,GO:0043229,intracellular organelle,4.5372113159401366e-14
+GO:CC,GO:0005634,nucleus,5.337700420041306e-12
+GO:CC,GO:0031974,membrane-enclosed lumen,1.5190115957172883e-09
+GO:CC,GO:0043233,organelle lumen,1.5190115957172883e-09
+GO:CC,GO:0070013,intracellular organelle lumen,1.5190115957172883e-09
+GO:CC,GO:0031981,nuclear lumen,1.0449821860118847e-07
+GO:CC,GO:0005654,nucleoplasm,3.2657883168121726e-06
+GO:CC,GO:0005737,cytoplasm,5.3813521000096385e-06
+GO:CC,GO:0043228,membraneless organelle,0.008005811678214065
+GO:CC,GO:0043232,intracellular membraneless organelle,0.008005811678214065
+GO:CC,GO:0016020,membrane,0.01090104148011685
+GO:CC,GO:0005829,cytosol,0.0336793376725725
+GO:CC,GO:0005794,Golgi apparatus,0.04151453874876452
+GO:CC,GO:0032991,protein-containing complex,0.049505539694502707
+GO:MF,GO:0003674,molecular_function,3.154334981990657e-23
+GO:MF,GO:0005488,binding,1.1550268741078842e-19
+GO:MF,GO:0005515,protein binding,4.607654522499556e-18
+GO:MF,GO:0003676,nucleic acid binding,8.637935183577613e-07
+GO:MF,GO:0070412,R-SMAD binding,2.982194488519452e-05
+GO:MF,GO:0003677,DNA binding,0.00010246548113771236
+GO:MF,GO:0043565,sequence-specific DNA binding,0.002363930923339972
+GO:MF,GO:0016788,"hydrolase activity, acting on ester bonds",0.003374598232187224
+GO:MF,GO:0036094,small molecule binding,0.0035775307186856563
+GO:MF,GO:0043167,ion binding,0.004281962221251173
+GO:MF,GO:0000978,RNA polymerase II cis-regulatory region sequence-specific DNA binding,0.007607686537840415
+GO:MF,GO:0000981,"DNA-binding transcription factor activity, RNA polymerase II-specific",0.00795248950171263
+GO:MF,GO:0046332,SMAD binding,0.00811833287670886
+GO:MF,GO:0000987,cis-regulatory region sequence-specific DNA binding,0.009740617802927896
+GO:MF,GO:0003700,DNA-binding transcription factor activity,0.018001533004254815
+GO:MF,GO:0140640,"catalytic activity, acting on a nucleic acid",0.02030839880294974
+GO:MF,GO:0140110,transcription regulator activity,0.026443999313178906
+GO:MF,GO:0000977,RNA polymerase II transcription regulatory region sequence-specific DNA binding,0.046631829307040726

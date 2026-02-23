@@ -1,0 +1,81 @@
+source,native,name,p_value
+GO:BP,GO:0009987,cellular process,5e-324
+GO:BP,GO:0010467,gene expression,5e-324
+GO:BP,GO:0043170,macromolecule metabolic process,5e-324
+GO:BP,GO:0044238,primary metabolic process,5e-324
+GO:BP,GO:0006139,nucleobase-containing compound metabolic process,5e-324
+GO:BP,GO:0008150,biological_process,5e-324
+GO:BP,GO:0008152,metabolic process,5e-324
+GO:BP,GO:0009059,macromolecule biosynthetic process,5e-324
+GO:BP,GO:0009058,biosynthetic process,5e-324
+GO:BP,GO:0065007,biological regulation,2.729125e-317
+GO:BP,GO:0050789,regulation of biological process,1.3186017349026328e-296
+GO:BP,GO:0050794,regulation of cellular process,1.5703619408138562e-289
+GO:BP,GO:0090304,nucleic acid metabolic process,6.126135539476265e-275
+GO:BP,GO:0071840,cellular component organization or biogenesis,7.17911471381894e-270
+GO:BP,GO:0034654,nucleobase-containing compound biosynthetic process,2.1251541688756025e-259
+GO:BP,GO:0019538,protein metabolic process,4.477195191778392e-232
+GO:BP,GO:0016070,RNA metabolic process,6.788014325651295e-228
+GO:BP,GO:0016043,cellular component organization,2.3862063954600254e-220
+GO:BP,GO:0141187,nucleic acid biosynthetic process,7.306104088068535e-217
+GO:BP,GO:0019222,regulation of metabolic process,1.9960606615712966e-215
+GO:CC,GO:0110165,cellular anatomical structure,5e-324
+GO:CC,GO:0070013,intracellular organelle lumen,5e-324
+GO:CC,GO:0005737,cytoplasm,5e-324
+GO:CC,GO:0005654,nucleoplasm,5e-324
+GO:CC,GO:0005634,nucleus,5e-324
+GO:CC,GO:0005622,intracellular anatomical structure,5e-324
+GO:CC,GO:0005575,cellular_component,5e-324
+GO:CC,GO:0032991,protein-containing complex,5e-324
+GO:CC,GO:0031981,nuclear lumen,5e-324
+GO:CC,GO:0031974,membrane-enclosed lumen,5e-324
+GO:CC,GO:0043233,organelle lumen,5e-324
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,5e-324
+GO:CC,GO:0043229,intracellular organelle,5e-324
+GO:CC,GO:0043227,membrane-bounded organelle,5e-324
+GO:CC,GO:0043226,organelle,5e-324
+GO:CC,GO:0005829,cytosol,7.96019554537e-313
+GO:CC,GO:0016020,membrane,1.4155680154235455e-242
+GO:CC,GO:0043228,membraneless organelle,3.938704855981552e-239
+GO:CC,GO:0043232,intracellular membraneless organelle,3.938704855981552e-239
+GO:CC,GO:0031090,organelle membrane,3.7951429198303166e-171
+GO:MF,GO:0005488,binding,5e-324
+GO:MF,GO:0005515,protein binding,5e-324
+GO:MF,GO:0003674,molecular_function,5e-324
+GO:MF,GO:0003676,nucleic acid binding,4.068948019747385e-292
+GO:MF,GO:0003723,RNA binding,1.0235750558834256e-289
+GO:MF,GO:0003824,catalytic activity,4.9088586614870066e-266
+GO:MF,GO:0036094,small molecule binding,1.7831128631039583e-175
+GO:MF,GO:0043167,ion binding,3.003206545440528e-166
+GO:MF,GO:1901363,heterocyclic compound binding,2.558367620592122e-111
+GO:MF,GO:1901265,nucleoside phosphate binding,4.831016792579526e-106
+GO:MF,GO:0000166,nucleotide binding,1.3509528190648783e-105
+GO:MF,GO:0043168,anion binding,3.999156172153043e-99
+GO:MF,GO:0016740,transferase activity,5.872078560608619e-96
+GO:MF,GO:0017076,purine nucleotide binding,4.202264189565024e-94
+GO:MF,GO:0032553,ribonucleotide binding,6.955308358105186e-92
+GO:MF,GO:0097367,carbohydrate derivative binding,9.611839675193933e-90
+GO:MF,GO:0019899,enzyme binding,1.0020272493696027e-89
+GO:MF,GO:0032555,purine ribonucleotide binding,1.944063636183154e-89
+GO:MF,GO:0035639,purine ribonucleoside triphosphate binding,2.3747932611865116e-89
+GO:MF,GO:0140640,"catalytic activity, acting on a nucleic acid",2.594718045609503e-84
+KEGG,KEGG:00000,KEGG root term,5e-324
+KEGG,KEGG:01100,Metabolic pathways,6.033157454828174e-70
+KEGG,KEGG:03010,Ribosome,4.459041935499731e-65
+KEGG,KEGG:05012,Parkinson disease,1.5608799971018448e-59
+KEGG,KEGG:05014,Amyotrophic lateral sclerosis,2.3621748193701994e-57
+KEGG,KEGG:05016,Huntington disease,3.1262071229233262e-52
+KEGG,KEGG:05022,Pathways of neurodegeneration - multiple diseases,5.596104446148808e-48
+KEGG,KEGG:05020,Prion disease,7.357268155169722e-48
+KEGG,KEGG:05010,Alzheimer disease,7.233463569668239e-47
+KEGG,KEGG:00190,Oxidative phosphorylation,1.6719677616496562e-43
+KEGG,KEGG:05415,Diabetic cardiomyopathy,3.753512814684637e-38
+KEGG,KEGG:04714,Thermogenesis,3.5152860828180458e-37
+KEGG,KEGG:03040,Spliceosome,4.25895643531804e-36
+KEGG,KEGG:05208,Chemical carcinogenesis - reactive oxygen species,1.5631050240852869e-34
+KEGG,KEGG:03008,Ribosome biogenesis in eukaryotes,1.9192460345815513e-29
+KEGG,KEGG:03013,Nucleocytoplasmic transport,2.3537442847614342e-29
+KEGG,KEGG:04932,Non-alcoholic fatty liver disease,1.3922963774407556e-28
+KEGG,KEGG:05171,Coronavirus disease - COVID-19,5.126893794674797e-25
+KEGG,KEGG:04141,Protein processing in endoplasmic reticulum,1.3820825716970518e-21
+KEGG,KEGG:05017,Spinocerebellar ataxia,2.0516640435650376e-19

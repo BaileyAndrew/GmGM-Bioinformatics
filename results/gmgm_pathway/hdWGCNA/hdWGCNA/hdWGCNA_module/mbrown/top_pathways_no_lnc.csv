@@ -1,0 +1,69 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,1.7330091761526046e-60
+GO:BP,GO:0009987,cellular process,7.281190304535909e-55
+GO:BP,GO:0032502,developmental process,2.830701327365372e-43
+GO:BP,GO:0048856,anatomical structure development,4.822649162576417e-43
+GO:BP,GO:0007275,multicellular organism development,1.6199164686207257e-36
+GO:BP,GO:0032501,multicellular organismal process,4.6027882092774576e-35
+GO:BP,GO:0065007,biological regulation,1.312953226280568e-34
+GO:BP,GO:0050789,regulation of biological process,2.065728633938404e-33
+GO:BP,GO:0048731,system development,2.066802277908272e-32
+GO:BP,GO:0050794,regulation of cellular process,4.904303156899307e-32
+GO:BP,GO:0030154,cell differentiation,1.1781202119853312e-31
+GO:BP,GO:0048869,cellular developmental process,1.2158159503261853e-31
+GO:BP,GO:0030030,cell projection organization,4.060206107761862e-29
+GO:BP,GO:0120036,plasma membrane bounded cell projection organization,1.1801250482328704e-28
+GO:BP,GO:0003341,cilium movement,3.0545938915994652e-25
+GO:BP,GO:0007018,microtubule-based movement,2.472274231454437e-24
+GO:BP,GO:0009653,anatomical structure morphogenesis,8.379853289007845e-24
+GO:BP,GO:0048513,animal organ development,9.01257500643668e-24
+GO:BP,GO:0007399,nervous system development,2.8836853549842146e-23
+GO:BP,GO:0007017,microtubule-based process,9.687257339504443e-22
+GO:CC,GO:0005575,cellular_component,5.319784022840871e-66
+GO:CC,GO:0110165,cellular anatomical structure,3.3461010598909366e-65
+GO:CC,GO:0005622,intracellular anatomical structure,1.506522301816518e-30
+GO:CC,GO:0043226,organelle,3.5226949312260865e-29
+GO:CC,GO:0120025,plasma membrane bounded cell projection,1.0254845559953861e-26
+GO:CC,GO:0042995,cell projection,1.205913781801551e-26
+GO:CC,GO:0005929,cilium,3.093849051745362e-26
+GO:CC,GO:0005737,cytoplasm,1.1150151404375718e-25
+GO:CC,GO:0043229,intracellular organelle,6.229677547869643e-23
+GO:CC,GO:0005930,axoneme,9.091763856997641e-23
+GO:CC,GO:0097014,ciliary plasm,1.0873654921568162e-22
+GO:CC,GO:0043227,membrane-bounded organelle,1.6514957654410395e-22
+GO:CC,GO:0032838,plasma membrane bounded cell projection cytoplasm,2.0082192575865774e-21
+GO:CC,GO:0005856,cytoskeleton,2.39257808659792e-21
+GO:CC,GO:0031514,motile cilium,8.390805080489475e-20
+GO:CC,GO:0099568,cytoplasmic region,1.2681825004630342e-19
+GO:CC,GO:0071944,cell periphery,8.947569220990094e-19
+GO:CC,GO:0097729,9+2 motile cilium,3.3681109103451166e-17
+GO:CC,GO:0043232,intracellular membraneless organelle,4.4503981075270114e-17
+GO:CC,GO:0043228,membraneless organelle,4.4503981075270114e-17
+GO:MF,GO:0003674,molecular_function,3.608860576095178e-64
+GO:MF,GO:0005488,binding,6.4047086650621e-56
+GO:MF,GO:0005515,protein binding,5.757497608072726e-44
+GO:MF,GO:0043167,ion binding,8.98043412333692e-16
+GO:MF,GO:0036094,small molecule binding,2.467012857908859e-15
+GO:MF,GO:0043169,cation binding,8.291081987987154e-11
+GO:MF,GO:0046872,metal ion binding,2.3616286985061615e-10
+GO:MF,GO:0043168,anion binding,1.5883775990874647e-06
+GO:MF,GO:0060089,molecular transducer activity,4.941275123520415e-06
+GO:MF,GO:0038023,signaling receptor activity,4.941275123520415e-06
+GO:MF,GO:0097367,carbohydrate derivative binding,5.0090422518799045e-06
+GO:MF,GO:0032559,adenyl ribonucleotide binding,1.17455376683643e-05
+GO:MF,GO:0030554,adenyl nucleotide binding,1.309787902642565e-05
+GO:MF,GO:0005524,ATP binding,3.186186061029481e-05
+GO:MF,GO:0008013,beta-catenin binding,0.00033916294478996827
+GO:MF,GO:1901363,heterocyclic compound binding,0.00036709003012996405
+GO:MF,GO:0017076,purine nucleotide binding,0.0003876161885991743
+GO:MF,GO:0032555,purine ribonucleotide binding,0.0004031348247336795
+GO:MF,GO:0032553,ribonucleotide binding,0.0005113390921143785
+GO:MF,GO:1901265,nucleoside phosphate binding,0.0005421208140159804
+KEGG,KEGG:00000,KEGG root term,5.715081964574421e-08
+KEGG,KEGG:04310,Wnt signaling pathway,5.2566629525457e-07
+KEGG,KEGG:04390,Hippo signaling pathway,7.580061187502463e-05
+KEGG,KEGG:04360,Axon guidance,0.0004665832161272763
+KEGG,KEGG:05200,Pathways in cancer,0.0023462146418426148
+KEGG,KEGG:04550,Signaling pathways regulating pluripotency of stem cells,0.003348701760038292
+KEGG,KEGG:04814,Motor proteins,0.010214623401914522
+KEGG,KEGG:05226,Gastric cancer,0.02860360883664168

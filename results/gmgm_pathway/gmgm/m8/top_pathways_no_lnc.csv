@@ -1,0 +1,81 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,3.5173726232076308e-31
+GO:BP,GO:0009987,cellular process,1.6330699801227337e-30
+GO:BP,GO:0065007,biological regulation,4.314469048487003e-30
+GO:BP,GO:0050789,regulation of biological process,2.8343336829994353e-29
+GO:BP,GO:0050794,regulation of cellular process,4.6469163628055206e-29
+GO:BP,GO:0032501,multicellular organismal process,1.2319608640562787e-28
+GO:BP,GO:0048856,anatomical structure development,2.442356695248031e-26
+GO:BP,GO:0032502,developmental process,2.4692610622296712e-24
+GO:BP,GO:0048522,positive regulation of cellular process,1.646901291659076e-23
+GO:BP,GO:0048518,positive regulation of biological process,8.400382349511224e-23
+GO:BP,GO:0050896,response to stimulus,8.218665393253572e-22
+GO:BP,GO:0048646,anatomical structure formation involved in morphogenesis,4.44828249979551e-21
+GO:BP,GO:0009653,anatomical structure morphogenesis,1.187936490421078e-20
+GO:BP,GO:0072359,circulatory system development,8.265360779090812e-20
+GO:BP,GO:0007155,cell adhesion,3.1716176362920757e-19
+GO:BP,GO:0042060,wound healing,8.173205011383223e-19
+GO:BP,GO:0023052,signaling,1.3044182711806934e-18
+GO:BP,GO:0009888,tissue development,1.7273699871288761e-18
+GO:BP,GO:0009611,response to wounding,2.507611253831023e-18
+GO:BP,GO:0007165,signal transduction,3.893719815644709e-18
+GO:CC,GO:0005575,cellular_component,2.4597192324164454e-39
+GO:CC,GO:0110165,cellular anatomical structure,8.157514343548518e-39
+GO:CC,GO:0005615,extracellular space,5.2327391918856105e-20
+GO:CC,GO:0043226,organelle,6.027439798856943e-20
+GO:CC,GO:0005576,extracellular region,9.948319274138144e-19
+GO:CC,GO:0005622,intracellular anatomical structure,1.8610903435430922e-17
+GO:CC,GO:0043227,membrane-bounded organelle,2.4867373503562364e-17
+GO:CC,GO:0071944,cell periphery,4.109738452096335e-16
+GO:CC,GO:0043229,intracellular organelle,6.279359631876259e-15
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,2.810498459308455e-13
+GO:CC,GO:0005737,cytoplasm,1.2946503720432445e-12
+GO:CC,GO:0005886,plasma membrane,8.759614940320759e-11
+GO:CC,GO:0070161,anchoring junction,1.8190380508907702e-10
+GO:CC,GO:0005925,focal adhesion,9.769795152228957e-10
+GO:CC,GO:0031012,extracellular matrix,1.4254868158484129e-09
+GO:CC,GO:0030312,external encapsulating structure,1.4882983845501435e-09
+GO:CC,GO:0030055,cell-substrate junction,1.5557209010476989e-09
+GO:CC,GO:0030054,cell junction,4.086175947714797e-09
+GO:CC,GO:0030016,myofibril,6.641607737496426e-09
+GO:CC,GO:0062023,collagen-containing extracellular matrix,8.588112743893575e-09
+GO:MF,GO:0003674,molecular_function,6.073002311967279e-41
+GO:MF,GO:0005488,binding,1.830035348851454e-32
+GO:MF,GO:0005515,protein binding,4.889106990030295e-25
+GO:MF,GO:0016787,hydrolase activity,7.849261761872181e-07
+GO:MF,GO:0060089,molecular transducer activity,8.923725689828701e-07
+GO:MF,GO:0038023,signaling receptor activity,8.923725689828701e-07
+GO:MF,GO:0005102,signaling receptor binding,1.1394723858072217e-06
+GO:MF,GO:0042802,identical protein binding,1.4830210063088602e-06
+GO:MF,GO:0043167,ion binding,1.5515173259626971e-06
+GO:MF,GO:0140096,"catalytic activity, acting on a protein",1.716077721875588e-06
+GO:MF,GO:0036094,small molecule binding,2.590320415865303e-06
+GO:MF,GO:0008233,peptidase activity,3.0859490112659992e-06
+GO:MF,GO:0000981,"DNA-binding transcription factor activity, RNA polymerase II-specific",1.1993257293272571e-05
+GO:MF,GO:0003824,catalytic activity,2.27522569752782e-05
+GO:MF,GO:0140110,transcription regulator activity,2.8460820174497263e-05
+GO:MF,GO:0003700,DNA-binding transcription factor activity,5.29388441627616e-05
+GO:MF,GO:0098772,molecular function regulator activity,8.50999065691764e-05
+GO:MF,GO:0043169,cation binding,0.00012224380987419788
+GO:MF,GO:0001228,"DNA-binding transcription activator activity, RNA polymerase II-specific",0.00013423700711791243
+GO:MF,GO:0001216,DNA-binding transcription activator activity,0.00016924448306357298
+KEGG,KEGG:00000,KEGG root term,1.7553000803932567e-14
+KEGG,KEGG:04510,Focal adhesion,6.148029705088517e-08
+KEGG,KEGG:04933,AGE-RAGE signaling pathway in diabetic complications,4.6082386397559577e-07
+KEGG,KEGG:05410,Hypertrophic cardiomyopathy,3.903127523327158e-06
+KEGG,KEGG:05205,Proteoglycans in cancer,4.05602229108964e-06
+KEGG,KEGG:05418,Fluid shear stress and atherosclerosis,6.226147249050377e-06
+KEGG,KEGG:04010,MAPK signaling pathway,4.874406543372848e-05
+KEGG,KEGG:04022,cGMP-PKG signaling pathway,0.00032403804116136204
+KEGG,KEGG:05414,Dilated cardiomyopathy,0.0009030383729761728
+KEGG,KEGG:04060,Cytokine-cytokine receptor interaction,0.0013755953929799904
+KEGG,KEGG:05161,Hepatitis B,0.001698169431894553
+KEGG,KEGG:04380,Osteoclast differentiation,0.0020881229116663557
+KEGG,KEGG:04530,Tight junction,0.002880780967700684
+KEGG,KEGG:04926,Relaxin signaling pathway,0.004110268040553484
+KEGG,KEGG:04270,Vascular smooth muscle contraction,0.004110268040553484
+KEGG,KEGG:04810,Regulation of actin cytoskeleton,0.004519586748304413
+KEGG,KEGG:04080,Neuroactive ligand-receptor interaction,0.006385781075598206
+KEGG,KEGG:04659,Th17 cell differentiation,0.006401706130362862
+KEGG,KEGG:05132,Salmonella infection,0.008974507656745807
+KEGG,KEGG:04024,cAMP signaling pathway,0.01382810482185406

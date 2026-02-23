@@ -1,0 +1,5 @@
+source,native,name,p_value
+GO:CC,GO:0005622,intracellular anatomical structure,0.028515229095083024
+GO:CC,GO:0043229,intracellular organelle,0.041594294093676334
+GO:MF,GO:0005488,binding,0.01465960099832976
+KEGG,KEGG:04660,T cell receptor signaling pathway,0.02212482073118396

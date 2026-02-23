@@ -1,0 +1,4 @@
+source,native,name,p_value
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,0.03969799883779332
+GO:MF,GO:0005488,binding,0.047028137531170806
+KEGG,KEGG:00760,Nicotinate and nicotinamide metabolism,0.0499351869842127

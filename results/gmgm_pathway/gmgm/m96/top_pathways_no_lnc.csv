@@ -1,0 +1,53 @@
+source,native,name,p_value
+GO:BP,GO:0009987,cellular process,7.548467806843376e-10
+GO:BP,GO:0008150,biological_process,4.147146673595441e-09
+GO:BP,GO:0043170,macromolecule metabolic process,9.129068444904541e-07
+GO:BP,GO:0008152,metabolic process,1.013736386137978e-06
+GO:BP,GO:0044238,primary metabolic process,2.146439761415634e-06
+GO:BP,GO:0050794,regulation of cellular process,7.887967911212413e-06
+GO:BP,GO:0050789,regulation of biological process,8.12016574068498e-06
+GO:BP,GO:0065007,biological regulation,9.208205268556048e-06
+GO:BP,GO:0080090,regulation of primary metabolic process,1.1284441042259936e-05
+GO:BP,GO:0019222,regulation of metabolic process,3.076543592042638e-05
+GO:BP,GO:0060255,regulation of macromolecule metabolic process,3.4016660927769126e-05
+GO:BP,GO:0010467,gene expression,9.674216497637274e-05
+GO:BP,GO:0009059,macromolecule biosynthetic process,0.00019231350263933779
+GO:BP,GO:0032774,RNA biosynthetic process,0.00025340059128025195
+GO:BP,GO:0090304,nucleic acid metabolic process,0.0002868697286842832
+GO:BP,GO:0009058,biosynthetic process,0.0003550904304437947
+GO:BP,GO:0141187,nucleic acid biosynthetic process,0.00046478033054124686
+GO:BP,GO:0016070,RNA metabolic process,0.0007102913554221906
+GO:BP,GO:0006351,DNA-templated transcription,0.0011633982470290057
+GO:BP,GO:0034654,nucleobase-containing compound biosynthetic process,0.0020957122578938304
+GO:CC,GO:0005622,intracellular anatomical structure,1.6165736646378784e-11
+GO:CC,GO:0110165,cellular anatomical structure,1.9374841703763342e-11
+GO:CC,GO:0043226,organelle,2.65060662062787e-11
+GO:CC,GO:0005575,cellular_component,3.3098970566703196e-11
+GO:CC,GO:0043227,membrane-bounded organelle,2.0089674203143712e-10
+GO:CC,GO:0043229,intracellular organelle,2.748139165670201e-10
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,5.061151867730977e-10
+GO:CC,GO:0005737,cytoplasm,2.3567259884520066e-08
+GO:CC,GO:0005634,nucleus,1.3798639614960305e-06
+GO:CC,GO:0005829,cytosol,0.00024300912978751437
+GO:CC,GO:1902494,catalytic complex,0.0004936228361820914
+GO:CC,GO:0031981,nuclear lumen,0.0009212885179632007
+GO:CC,GO:1990234,transferase complex,0.0023541579824694764
+GO:CC,GO:0031974,membrane-enclosed lumen,0.0031091697712339436
+GO:CC,GO:0043233,organelle lumen,0.0031091697712339436
+GO:CC,GO:0070013,intracellular organelle lumen,0.0031091697712339436
+GO:CC,GO:0005654,nucleoplasm,0.004365491098761654
+GO:CC,GO:0140535,intracellular protein-containing complex,0.019118872698197682
+GO:CC,GO:0000123,histone acetyltransferase complex,0.03390741624911819
+GO:CC,GO:0070461,SAGA-type complex,0.049041191434534046
+GO:MF,GO:0005488,binding,3.99430046824014e-12
+GO:MF,GO:0003674,molecular_function,3.751927839128257e-11
+GO:MF,GO:0005515,protein binding,3.345688922619418e-09
+GO:MF,GO:0031625,ubiquitin protein ligase binding,0.015427289398698606
+GO:MF,GO:0044389,ubiquitin-like protein ligase binding,0.022480146402831462
+GO:MF,GO:0036094,small molecule binding,0.027673484004075082
+GO:MF,GO:0003899,DNA-directed RNA polymerase activity,0.03970868446730373
+GO:MF,GO:0043167,ion binding,0.04073153831612897
+GO:MF,GO:0034062,5'-3' RNA polymerase activity,0.04939582116974987
+KEGG,KEGG:00000,KEGG root term,0.0003430066148376763
+KEGG,KEGG:04140,Autophagy - animal,0.007712922210842854
+KEGG,KEGG:03020,RNA polymerase,0.008211914768702375

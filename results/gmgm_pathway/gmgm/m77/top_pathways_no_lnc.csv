@@ -1,0 +1,30 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,1.2380940984330003e-10
+GO:BP,GO:0009987,cellular process,6.333465130456001e-10
+GO:BP,GO:0050794,regulation of cellular process,0.003492051374958544
+GO:BP,GO:0050789,regulation of biological process,0.0044361276013800965
+GO:BP,GO:0065007,biological regulation,0.015405232927995581
+GO:CC,GO:0005575,cellular_component,2.683585065375904e-16
+GO:CC,GO:0110165,cellular anatomical structure,1.745925794575309e-15
+GO:CC,GO:0005622,intracellular anatomical structure,1.284350215421311e-08
+GO:CC,GO:0043229,intracellular organelle,1.203900989805389e-06
+GO:CC,GO:0043226,organelle,1.6492755634605742e-06
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,2.446248908103754e-06
+GO:CC,GO:0043227,membrane-bounded organelle,3.013818804184365e-06
+GO:CC,GO:0016020,membrane,5.079496165951238e-06
+GO:CC,GO:0005737,cytoplasm,1.0782457367715662e-05
+GO:CC,GO:0005886,plasma membrane,0.0044527777187406015
+GO:CC,GO:0005829,cytosol,0.004771994970644996
+GO:CC,GO:0005634,nucleus,0.005054754490746213
+GO:CC,GO:0071944,cell periphery,0.010911637579087337
+GO:CC,GO:0045273,respiratory chain complex II (succinate dehydrogenase),0.020575531016505295
+GO:CC,GO:0032991,protein-containing complex,0.039883792713875696
+GO:CC,GO:0031967,organelle envelope,0.04585603477854979
+GO:MF,GO:0003674,molecular_function,1.6633593516319424e-17
+GO:MF,GO:0005488,binding,6.9039625497896e-12
+GO:MF,GO:0005515,protein binding,4.953486780555894e-10
+GO:MF,GO:0008177,succinate dehydrogenase (quinone) activity,0.022342115307089294
+GO:MF,GO:0000104,succinate dehydrogenase activity,0.022342115307089294
+GO:MF,GO:0016635,"oxidoreductase activity, acting on the CH-CH group of donors, quinone or related compound as acceptor",0.044580317202428145
+KEGG,KEGG:00020,Citrate cycle (TCA cycle),0.009937985510109442
+KEGG,KEGG:04140,Autophagy - animal,0.021476816939146662

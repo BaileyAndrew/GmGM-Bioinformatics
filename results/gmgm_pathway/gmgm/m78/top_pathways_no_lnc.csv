@@ -1,0 +1,41 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,4.665875966887456e-16
+GO:BP,GO:0009987,cellular process,6.114221619441229e-14
+GO:BP,GO:0008152,metabolic process,6.715718553541241e-07
+GO:BP,GO:0044238,primary metabolic process,6.40530470627086e-06
+GO:BP,GO:0065007,biological regulation,0.00018363451759669726
+GO:BP,GO:0006796,phosphate-containing compound metabolic process,0.0003653314351198548
+GO:BP,GO:0006793,phosphorus metabolic process,0.00037463763708116645
+GO:BP,GO:0050794,regulation of cellular process,0.0008263770209917428
+GO:BP,GO:0050789,regulation of biological process,0.0010531323142318682
+GO:BP,GO:0019222,regulation of metabolic process,0.0039608079281030825
+GO:BP,GO:0006139,nucleobase-containing compound metabolic process,0.007154803201050655
+GO:BP,GO:0080090,regulation of primary metabolic process,0.00846051184191512
+GO:BP,GO:1905898,positive regulation of response to endoplasmic reticulum stress,0.017459138430724518
+GO:BP,GO:0043170,macromolecule metabolic process,0.023528440587197042
+GO:CC,GO:0005575,cellular_component,4.512422623066924e-16
+GO:CC,GO:0110165,cellular anatomical structure,2.927980940040673e-15
+GO:CC,GO:0005622,intracellular anatomical structure,2.7950371149778906e-14
+GO:CC,GO:0005737,cytoplasm,6.333741106439559e-12
+GO:CC,GO:0043226,organelle,5.6503794702497635e-08
+GO:CC,GO:0043229,intracellular organelle,5.874060770753588e-07
+GO:CC,GO:0032991,protein-containing complex,2.496092081751383e-06
+GO:CC,GO:0043227,membrane-bounded organelle,4.994642434885337e-06
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,1.3109897479005324e-05
+GO:CC,GO:0005634,nucleus,0.009043607593203948
+GO:CC,GO:0098796,membrane protein complex,0.020184297373434804
+GO:CC,GO:0005829,cytosol,0.023992042975383238
+GO:CC,GO:0019866,organelle inner membrane,0.036334112887456194
+GO:CC,GO:0005739,mitochondrion,0.0383356051549025
+GO:CC,GO:0031967,organelle envelope,0.04099735706082273
+GO:CC,GO:0016020,membrane,0.049442899544955406
+GO:MF,GO:0003674,molecular_function,4.57775849698268e-16
+GO:MF,GO:0005488,binding,2.6451573580065637e-14
+GO:MF,GO:0005515,protein binding,7.745234486511108e-08
+GO:MF,GO:0003824,catalytic activity,0.009238461268451896
+GO:MF,GO:0036094,small molecule binding,0.011860134825043962
+GO:MF,GO:0043167,ion binding,0.015458602905367734
+KEGG,KEGG:00000,KEGG root term,0.0003501227458114369
+KEGG,KEGG:04932,Non-alcoholic fatty liver disease,0.0008908475906435643
+KEGG,KEGG:05012,Parkinson disease,0.0024042143559174483
+KEGG,KEGG:05014,Amyotrophic lateral sclerosis,0.01644956049561074

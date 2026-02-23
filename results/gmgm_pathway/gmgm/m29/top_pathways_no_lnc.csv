@@ -1,0 +1,47 @@
+source,native,name,p_value
+GO:BP,GO:0009987,cellular process,2.0013864837583116e-14
+GO:BP,GO:0008150,biological_process,4.866237841676791e-14
+GO:BP,GO:0008152,metabolic process,1.0221017391101436e-09
+GO:BP,GO:0044238,primary metabolic process,4.5180838203427945e-07
+GO:BP,GO:0034654,nucleobase-containing compound biosynthetic process,0.00038094744296558476
+GO:BP,GO:0006139,nucleobase-containing compound metabolic process,0.001723696705550195
+GO:BP,GO:0006366,transcription by RNA polymerase II,0.00883573313918054
+GO:BP,GO:0009058,biosynthetic process,0.011113039358735345
+GO:BP,GO:0008216,spermidine metabolic process,0.013070696365500435
+GO:BP,GO:0006355,regulation of DNA-templated transcription,0.015257119115086306
+GO:BP,GO:2001141,regulation of RNA biosynthetic process,0.016935598570101976
+GO:BP,GO:0043170,macromolecule metabolic process,0.02357036938133378
+GO:BP,GO:0032774,RNA biosynthetic process,0.026458366955742916
+GO:BP,GO:0006357,regulation of transcription by RNA polymerase II,0.030748146721834926
+GO:BP,GO:0006351,DNA-templated transcription,0.03481794980286485
+GO:BP,GO:0050794,regulation of cellular process,0.03550329163856319
+GO:BP,GO:0141187,nucleic acid biosynthetic process,0.04915977546257034
+GO:BP,GO:0006043,glucosamine catabolic process,0.04935188755901615
+GO:CC,GO:0110165,cellular anatomical structure,8.834653741270786e-20
+GO:CC,GO:0005575,cellular_component,2.1577593361807833e-19
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,4.4707011231576165e-17
+GO:CC,GO:0043227,membrane-bounded organelle,2.7810888181614195e-16
+GO:CC,GO:0043226,organelle,3.8980498029759663e-16
+GO:CC,GO:0005622,intracellular anatomical structure,4.073729511178606e-16
+GO:CC,GO:0043229,intracellular organelle,4.583243831457437e-16
+GO:CC,GO:0005737,cytoplasm,1.2263186007612654e-09
+GO:CC,GO:0005634,nucleus,1.4631455412424096e-07
+GO:CC,GO:0031974,membrane-enclosed lumen,6.27039303996758e-07
+GO:CC,GO:0070013,intracellular organelle lumen,6.27039303996758e-07
+GO:CC,GO:0043233,organelle lumen,6.27039303996758e-07
+GO:CC,GO:0031981,nuclear lumen,2.2308610933067097e-06
+GO:CC,GO:0005654,nucleoplasm,2.783075521958272e-05
+GO:CC,GO:0031967,organelle envelope,0.0013419866346569712
+GO:CC,GO:0016020,membrane,0.004393321594345001
+GO:CC,GO:0031090,organelle membrane,0.005033800467030315
+GO:CC,GO:0031966,mitochondrial membrane,0.007088015917209658
+GO:CC,GO:0005740,mitochondrial envelope,0.014056920959845927
+GO:CC,GO:0005739,mitochondrion,0.04624702327023688
+GO:MF,GO:0005488,binding,6.410627441647056e-19
+GO:MF,GO:0003674,molecular_function,1.519250458283478e-18
+GO:MF,GO:0005515,protein binding,1.0721179968285274e-15
+GO:MF,GO:0036094,small molecule binding,0.007607378250505171
+GO:MF,GO:0004342,glucosamine-6-phosphate deaminase activity,0.016682328188963206
+GO:MF,GO:0043167,ion binding,0.01750615998018782
+GO:MF,GO:0043169,cation binding,0.04484829835721519
+KEGG,KEGG:01100,Metabolic pathways,0.0004395503088808354

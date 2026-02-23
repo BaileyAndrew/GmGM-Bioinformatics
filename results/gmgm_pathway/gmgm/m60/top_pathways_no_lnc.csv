@@ -1,0 +1,62 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,1.4450711088403525e-12
+GO:BP,GO:0009987,cellular process,2.3732804616246413e-10
+GO:BP,GO:0050789,regulation of biological process,1.8995409757580305e-09
+GO:BP,GO:0065007,biological regulation,3.4944829614413586e-09
+GO:BP,GO:0050794,regulation of cellular process,4.700765548236406e-09
+GO:BP,GO:0002376,immune system process,3.2158533516883725e-07
+GO:BP,GO:0048519,negative regulation of biological process,1.316656421336788e-06
+GO:BP,GO:0008152,metabolic process,8.310495025262469e-06
+GO:BP,GO:0048523,negative regulation of cellular process,1.8217623933090583e-05
+GO:BP,GO:0006955,immune response,2.249709463497353e-05
+GO:BP,GO:0044238,primary metabolic process,3.9352410107937334e-05
+GO:BP,GO:0050896,response to stimulus,0.00010749131099156665
+GO:BP,GO:0051716,cellular response to stimulus,0.00019909169655236912
+GO:BP,GO:0019222,regulation of metabolic process,0.0005385346065677253
+GO:BP,GO:0009893,positive regulation of metabolic process,0.000675380252030084
+GO:BP,GO:0006950,response to stress,0.0006904859974456293
+GO:BP,GO:0007154,cell communication,0.0008116918501950384
+GO:BP,GO:0060255,regulation of macromolecule metabolic process,0.0009768308388834817
+GO:BP,GO:0010604,positive regulation of macromolecule metabolic process,0.0010780820230475014
+GO:BP,GO:0048518,positive regulation of biological process,0.0012337710767579336
+GO:CC,GO:0005575,cellular_component,4.489012924400552e-16
+GO:CC,GO:0110165,cellular anatomical structure,2.2688463968478215e-15
+GO:CC,GO:0005622,intracellular anatomical structure,5.325121711103151e-12
+GO:CC,GO:0043229,intracellular organelle,3.7548368184261464e-11
+GO:CC,GO:0043227,membrane-bounded organelle,1.1653988822755538e-10
+GO:CC,GO:0043226,organelle,2.902156779355591e-10
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,2.995795259637717e-10
+GO:CC,GO:0005737,cytoplasm,4.2718829857646293e-10
+GO:CC,GO:0005634,nucleus,1.851725056990128e-05
+GO:CC,GO:0033256,I-kappaB/NF-kappaB complex,7.27339614363887e-05
+GO:CC,GO:0070013,intracellular organelle lumen,0.0007770017298808343
+GO:CC,GO:0031974,membrane-enclosed lumen,0.0007770017298808343
+GO:CC,GO:0043233,organelle lumen,0.0007770017298808343
+GO:CC,GO:0005654,nucleoplasm,0.003955199698092281
+GO:CC,GO:0031981,nuclear lumen,0.0042406763036499165
+GO:CC,GO:0012505,endomembrane system,0.004688248468191499
+GO:CC,GO:0015630,microtubule cytoskeleton,0.007892133410422348
+GO:CC,GO:0005815,microtubule organizing center,0.009650394563221714
+GO:CC,GO:0043228,membraneless organelle,0.010232634575152956
+GO:CC,GO:0043232,intracellular membraneless organelle,0.010232634575152956
+GO:MF,GO:0005515,protein binding,3.2897298970196965e-17
+GO:MF,GO:0005488,binding,7.152063364132655e-15
+GO:MF,GO:0003674,molecular_function,3.25496276510719e-14
+KEGG,KEGG:04064,NF-kappa B signaling pathway,4.389312266422097e-06
+KEGG,KEGG:05169,Epstein-Barr virus infection,2.8600723129770094e-05
+KEGG,KEGG:00000,KEGG root term,3.152966022966388e-05
+KEGG,KEGG:04657,IL-17 signaling pathway,0.0006480104278436135
+KEGG,KEGG:04668,TNF signaling pathway,0.004329316849667312
+KEGG,KEGG:04380,Osteoclast differentiation,0.004951957540480639
+KEGG,KEGG:05162,Measles,0.005174136528045201
+KEGG,KEGG:04060,Cytokine-cytokine receptor interaction,0.0062198956464473605
+KEGG,KEGG:05200,Pathways in cancer,0.008766549858211369
+KEGG,KEGG:05135,Yersinia infection,0.010655051361507748
+KEGG,KEGG:05166,Human T-cell leukemia virus 1 infection,0.010977616823026299
+KEGG,KEGG:04621,NOD-like receptor signaling pathway,0.0173575056954141
+KEGG,KEGG:05161,Hepatitis B,0.019136932160510184
+KEGG,KEGG:04062,Chemokine signaling pathway,0.02310869182140187
+KEGG,KEGG:04625,C-type lectin receptor signaling pathway,0.030964319145838765
+KEGG,KEGG:05145,Toxoplasmosis,0.03966128458784022
+KEGG,KEGG:04933,AGE-RAGE signaling pathway in diabetic complications,0.042910593316264636
+KEGG,KEGG:05417,Lipid and atherosclerosis,0.04794375705464723

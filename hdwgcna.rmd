@@ -1,0 +1,314 @@
+<!-- Install hdWGCNA's dependencies -->
+
+<!-- ```{r} -->
+<!-- # install BiocManager -->
+<!-- install.packages("BiocManager") -->
+
+<!-- # install Bioconductor core packages -->
+<!-- BiocManager::install() -->
+
+<!-- # install devtools -->
+<!-- BiocManager::install("devtools") -->
+
+<!-- # install additional packages -->
+<!-- BiocManager::install(c("WGCNA", "UCell", "GenomicRanges", "GeneOverlap")) -->
+
+<!-- # install latest version of Seurat from CRAN -->
+<!-- install.packages("Seurat") -->
+
+<!-- # alternatively, install Seurat v4 -->
+<!-- install.packages("Seurat", repos = c("https://satijalab.r-universe.dev', 'https://cloud.r-project.org")) -->
+<!-- ``` -->
+
+<!-- Install hdWGCNA -->
+<!-- ```{r} -->
+<!-- devtools::install_github('smorabit/hdWGCNA', ref='dev') -->
+<!-- ``` -->
+
+
+```{r}
+# single-cell analysis package
+library(Seurat)
+
+# plotting and data science packages
+library(tidyverse)
+library(cowplot)
+library(patchwork)
+
+# co-expression network analysis packages:
+library(WGCNA)
+library(hdWGCNA)
+
+# using the cowplot theme for ggplot
+theme_set(theme_cowplot())
+
+# set random seed for reproducibility
+set.seed(12345)
+
+# optionally enable multithreading
+enableWGCNAThreads(nThreads = 8)
+```
+
+
+```{r}
+py_bin <- reticulate::conda_list() %>% 
+  filter(name == "cnr-colab") %>% 
+  pull(python)
+py_bin
+Sys.setenv(RETICULATE_PYTHON = py_bin)
+library(reticulate)
+library(sceasy)
+```
+
+```{r}
+# Only run if not generated yet
+# h5ad_path = "results/gmgm_pathway/anndata.h5ad"
+# sceasy::convertFormat(h5ad_path, from="anndata", to="seurat",
+#                        outFile='results/gmgm_pathway/seurat.rds')
+```
+
+```{r}
+seurat_obj <- readRDS('results/gmgm_pathway/seurat.rds')
+seurat_obj <- SetupForWGCNA(
+  seurat_obj,
+  gene_select = "fraction", # the gene selection approach
+  fraction = 0.05, # fraction of cells that a gene needs to be expressed in order to be included
+  wgcna_name = "tutorial" # the name of the hdWGCNA experiment
+)
+```
+
+
+```{r eval=FALSE}
+p <- DimPlot(seurat_obj, group.by='source', label=TRUE) +
+   umap_theme() + ggtitle('Zhou et al Control Cortex') + NoLegend()
+
+p
+```
+
+```{r eval=FALSE}
+
+# construct metacells  in each group
+seurat_obj <- MetacellsByGroups(
+  seurat_obj = seurat_obj,
+  group.by = c("source"), # specify the columns in seurat_obj@meta.data to group by
+  reduction = 'pca', # select the dimensionality reduction to perform KNN on
+  k = 25, # nearest-neighbors parameter
+  max_shared = 10, # maximum number of shared cells between two metacells
+  ident.group = 'source' # set the Idents of the metacell seurat object
+)
+
+# normalize metacell expression matrix:
+seurat_obj <- NormalizeMetacells(seurat_obj)
+
+```
+
+```{r eval=FALSE}
+metacell_obj <- GetMetacellObject(seurat_obj)
+```
+
+```{r eval=FALSE}
+
+# seurat_obj <- NormalizeMetacells(seurat_obj)
+# seurat_obj <- ScaleMetacells(seurat_obj, features=VariableFeatures(seurat_obj))
+# seurat_obj <- RunPCAMetacells(seurat_obj, features=VariableFeatures(seurat_obj))
+# seurat_obj <- RunUMAPMetacells(seurat_obj, reduction='pca', dims=1:15)
+# 
+# 
+# p1 <- DimPlotMetacells(seurat_obj, group.by='source') + umap_theme() + ggtitle("Source")
+```
+
+```{r}
+seurat_obj <- SetDatExpr(
+  seurat_obj,
+  group_name = c("NPC_p2", "NPC_p3", "NPC_p5", "iPSC"), # the name of the group of interest in the group.by column
+  group.by='source', # the metadata column containing the cell type info. This same column should have also been used in MetacellsByGroups
+  assay = 'RNA', # using RNA assay
+  layer = 'data' # using normalized data
+)
+```
+
+```{r}
+# Test different soft powers:
+seurat_obj <- TestSoftPowers(
+  seurat_obj,
+  networkType = 'signed' # you can also use "unsigned" or "signed hybrid"
+)
+
+# plot the results:
+plot_list <- PlotSoftPowers(seurat_obj)
+
+# assemble with patchwork
+wrap_plots(plot_list, ncol=2)
+```
+
+```{r eval=FALSE}
+power_table <- GetPowerTable(seurat_obj)
+head(power_table)
+```
+
+```{r eval=FALSE}
+
+# construct co-expression network:
+seurat_obj <- ConstructNetwork(
+  seurat_obj,
+  tom_name = 'hdWGCNA_results' # name of the topoligical overlap matrix written to disk
+)
+
+```
+```{r eval=FALSE}
+PlotDendrogram(seurat_obj, main='hdWGCNA Dendrogram')
+```
+
+```{r}
+# need to run ScaleData first or else harmony throws an error:
+seurat_obj <- ScaleData(seurat_obj, features=VariableFeatures(seurat_obj))
+
+# compute all MEs in the full single-cell dataset
+seurat_obj <- ModuleEigengenes(
+ seurat_obj,
+ group.by.vars="source"
+)
+```
+
+
+```{r eval=FALSE}
+
+# harmonized module eigengenes:
+hMEs <- GetMEs(seurat_obj)
+
+# module eigengenes:
+MEs <- GetMEs(seurat_obj, harmonized=FALSE)
+
+```
+
+
+```{r eval=FALSE}
+
+# get the module assignment table:
+modules <- GetModules(seurat_obj)
+
+# show the first 6 columns:
+modules
+
+```
+
+```{r}
+library(magrittr)
+```
+
+```{r}
+(
+  modules %T>% write.csv(., "results/gmgm_pathway/hdWGCNA_modules.csv")
+  %>% count(., module)
+)
+```
+
+
+Let's now get a finer module breakdown; we want ~100 modules
+
+```{r}
+seurat_obj <- ConstructNetwork(
+  seurat_obj,
+  soft_power = 4, # this was the optimal one decided earlier
+  tom_name = "hdWGCNA_results_fine",
+  overwrite_tom = TRUE,
+  tom_outdir = "TOM_fine",
+  mergeCutHeight = 0,
+  minModuleSize=1,
+  detectCutHeight=1,
+)
+```
+
+```{r eval=FALSE}
+PlotDendrogram(seurat_obj, main='hdWGCNA Dendrogram')
+```
+
+```{r}
+# get the module assignment table:
+modules <- GetModules(seurat_obj)
+modules %>% count(., module)
+```
+
+```{r}
+(
+  modules %T>% write.csv(., "results/gmgm_pathway/hdWGCNA_modules_fine.csv")
+  %>% count(., module)
+)
+```
+
+
+```{r}
+network_name <- "hdWGCNA_results_fine"
+K <- 118 # 1 less than 119 b/c some genes removed into 'catch-all' in preprocessing
+
+TOM <- GetTOM(seurat_obj)
+```
+
+```{r}
+dim(TOM)
+```
+
+```{r}
+library(Matrix)
+
+class(TOM)
+```
+
+```{r}
+# Suppose TOM is dense (if not, convert to dense temporarily for sampling small subset)
+# Only take upper triangle without diagonal
+n <- nrow(TOM)
+# Sample 1 million pairs to avoid huge memory usage
+num_sample <- 1e6
+
+# Get indices for upper triangle
+rows <- sample(1:n, num_sample, replace = TRUE)
+cols <- sample(1:n, num_sample, replace = TRUE)
+mask <- rows < cols   # keep only upper triangle
+rows <- rows[mask]
+cols <- cols[mask]
+
+values <- TOM[cbind(rows, cols)]
+```
+
+```{r}
+hist(values, breaks = 100, main = "Sampled TOM values", xlab = "TOM", col = "steelblue")
+abline(v = 0.1, col = "red", lwd = 2, lty = 2)
+```
+
+```{r}
+# Only keep top 0.00035 edges
+quantile(values, probs = 1-0.00035, na.rm = TRUE)
+```
+
+```{r}
+# thr <- 0.4517909
+# TOM[TOM < thr] <- 0
+# diag(TOM) <- 0
+TOM_sparse <- sparseMatrix(i = integer(0), j = integer(0), x = numeric(0),
+                           dims = dim(TOM), dimnames = dimnames(TOM))
+for (row in 1:nrow(TOM)) {
+  vals <- TOM[row, ]
+  # ignore self-loop
+  vals[row] <- 0
+  top_idx <- order(vals, decreasing = TRUE)[1:5]
+  TOM_sparse[row, top_idx] <- vals[top_idx]
+}
+```
+
+```{r}
+#TOM_sparse <- Matrix(TOM, sparse = TRUE)
+```
+
+```{r}
+TOM_sparse[1:10, 1:10]
+```
+
+```{r}
+writeMM(TOM_sparse, "results/gmgm_pathway/hdWGCNA_network.mtx")
+
+# Save gene names
+write.csv(rownames(TOM), "results/gmgm_pathway/hdWGCNA_genenames.csv", row.names = FALSE)
+```
+
+

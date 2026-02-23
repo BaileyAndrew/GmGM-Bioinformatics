@@ -1,0 +1,7 @@
+source,native,name,p_value
+GO:BP,GO:0008152,metabolic process,0.015476802337703257
+GO:BP,GO:0044238,primary metabolic process,0.01985275483390221
+GO:CC,GO:0005622,intracellular anatomical structure,0.002496464026049896
+GO:CC,GO:0005575,cellular_component,0.006762749647319984
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,0.015453542781717178
+KEGG,KEGG:00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,0.030345271999674538

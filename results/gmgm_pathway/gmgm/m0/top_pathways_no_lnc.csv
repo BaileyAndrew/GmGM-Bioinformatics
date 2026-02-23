@@ -1,0 +1,81 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,1.6289131464511104e-152
+GO:BP,GO:0009987,cellular process,5.251905204667542e-125
+GO:BP,GO:0050896,response to stimulus,1.5475303863168069e-71
+GO:BP,GO:0032501,multicellular organismal process,9.321911580244398e-69
+GO:BP,GO:0065007,biological regulation,5.864236187925545e-60
+GO:BP,GO:0007186,G protein-coupled receptor signaling pathway,3.7453036595457296e-53
+GO:BP,GO:0050789,regulation of biological process,6.172028263451587e-50
+GO:BP,GO:0007154,cell communication,2.083481716162161e-46
+GO:BP,GO:0023052,signaling,9.061483485451208e-46
+GO:BP,GO:0051716,cellular response to stimulus,7.24708292985464e-45
+GO:BP,GO:0007165,signal transduction,3.6924704264285415e-43
+GO:BP,GO:0050794,regulation of cellular process,2.5914287245128315e-41
+GO:BP,GO:0003008,system process,2.622475914048104e-40
+GO:BP,GO:0006952,defense response,1.684629652471619e-39
+GO:BP,GO:0006955,immune response,4.0005519406736255e-39
+GO:BP,GO:0009605,response to external stimulus,9.251575888971145e-39
+GO:BP,GO:0002376,immune system process,7.933729948199048e-37
+GO:BP,GO:0042221,response to chemical,4.772926646997153e-34
+GO:BP,GO:0051606,detection of stimulus,8.269021177901626e-33
+GO:BP,GO:0007600,sensory perception,1.1982403070148408e-32
+GO:CC,GO:0005575,cellular_component,2.652250653608624e-227
+GO:CC,GO:0110165,cellular anatomical structure,1.4465122359919759e-224
+GO:CC,GO:0071944,cell periphery,4.286247308156508e-111
+GO:CC,GO:0005886,plasma membrane,5.5207498050380055e-96
+GO:CC,GO:0016020,membrane,4.33879571696993e-92
+GO:CC,GO:0005576,extracellular region,1.1258473705728046e-60
+GO:CC,GO:0005615,extracellular space,4.662103295060142e-34
+GO:CC,GO:0009986,cell surface,1.4338143206936834e-27
+GO:CC,GO:0098552,side of membrane,1.671538520338471e-27
+GO:CC,GO:0009897,external side of plasma membrane,9.477434405325561e-26
+GO:CC,GO:0005622,intracellular anatomical structure,3.9388273893140046e-19
+GO:CC,GO:0098797,plasma membrane protein complex,2.065165929959994e-17
+GO:CC,GO:0098590,plasma membrane region,5.285254145345808e-16
+GO:CC,GO:0030141,secretory granule,8.700369195911225e-15
+GO:CC,GO:0005737,cytoplasm,1.9556906221109276e-14
+GO:CC,GO:0043226,organelle,4.9475249675971525e-14
+GO:CC,GO:0031982,vesicle,2.1801767899661195e-13
+GO:CC,GO:0099503,secretory vesicle,4.399484071121498e-13
+GO:CC,GO:0043235,receptor complex,1.559278819298535e-11
+GO:CC,GO:0098796,membrane protein complex,7.877111045789496e-11
+GO:MF,GO:0003674,molecular_function,3.086784135135603e-197
+GO:MF,GO:0005488,binding,1.1957855384367875e-100
+GO:MF,GO:0038023,signaling receptor activity,3.074530741966714e-98
+GO:MF,GO:0060089,molecular transducer activity,3.074530741966714e-98
+GO:MF,GO:0004888,transmembrane signaling receptor activity,6.403965171930132e-64
+GO:MF,GO:0005515,protein binding,1.217401275629893e-57
+GO:MF,GO:0004930,G protein-coupled receptor activity,2.2431416257295963e-55
+GO:MF,GO:0048018,receptor ligand activity,6.193646606982464e-32
+GO:MF,GO:0030546,signaling receptor activator activity,7.042337909960249e-32
+GO:MF,GO:0030545,signaling receptor regulator activity,1.0526638967968887e-31
+GO:MF,GO:0005102,signaling receptor binding,1.9035978029470906e-29
+GO:MF,GO:0004984,olfactory receptor activity,2.739284667103302e-25
+GO:MF,GO:0022857,transmembrane transporter activity,5.767561681274289e-24
+GO:MF,GO:0004252,serine-type endopeptidase activity,5.758978237702441e-22
+GO:MF,GO:0005215,transporter activity,5.9971815828595705e-22
+GO:MF,GO:0008236,serine-type peptidase activity,1.0029778649919376e-20
+GO:MF,GO:0017171,serine hydrolase activity,2.2789079539387072e-20
+GO:MF,GO:0005179,hormone activity,3.2025040151542583e-19
+GO:MF,GO:0004175,endopeptidase activity,1.2436143387077533e-17
+GO:MF,GO:0022803,passive transmembrane transporter activity,4.36672700349008e-15
+KEGG,KEGG:00000,KEGG root term,2.6736662041661737e-33
+KEGG,KEGG:04080,Neuroactive ligand-receptor interaction,3.4040048548566995e-32
+KEGG,KEGG:04740,Olfactory transduction,1.2766119342635248e-16
+KEGG,KEGG:04060,Cytokine-cytokine receptor interaction,3.04245668309767e-16
+KEGG,KEGG:05204,Chemical carcinogenesis - DNA adducts,1.5715918138662268e-10
+KEGG,KEGG:00982,Drug metabolism - cytochrome P450,3.024765076760597e-08
+KEGG,KEGG:04514,Cell adhesion molecules,4.5900293660358835e-08
+KEGG,KEGG:04061,Viral protein interaction with cytokine and cytokine receptor,1.5390818450986093e-07
+KEGG,KEGG:04950,Maturity onset diabetes of the young,1.6007843660308034e-07
+KEGG,KEGG:04610,Complement and coagulation cascades,5.084969600311712e-07
+KEGG,KEGG:00980,Metabolism of xenobiotics by cytochrome P450,6.312220788173869e-07
+KEGG,KEGG:05321,Inflammatory bowel disease,9.345015964932237e-07
+KEGG,KEGG:04672,Intestinal immune network for IgA production,1.5213678686011082e-06
+KEGG,KEGG:00590,Arachidonic acid metabolism,1.974852425246697e-06
+KEGG,KEGG:00830,Retinol metabolism,2.30372777392202e-06
+KEGG,KEGG:04976,Bile secretion,3.1158142529256354e-06
+KEGG,KEGG:00140,Steroid hormone biosynthesis,2.0723551061571352e-05
+KEGG,KEGG:00591,Linoleic acid metabolism,7.297229245740312e-05
+KEGG,KEGG:04020,Calcium signaling pathway,9.235292992135479e-05
+KEGG,KEGG:01100,Metabolic pathways,0.00014982910709370956

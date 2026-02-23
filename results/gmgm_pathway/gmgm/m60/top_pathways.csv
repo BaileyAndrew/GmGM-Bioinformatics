@@ -1,0 +1,27 @@
+source,native,name,p_value
+GO:BP,GO:0002376,immune system process,0.0002516686126638636
+GO:BP,GO:0006955,immune response,0.0028561421498514666
+GO:BP,GO:0048519,negative regulation of biological process,0.012866345538772975
+GO:BP,GO:0007249,canonical NF-kappaB signal transduction,0.02464825419112474
+GO:BP,GO:0050789,regulation of biological process,0.03004986525212612
+GO:BP,GO:0050794,regulation of cellular process,0.03565758402698005
+GO:BP,GO:0038061,non-canonical NF-kappaB signal transduction,0.03834510624301132
+GO:CC,GO:0033256,I-kappaB/NF-kappaB complex,0.0001662501440966493
+GO:CC,GO:0005737,cytoplasm,0.008341680166194949
+GO:CC,GO:0005575,cellular_component,0.016327461337672478
+GO:CC,GO:0005622,intracellular anatomical structure,0.016383137392395258
+GO:CC,GO:0043229,intracellular organelle,0.0168945940317384
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,0.017032094223434435
+GO:CC,GO:0110165,cellular anatomical structure,0.02224868297948495
+GO:CC,GO:0043227,membrane-bounded organelle,0.026296174850390187
+GO:MF,GO:0005515,protein binding,0.0002881344956607939
+GO:MF,GO:0005488,binding,0.024525172490229355
+KEGG,KEGG:04064,NF-kappa B signaling pathway,2.8810478319541314e-05
+KEGG,KEGG:05169,Epstein-Barr virus infection,0.00022822555179658112
+KEGG,KEGG:04657,IL-17 signaling pathway,0.00248192371581904
+KEGG,KEGG:04668,TNF signaling pathway,0.016039830626129577
+KEGG,KEGG:04380,Osteoclast differentiation,0.01829317972157367
+KEGG,KEGG:05162,Measles,0.019095350833938523
+KEGG,KEGG:04060,Cytokine-cytokine receptor interaction,0.028089569587587838
+KEGG,KEGG:05135,Yersinia infection,0.038641577222012134
+KEGG,KEGG:05166,Human T-cell leukemia virus 1 infection,0.0486000066298534

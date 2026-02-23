@@ -1,0 +1,40 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,1.5202946833559431e-15
+GO:BP,GO:0009987,cellular process,1.0975667977220611e-14
+GO:BP,GO:0065007,biological regulation,3.7125482246910832e-06
+GO:BP,GO:0008152,metabolic process,4.462730035242394e-06
+GO:BP,GO:0044238,primary metabolic process,6.082420167222886e-05
+GO:BP,GO:0071840,cellular component organization or biogenesis,7.845877615697754e-05
+GO:BP,GO:0048522,positive regulation of cellular process,0.00011881957695287557
+GO:BP,GO:0050789,regulation of biological process,0.00017553732385032026
+GO:BP,GO:0016043,cellular component organization,0.00022872762320977648
+GO:BP,GO:0048518,positive regulation of biological process,0.000563124272931476
+GO:BP,GO:0043170,macromolecule metabolic process,0.0008021707009838564
+GO:BP,GO:0050794,regulation of cellular process,0.0008922018653453251
+GO:BP,GO:0051641,cellular localization,0.0044622262553014455
+GO:BP,GO:0008104,protein localization,0.004752990890109658
+GO:BP,GO:0070727,cellular macromolecule localization,0.005196653318836558
+GO:BP,GO:0009058,biosynthetic process,0.007453124935923551
+GO:BP,GO:0033036,macromolecule localization,0.00823775006594855
+GO:BP,GO:0044085,cellular component biogenesis,0.011566123965003698
+GO:BP,GO:0036211,protein modification process,0.016125315001841393
+GO:BP,GO:0043933,protein-containing complex organization,0.03731632370422023
+GO:CC,GO:0110165,cellular anatomical structure,7.42853970888619e-19
+GO:CC,GO:0005575,cellular_component,1.59700376053163e-18
+GO:CC,GO:0043226,organelle,4.726320496023718e-14
+GO:CC,GO:0043227,membrane-bounded organelle,1.0722868673050044e-13
+GO:CC,GO:0043229,intracellular organelle,2.049777396780225e-11
+GO:CC,GO:0005622,intracellular anatomical structure,7.681708846481667e-11
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,1.598262441430583e-10
+GO:CC,GO:0016020,membrane,7.052043435640503e-08
+GO:CC,GO:0005737,cytoplasm,1.6983467009959376e-06
+GO:CC,GO:0032991,protein-containing complex,0.005679664350045929
+GO:CC,GO:0005634,nucleus,0.00803835627098592
+GO:CC,GO:0031090,organelle membrane,0.010347973821268982
+GO:CC,GO:0031974,membrane-enclosed lumen,0.03730581739633494
+GO:CC,GO:0070013,intracellular organelle lumen,0.03730581739633494
+GO:CC,GO:0043233,organelle lumen,0.03730581739633494
+GO:MF,GO:0003674,molecular_function,1.968660782797737e-16
+GO:MF,GO:0005488,binding,4.730536412818236e-16
+GO:MF,GO:0005515,protein binding,4.315294806129207e-11
+KEGG,KEGG:00000,KEGG root term,0.000755642433806921

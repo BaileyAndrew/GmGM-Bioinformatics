@@ -1,0 +1,13 @@
+source,native,name,p_value
+GO:BP,GO:0009058,biosynthetic process,0.007594792734016341
+GO:BP,GO:0044238,primary metabolic process,0.017377215168563664
+GO:CC,GO:0043227,membrane-bounded organelle,9.695296227217258e-05
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,0.00018604297798259463
+GO:CC,GO:0005829,cytosol,0.00028074395279480976
+GO:CC,GO:0043226,organelle,0.0008046423845574861
+GO:CC,GO:0043229,intracellular organelle,0.0011847212783961437
+GO:CC,GO:0005737,cytoplasm,0.0024050149450273984
+GO:CC,GO:0005622,intracellular anatomical structure,0.0026910770300223037
+GO:CC,GO:0035770,ribonucleoprotein granule,0.02738270050693293
+GO:MF,GO:0031369,translation initiation factor binding,0.046583944157441375
+KEGG,KEGG:01100,Metabolic pathways,0.04496288388800454

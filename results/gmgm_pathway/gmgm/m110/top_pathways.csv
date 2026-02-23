@@ -1,0 +1,37 @@
+source,native,name,p_value
+GO:BP,GO:0006090,pyruvate metabolic process,4.000509601333131e-09
+GO:BP,GO:0005996,monosaccharide metabolic process,1.0485885707662778e-08
+GO:BP,GO:0009154,purine ribonucleotide catabolic process,2.1877952402291947e-07
+GO:BP,GO:0009261,ribonucleotide catabolic process,3.6288659254770454e-07
+GO:BP,GO:0006195,purine nucleotide catabolic process,4.170663237512737e-07
+GO:BP,GO:0006096,glycolytic process,4.883946291726904e-07
+GO:BP,GO:0046032,ADP catabolic process,5.861020656472944e-07
+GO:BP,GO:0019364,pyridine nucleotide catabolic process,7.003478882623676e-07
+GO:BP,GO:0009137,purine nucleoside diphosphate catabolic process,7.643850992038305e-07
+GO:BP,GO:0009181,purine ribonucleoside diphosphate catabolic process,7.643850992038305e-07
+GO:BP,GO:0005975,carbohydrate metabolic process,8.932763362174124e-07
+GO:BP,GO:0072526,pyridine-containing compound catabolic process,9.078512620018075e-07
+GO:BP,GO:0009191,ribonucleoside diphosphate catabolic process,9.879560626681383e-07
+GO:BP,GO:0046031,ADP metabolic process,1.0741222851955317e-06
+GO:BP,GO:0072523,purine-containing compound catabolic process,1.1764708089444596e-06
+GO:BP,GO:0009134,nucleoside diphosphate catabolic process,1.2661927882554977e-06
+GO:BP,GO:0019318,hexose metabolic process,1.367348596123131e-06
+GO:BP,GO:0009166,nucleotide catabolic process,1.8894898554984075e-06
+GO:BP,GO:0016052,carbohydrate catabolic process,2.3712334908890902e-06
+GO:BP,GO:0009135,purine nucleoside diphosphate metabolic process,2.741681762967588e-06
+GO:CC,GO:0030017,sarcomere,0.007720795454088856
+GO:CC,GO:0030016,myofibril,0.013660367119438573
+GO:CC,GO:0043292,contractile muscle fiber,0.017549523776285658
+GO:CC,GO:0031091,platelet alpha granule,0.02262869565351067
+GO:MF,GO:0048029,monosaccharide binding,0.0013059500094752135
+GO:MF,GO:0019200,carbohydrate kinase activity,0.018973915431847826
+GO:MF,GO:0003873,6-phosphofructo-2-kinase activity,0.02990755075410629
+GO:MF,GO:0030246,carbohydrate binding,0.031575678002826714
+GO:MF,GO:0004331,"fructose-2,6-bisphosphate 2-phosphatase activity",0.04974740604710505
+KEGG,KEGG:04066,HIF-1 signaling pathway,2.1868211775896197e-09
+KEGG,KEGG:00010,Glycolysis / Gluconeogenesis,2.79944547001999e-08
+KEGG,KEGG:00051,Fructose and mannose metabolism,4.3913494007778584e-08
+KEGG,KEGG:01200,Carbon metabolism,5.667341257967343e-05
+KEGG,KEGG:05230,Central carbon metabolism in cancer,0.0001327030342497698
+KEGG,KEGG:01230,Biosynthesis of amino acids,0.0033839069551845997
+KEGG,KEGG:01100,Metabolic pathways,0.021573635805001927

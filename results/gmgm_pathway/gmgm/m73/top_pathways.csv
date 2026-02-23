@@ -1,0 +1,8 @@
+source,native,name,p_value
+GO:BP,GO:0010795,regulation of ubiquinone biosynthetic process,0.04858665653962392
+GO:CC,GO:1903754,cortical microtubule plus-end,0.0074006165590155635
+GO:CC,GO:1904511,cytoplasmic microtubule plus-end,0.0074006165590155635
+GO:CC,GO:0055028,cortical microtubule,0.02213264642380814
+GO:CC,GO:0043229,intracellular organelle,0.022625371338006333
+GO:CC,GO:0043227,membrane-bounded organelle,0.03598344390870431
+GO:CC,GO:0043226,organelle,0.0497814448608417

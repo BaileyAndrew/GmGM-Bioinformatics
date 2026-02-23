@@ -1,0 +1,46 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,1.1988105238741617e-15
+GO:BP,GO:0009987,cellular process,3.633270481440911e-14
+GO:BP,GO:0098534,centriole assembly,1.201891654661079e-09
+GO:BP,GO:0065007,biological regulation,6.293654980445557e-09
+GO:BP,GO:1903251,multi-ciliated epithelial cell differentiation,1.3124526064070217e-08
+GO:BP,GO:0050789,regulation of biological process,3.8911913401217283e-07
+GO:BP,GO:0007099,centriole replication,1.432864201718426e-06
+GO:BP,GO:0031023,microtubule organizing center organization,2.6939053383737053e-06
+GO:BP,GO:0097742,de novo centriole assembly,1.2228265760548807e-05
+GO:BP,GO:0051298,centrosome duplication,7.021967150147916e-05
+GO:BP,GO:0050794,regulation of cellular process,0.0001399198367801159
+GO:BP,GO:0007098,centrosome cycle,0.00036683553594043253
+GO:BP,GO:0051179,localization,0.0010817685858589454
+GO:BP,GO:0098535,de novo centriole assembly involved in multi-ciliated epithelial cell differentiation,0.0019157382377844934
+GO:BP,GO:0048518,positive regulation of biological process,0.0037092686343614856
+GO:BP,GO:0032502,developmental process,0.005011428898497935
+GO:BP,GO:0016043,cellular component organization,0.005559233363411072
+GO:BP,GO:0046599,regulation of centriole replication,0.006815694881819496
+GO:BP,GO:0048856,anatomical structure development,0.008000522743567069
+GO:BP,GO:0007017,microtubule-based process,0.011703964914427151
+GO:CC,GO:0005575,cellular_component,1.4068167140959992e-21
+GO:CC,GO:0110165,cellular anatomical structure,1.291529840392158e-19
+GO:CC,GO:0043226,organelle,3.954029414202654e-11
+GO:CC,GO:0005622,intracellular anatomical structure,1.3030113050382023e-10
+GO:CC,GO:0043229,intracellular organelle,9.345809669905452e-10
+GO:CC,GO:0043227,membrane-bounded organelle,2.891762408113035e-08
+GO:CC,GO:0005814,centriole,3.34053639859145e-08
+GO:CC,GO:0005737,cytoplasm,3.927490953293409e-08
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,1.0113247583685461e-06
+GO:CC,GO:0098536,deuterosome,1.4758251779972698e-06
+GO:CC,GO:0005813,centrosome,3.363922892142946e-05
+GO:CC,GO:0005815,microtubule organizing center,6.33817344626264e-05
+GO:CC,GO:0031981,nuclear lumen,8.061653675327627e-05
+GO:CC,GO:0070013,intracellular organelle lumen,8.199162730274329e-05
+GO:CC,GO:0031974,membrane-enclosed lumen,8.199162730274329e-05
+GO:CC,GO:0043233,organelle lumen,8.199162730274329e-05
+GO:CC,GO:0005634,nucleus,0.0002962953291303036
+GO:CC,GO:0120099,procentriole replication complex,0.0004609437494596394
+GO:CC,GO:0015630,microtubule cytoskeleton,0.0007005474775955234
+GO:CC,GO:0043232,intracellular membraneless organelle,0.0008701555059800296
+GO:MF,GO:0003674,molecular_function,2.5684926727827237e-17
+GO:MF,GO:0005488,binding,6.683054874031764e-14
+GO:MF,GO:0005515,protein binding,1.6741693763004936e-11
+GO:MF,GO:0005267,potassium channel activity,0.018690053119422786
+KEGG,KEGG:00000,KEGG root term,0.022802519528096823

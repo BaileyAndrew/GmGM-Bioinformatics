@@ -1,0 +1,53 @@
+source,native,name,p_value
+GO:BP,GO:0023052,signaling,1.7514640498835593e-07
+GO:BP,GO:0007154,cell communication,2.1176809855399304e-07
+GO:BP,GO:0007165,signal transduction,3.834467990902457e-07
+GO:BP,GO:0035329,hippo signaling,1.3483248162124897e-06
+GO:BP,GO:0050789,regulation of biological process,3.9015511561473154e-06
+GO:BP,GO:0050794,regulation of cellular process,4.52658002667876e-06
+GO:BP,GO:0065007,biological regulation,1.0272390421017138e-05
+GO:BP,GO:0051716,cellular response to stimulus,4.097177835999916e-05
+GO:BP,GO:0035556,intracellular signal transduction,4.396390626648006e-05
+GO:BP,GO:0048523,negative regulation of cellular process,0.0001500882627378935
+GO:BP,GO:0007166,cell surface receptor signaling pathway,0.0002235327440825436
+GO:BP,GO:0090092,regulation of transmembrane receptor protein serine/threonine kinase signaling pathway,0.00024006800206804131
+GO:BP,GO:0023051,regulation of signaling,0.00024016452215503615
+GO:BP,GO:0010646,regulation of cell communication,0.0002504194912975579
+GO:BP,GO:0007155,cell adhesion,0.0003009725493481048
+GO:BP,GO:0141091,transforming growth factor beta receptor superfamily signaling pathway,0.0003337322209143873
+GO:BP,GO:0016477,cell migration,0.0003681644324685458
+GO:BP,GO:0048519,negative regulation of biological process,0.00045989643795159415
+GO:BP,GO:0007178,cell surface receptor protein serine/threonine kinase signaling pathway,0.0006091087826261376
+GO:BP,GO:0009966,regulation of signal transduction,0.0006188664821738472
+GO:CC,GO:0071944,cell periphery,1.2881006983892368e-07
+GO:CC,GO:0030054,cell junction,6.603288874234649e-07
+GO:CC,GO:0005886,plasma membrane,1.1974519355089272e-06
+GO:CC,GO:0005737,cytoplasm,0.0003297767501091172
+GO:CC,GO:0005575,cellular_component,0.0005888681702129285
+GO:CC,GO:0005911,cell-cell junction,0.0007247132467136417
+GO:CC,GO:0070161,anchoring junction,0.0011282374108950294
+GO:CC,GO:0110165,cellular anatomical structure,0.0018947595723418282
+GO:CC,GO:0098590,plasma membrane region,0.002777326219453306
+GO:CC,GO:0098890,extrinsic component of postsynaptic membrane,0.006948301728529828
+GO:CC,GO:0097131,cyclin D1-CDK6 complex,0.00835519202624845
+GO:CC,GO:0016020,membrane,0.008728399470425259
+GO:CC,GO:0098978,glutamatergic synapse,0.02302615903389406
+GO:CC,GO:0099243,extrinsic component of synaptic membrane,0.03344396235368161
+GO:CC,GO:0097060,synaptic membrane,0.03507494570163791
+GO:CC,GO:0014069,postsynaptic density,0.03622275229568161
+GO:CC,GO:0032279,asymmetric synapse,0.0493392716891652
+GO:MF,GO:0005515,protein binding,0.00038019486512141514
+GO:MF,GO:0005488,binding,0.0038541656787326422
+GO:MF,GO:0003674,molecular_function,0.033786978591703626
+KEGG,KEGG:05206,MicroRNAs in cancer,0.0001676391608721011
+KEGG,KEGG:04392,Hippo signaling pathway - multiple species,0.001247405510422954
+KEGG,KEGG:04390,Hippo signaling pathway,0.0013728125582588642
+KEGG,KEGG:05218,Melanoma,0.002557228229695597
+KEGG,KEGG:05165,Human papillomavirus infection,0.002881116946025416
+KEGG,KEGG:05223,Non-small cell lung cancer,0.003143529791560002
+KEGG,KEGG:04151,PI3K-Akt signaling pathway,0.0035209147486427138
+KEGG,KEGG:04917,Prolactin signaling pathway,0.027225733796020363
+KEGG,KEGG:04360,Axon guidance,0.03113335142344445
+KEGG,KEGG:05205,Proteoglycans in cancer,0.043785663654600286
+KEGG,KEGG:04115,p53 signaling pathway,0.04776262592792217
+KEGG,KEGG:05214,Glioma,0.04776262592792217

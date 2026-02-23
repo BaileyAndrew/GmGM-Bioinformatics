@@ -1,0 +1,38 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,1.988160263201692e-11
+GO:BP,GO:0009987,cellular process,2.2056263310902706e-11
+GO:BP,GO:0006351,DNA-templated transcription,0.010477051818908518
+GO:BP,GO:0050789,regulation of biological process,0.014376884421462888
+GO:BP,GO:0065007,biological regulation,0.017997450961563268
+GO:BP,GO:0050794,regulation of cellular process,0.03133639056655932
+GO:BP,GO:0044419,biological process involved in interspecies interaction between organisms,0.0453284296814112
+GO:CC,GO:0110165,cellular anatomical structure,1.1831256151250624e-12
+GO:CC,GO:0005575,cellular_component,2.1437637623753303e-12
+GO:CC,GO:0043226,organelle,2.5719821378651007e-05
+GO:CC,GO:0005622,intracellular anatomical structure,3.3316824860953634e-05
+GO:CC,GO:0043229,intracellular organelle,7.132832619972506e-05
+GO:CC,GO:0043227,membrane-bounded organelle,0.00047484171905370085
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,0.0034014681326112665
+GO:CC,GO:0005576,extracellular region,0.04273337880065925
+GO:MF,GO:0003674,molecular_function,1.0118159212592804e-15
+GO:MF,GO:0005488,binding,1.1082282629630884e-13
+GO:MF,GO:0046872,metal ion binding,3.715949066398246e-05
+GO:MF,GO:0043169,cation binding,6.264796443608e-05
+GO:MF,GO:0005515,protein binding,0.0002559128254329403
+GO:MF,GO:0036094,small molecule binding,0.0003941485867616333
+GO:MF,GO:0000976,transcription cis-regulatory region binding,0.00046614897054926416
+GO:MF,GO:0001067,transcription regulatory region nucleic acid binding,0.0004710943851894131
+GO:MF,GO:0043167,ion binding,0.0005556308678296091
+GO:MF,GO:1990837,sequence-specific double-stranded DNA binding,0.0008043629655835286
+GO:MF,GO:0000977,RNA polymerase II transcription regulatory region sequence-specific DNA binding,0.000850021691711157
+GO:MF,GO:0003690,double-stranded DNA binding,0.0019130390337113406
+GO:MF,GO:0043565,sequence-specific DNA binding,0.002116531951639465
+GO:MF,GO:0000978,RNA polymerase II cis-regulatory region sequence-specific DNA binding,0.003037694924851009
+GO:MF,GO:0000987,cis-regulatory region sequence-specific DNA binding,0.003860887499430886
+GO:MF,GO:0003700,DNA-binding transcription factor activity,0.0058820867844944875
+GO:MF,GO:0000981,"DNA-binding transcription factor activity, RNA polymerase II-specific",0.012054744558478837
+GO:MF,GO:0004040,amidase activity,0.02998940060755721
+GO:MF,GO:0030246,carbohydrate binding,0.04180364012033647
+KEGG,KEGG:05168,Herpes simplex virus 1 infection,2.562408522841094e-08
+KEGG,KEGG:00000,KEGG root term,2.7317035794438385e-06
+KEGG,KEGG:05170,Human immunodeficiency virus 1 infection,0.024373459859180727

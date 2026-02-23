@@ -1,0 +1,59 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,1.1988105238741617e-15
+GO:BP,GO:0050789,regulation of biological process,5.799251860092879e-13
+GO:BP,GO:0065007,biological regulation,1.445543093874932e-12
+GO:BP,GO:0050794,regulation of cellular process,5.434497737647618e-12
+GO:BP,GO:0009987,cellular process,7.7239440647877e-12
+GO:BP,GO:0050896,response to stimulus,8.330282031379155e-11
+GO:BP,GO:0032502,developmental process,1.1928848014445692e-10
+GO:BP,GO:0007154,cell communication,5.522840319982523e-10
+GO:BP,GO:0023052,signaling,1.7854174112254057e-09
+GO:BP,GO:0007165,signal transduction,2.187552515732266e-09
+GO:BP,GO:0051716,cellular response to stimulus,3.3012682744553797e-09
+GO:BP,GO:0030154,cell differentiation,7.093182450658008e-09
+GO:BP,GO:0048869,cellular developmental process,7.1606829189558846e-09
+GO:BP,GO:0009966,regulation of signal transduction,1.3742100906579129e-08
+GO:BP,GO:0050793,regulation of developmental process,2.9572383842273272e-08
+GO:BP,GO:0048856,anatomical structure development,3.985910324935156e-08
+GO:BP,GO:0032501,multicellular organismal process,8.301203409155761e-08
+GO:BP,GO:0048522,positive regulation of cellular process,8.655878849446545e-08
+GO:BP,GO:0048731,system development,1.2299514487217232e-07
+GO:BP,GO:0045595,regulation of cell differentiation,1.4374520183373163e-07
+GO:CC,GO:0005575,cellular_component,2.962268387015951e-19
+GO:CC,GO:0110165,cellular anatomical structure,1.5255243048238018e-18
+GO:CC,GO:0005622,intracellular anatomical structure,3.1441342485466413e-07
+GO:CC,GO:0043226,organelle,1.0279441289088298e-06
+GO:CC,GO:0071944,cell periphery,3.1414253139063904e-06
+GO:CC,GO:0005737,cytoplasm,9.413729244731295e-06
+GO:CC,GO:0043227,membrane-bounded organelle,2.138415403445692e-05
+GO:CC,GO:0016020,membrane,6.248142309353395e-05
+GO:CC,GO:0043229,intracellular organelle,7.531908707896146e-05
+GO:CC,GO:0031012,extracellular matrix,0.00031216750215515873
+GO:CC,GO:0030312,external encapsulating structure,0.00031915841356998484
+GO:CC,GO:0062023,collagen-containing extracellular matrix,0.0006294928982029495
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,0.0008801752414467873
+GO:CC,GO:0030054,cell junction,0.004874531489960224
+GO:CC,GO:0005886,plasma membrane,0.006640021054793772
+GO:MF,GO:0003674,molecular_function,4.882522062343557e-23
+GO:MF,GO:0005488,binding,2.3880368766339103e-21
+GO:MF,GO:0005515,protein binding,4.621838894715705e-15
+GO:MF,GO:0043167,ion binding,1.3453095461108478e-08
+GO:MF,GO:0036094,small molecule binding,4.25723287808684e-08
+GO:MF,GO:0097367,carbohydrate derivative binding,4.138057621202761e-05
+GO:MF,GO:0016787,hydrolase activity,0.00012005813870824081
+GO:MF,GO:0016817,"hydrolase activity, acting on acid anhydrides",0.0001637635641476709
+GO:MF,GO:0016818,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides",0.0001637635641476709
+GO:MF,GO:0043169,cation binding,0.00025644738741160045
+GO:MF,GO:0017111,ribonucleoside triphosphate phosphatase activity,0.0003471266340510594
+GO:MF,GO:0046872,metal ion binding,0.000422123249044573
+GO:MF,GO:0016462,pyrophosphatase activity,0.0007093754081033475
+GO:MF,GO:0060589,nucleoside-triphosphatase regulator activity,0.000727296396762911
+GO:MF,GO:0030695,GTPase regulator activity,0.000727296396762911
+GO:MF,GO:0008201,heparin binding,0.0019573763190086813
+GO:MF,GO:1901681,sulfur compound binding,0.005734878904591351
+GO:MF,GO:0043168,anion binding,0.005821928867176255
+GO:MF,GO:0098772,molecular function regulator activity,0.010789369538186974
+GO:MF,GO:0005539,glycosaminoglycan binding,0.01470891141893578
+KEGG,KEGG:00000,KEGG root term,7.657886462699859e-05
+KEGG,KEGG:04510,Focal adhesion,0.019720773998773672
+KEGG,KEGG:05200,Pathways in cancer,0.023200544051651253

@@ -1,0 +1,7 @@
+source,native,name,p_value
+GO:CC,GO:0110165,cellular anatomical structure,0.006072589863955235
+GO:CC,GO:0005575,cellular_component,0.009407032699805242
+GO:CC,GO:0043227,membrane-bounded organelle,0.02576914901924224
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,0.03132135758748241
+GO:CC,GO:0005622,intracellular anatomical structure,0.03400487434345065
+GO:MF,GO:0003674,molecular_function,0.011191704950264163

@@ -1,0 +1,54 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,7.14604852697898e-21
+GO:BP,GO:0009987,cellular process,2.5500472269049605e-19
+GO:BP,GO:0008152,metabolic process,5.348079170434447e-10
+GO:BP,GO:0044238,primary metabolic process,2.051794160198414e-09
+GO:BP,GO:0065007,biological regulation,6.201711606627694e-07
+GO:BP,GO:0050789,regulation of biological process,7.035963416125615e-07
+GO:BP,GO:0050794,regulation of cellular process,2.610026641740101e-06
+GO:BP,GO:0050896,response to stimulus,3.4340210549495222e-06
+GO:BP,GO:0043170,macromolecule metabolic process,8.785898999146683e-06
+GO:BP,GO:0051716,cellular response to stimulus,2.8216214726921064e-05
+GO:BP,GO:0048518,positive regulation of biological process,6.444655610021746e-05
+GO:BP,GO:0051179,localization,0.00022742529981626758
+GO:BP,GO:0048522,positive regulation of cellular process,0.0005670643718193471
+GO:BP,GO:0051641,cellular localization,0.0011004171852418028
+GO:BP,GO:0007399,nervous system development,0.002498173084756708
+GO:BP,GO:0120036,plasma membrane bounded cell projection organization,0.004140195882385368
+GO:BP,GO:0051234,establishment of localization,0.004342443774778205
+GO:BP,GO:0045893,positive regulation of DNA-templated transcription,0.004568695847785374
+GO:BP,GO:1902680,positive regulation of RNA biosynthetic process,0.004669272706865577
+GO:BP,GO:0032501,multicellular organismal process,0.004775943228872094
+GO:CC,GO:0005575,cellular_component,2.865224531439209e-23
+GO:CC,GO:0110165,cellular anatomical structure,1.778773767972602e-21
+GO:CC,GO:0043226,organelle,4.9802997251373374e-20
+GO:CC,GO:0043229,intracellular organelle,6.552274085308764e-20
+GO:CC,GO:0005622,intracellular anatomical structure,3.1400125474851884e-19
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,1.533313587837374e-16
+GO:CC,GO:0043227,membrane-bounded organelle,2.1881762233384458e-16
+GO:CC,GO:0005737,cytoplasm,6.289115583106781e-11
+GO:CC,GO:0005634,nucleus,0.00015800231040139921
+GO:CC,GO:0098793,presynapse,0.00018481798638087085
+GO:CC,GO:0016020,membrane,0.00018891513531423706
+GO:CC,GO:0032991,protein-containing complex,0.00019066019732975686
+GO:CC,GO:0030054,cell junction,0.0003037557582641791
+GO:CC,GO:0045202,synapse,0.000471396454356072
+GO:CC,GO:0005794,Golgi apparatus,0.0008417731859731774
+GO:CC,GO:0012505,endomembrane system,0.0008714753357381158
+GO:CC,GO:0031090,organelle membrane,0.001282353601939527
+GO:CC,GO:0070013,intracellular organelle lumen,0.0013963017376172689
+GO:CC,GO:0031974,membrane-enclosed lumen,0.0013963017376172689
+GO:CC,GO:0043233,organelle lumen,0.0013963017376172689
+GO:MF,GO:0003674,molecular_function,6.461307369656417e-26
+GO:MF,GO:0005515,protein binding,2.3169790689249e-21
+GO:MF,GO:0005488,binding,1.39528551677877e-20
+GO:MF,GO:0003824,catalytic activity,4.069604478585553e-06
+GO:MF,GO:0050839,cell adhesion molecule binding,0.013315884348751793
+GO:MF,GO:0003676,nucleic acid binding,0.018762744674687547
+GO:MF,GO:0016787,hydrolase activity,0.027371119913865764
+GO:MF,GO:0019001,guanyl nucleotide binding,0.04214401181586456
+GO:MF,GO:0032561,guanyl ribonucleotide binding,0.04214401181586456
+KEGG,KEGG:00000,KEGG root term,3.1754004458175046e-08
+KEGG,KEGG:04072,Phospholipase D signaling pathway,0.0004366066690664783
+KEGG,KEGG:04144,Endocytosis,0.016219067652510778
+KEGG,KEGG:05100,Bacterial invasion of epithelial cells,0.046698241281531425

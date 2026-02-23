@@ -1,0 +1,46 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,1.988160263201692e-11
+GO:BP,GO:0009987,cellular process,1.0111226269789414e-09
+GO:BP,GO:0008152,metabolic process,3.9746180864426465e-06
+GO:BP,GO:0006996,organelle organization,9.595531599649004e-05
+GO:BP,GO:0050794,regulation of cellular process,0.0002047933177861097
+GO:BP,GO:0050789,regulation of biological process,0.00024229287161675107
+GO:BP,GO:0016043,cellular component organization,0.00024996140169800286
+GO:BP,GO:0065007,biological regulation,0.00031488750921386077
+GO:BP,GO:0043170,macromolecule metabolic process,0.000522037753625162
+GO:BP,GO:0071840,cellular component organization or biogenesis,0.0006522308037182698
+GO:BP,GO:0044238,primary metabolic process,0.0013901683685967814
+GO:BP,GO:0010638,positive regulation of organelle organization,0.005738862507609738
+GO:BP,GO:0048522,positive regulation of cellular process,0.007786987962995662
+GO:BP,GO:0043243,positive regulation of protein-containing complex disassembly,0.00875639106065119
+GO:BP,GO:0019222,regulation of metabolic process,0.00962330258132273
+GO:BP,GO:0048584,positive regulation of response to stimulus,0.014631885768395256
+GO:BP,GO:0060255,regulation of macromolecule metabolic process,0.025240392800599004
+GO:BP,GO:0048518,positive regulation of biological process,0.025846386779023796
+GO:BP,GO:0009967,positive regulation of signal transduction,0.026514871000934536
+GO:CC,GO:0005622,intracellular anatomical structure,4.519165199223929e-16
+GO:CC,GO:0110165,cellular anatomical structure,9.846461172632688e-15
+GO:CC,GO:0005575,cellular_component,1.845957509229566e-14
+GO:CC,GO:0043226,organelle,2.1107305904664084e-12
+GO:CC,GO:0043229,intracellular organelle,2.5498057312446013e-12
+GO:CC,GO:0005737,cytoplasm,1.524763199075864e-10
+GO:CC,GO:0043227,membrane-bounded organelle,2.9243676066835606e-10
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,4.058700580780146e-10
+GO:CC,GO:0032991,protein-containing complex,8.59832563257114e-05
+GO:CC,GO:0043228,membraneless organelle,0.0009319580416490493
+GO:CC,GO:0043232,intracellular membraneless organelle,0.0009319580416490493
+GO:CC,GO:0005634,nucleus,0.0009993613752545061
+GO:CC,GO:0005856,cytoskeleton,0.0024235922295112265
+GO:CC,GO:0005829,cytosol,0.012416299158850343
+GO:CC,GO:0015630,microtubule cytoskeleton,0.012748771670341903
+GO:CC,GO:0005819,spindle,0.023390089951411088
+GO:CC,GO:0031981,nuclear lumen,0.031060764962611235
+GO:CC,GO:0012505,endomembrane system,0.03371505997052339
+GO:CC,GO:0005654,nucleoplasm,0.04003127127693541
+GO:MF,GO:0003674,molecular_function,1.0118159212592804e-15
+GO:MF,GO:0005488,binding,1.1021145814474703e-14
+GO:MF,GO:0005515,protein binding,4.544323329192038e-11
+GO:MF,GO:0003824,catalytic activity,0.0062451797659075214
+GO:MF,GO:0043167,ion binding,0.02945724521651032
+KEGG,KEGG:05166,Human T-cell leukemia virus 1 infection,0.003785677409780613
+KEGG,KEGG:00000,KEGG root term,0.008550356513714935

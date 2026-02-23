@@ -1,0 +1,29 @@
+source,native,name,p_value
+GO:BP,GO:0007155,cell adhesion,5.2067643650450695e-05
+GO:BP,GO:0034329,cell junction assembly,0.00017952346602878128
+GO:BP,GO:0034330,cell junction organization,0.00029996256311740386
+GO:BP,GO:0060291,long-term synaptic potentiation,0.0037347812649108705
+GO:BP,GO:0050808,synapse organization,0.004443652602896544
+GO:BP,GO:0098609,cell-cell adhesion,0.005084999249552118
+GO:BP,GO:0030155,regulation of cell adhesion,0.012178807150478371
+GO:BP,GO:0000902,cell morphogenesis,0.017421997750651813
+GO:BP,GO:1901888,regulation of cell junction assembly,0.019322020462177486
+GO:BP,GO:0044087,regulation of cellular component biogenesis,0.01946760576600745
+GO:BP,GO:0048812,neuron projection morphogenesis,0.025020215341192028
+GO:BP,GO:0099560,synaptic membrane adhesion,0.026085578109535455
+GO:BP,GO:0042221,response to chemical,0.02708082531098379
+GO:BP,GO:0120039,plasma membrane bounded cell projection morphogenesis,0.03199026943315798
+GO:BP,GO:0097156,fasciculation of motor neuron axon,0.0344195178803169
+GO:BP,GO:2000470,positive regulation of peroxidase activity,0.0344195178803169
+GO:BP,GO:0048858,cell projection morphogenesis,0.0344912966498064
+GO:BP,GO:0007399,nervous system development,0.03492228017941581
+GO:CC,GO:0042734,presynaptic membrane,0.03022698522635551
+GO:MF,GO:0005004,GPI-linked ephrin receptor activity,0.0006636519491360036
+GO:MF,GO:0036094,small molecule binding,0.007479889906078436
+GO:MF,GO:0005005,transmembrane-ephrin receptor activity,0.011793498578560848
+GO:MF,GO:0043167,ion binding,0.020669695357263543
+GO:MF,GO:0005003,ephrin receptor activity,0.026124758073558994
+GO:MF,GO:0004888,transmembrane signaling receptor activity,0.0305197116953164
+GO:MF,GO:0005509,calcium ion binding,0.03689180147701121
+GO:MF,GO:0038023,signaling receptor activity,0.04111794194568919
+GO:MF,GO:0060089,molecular transducer activity,0.04111794194568919

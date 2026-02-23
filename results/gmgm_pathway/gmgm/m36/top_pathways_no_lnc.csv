@@ -1,0 +1,50 @@
+source,native,name,p_value
+GO:BP,GO:0009987,cellular process,5.2044708167664834e-14
+GO:BP,GO:0008150,biological_process,6.921181022783731e-14
+GO:BP,GO:0008152,metabolic process,4.697212567860887e-09
+GO:BP,GO:0044238,primary metabolic process,2.7985068753058322e-08
+GO:BP,GO:0043170,macromolecule metabolic process,2.0290493930684304e-06
+GO:BP,GO:0009058,biosynthetic process,7.480791604377414e-05
+GO:BP,GO:0006139,nucleobase-containing compound metabolic process,0.0004680350748884023
+GO:BP,GO:0009059,macromolecule biosynthetic process,0.0008877429758288082
+GO:BP,GO:1903322,positive regulation of protein modification by small protein conjugation or removal,0.0013341312579728433
+GO:BP,GO:1901875,positive regulation of post-translational protein modification,0.0014080494881195033
+GO:BP,GO:0010467,gene expression,0.0023916687864234468
+GO:BP,GO:0060255,regulation of macromolecule metabolic process,0.004724134611953601
+GO:BP,GO:0031398,positive regulation of protein ubiquitination,0.006502685340503926
+GO:BP,GO:0080090,regulation of primary metabolic process,0.00958122942256374
+GO:BP,GO:0090522,vesicle tethering involved in exocytosis,0.009852486090893115
+GO:BP,GO:0033036,macromolecule localization,0.010306668395807734
+GO:BP,GO:0090304,nucleic acid metabolic process,0.013098139225727433
+GO:BP,GO:0099022,vesicle tethering,0.015125822195942933
+GO:BP,GO:0019222,regulation of metabolic process,0.018412057202373835
+GO:BP,GO:0016070,RNA metabolic process,0.03960205567116067
+GO:CC,GO:0110165,cellular anatomical structure,6.377135772096613e-18
+GO:CC,GO:0005575,cellular_component,1.3580119571555574e-17
+GO:CC,GO:0005622,intracellular anatomical structure,2.0908304855266248e-17
+GO:CC,GO:0043227,membrane-bounded organelle,1.0091725972614073e-14
+GO:CC,GO:0043226,organelle,2.607112704949369e-14
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,1.8391341667058005e-13
+GO:CC,GO:0043229,intracellular organelle,4.681603675244813e-13
+GO:CC,GO:0005737,cytoplasm,2.7042287533413937e-08
+GO:CC,GO:0005634,nucleus,1.5215988579399067e-06
+GO:CC,GO:0005829,cytosol,9.376916112671772e-06
+GO:CC,GO:0000145,exocyst,0.010518461555558993
+GO:CC,GO:0031982,vesicle,0.01260135655970853
+GO:CC,GO:0016020,membrane,0.018268098278858565
+GO:CC,GO:0043233,organelle lumen,0.020411122136293192
+GO:CC,GO:0070013,intracellular organelle lumen,0.020411122136293192
+GO:CC,GO:0031974,membrane-enclosed lumen,0.020411122136293192
+GO:CC,GO:0012505,endomembrane system,0.04430522240720462
+GO:MF,GO:0003674,molecular_function,1.1570104198656864e-16
+GO:MF,GO:0005515,protein binding,1.1782352105112118e-10
+GO:MF,GO:0005488,binding,1.578413933455257e-10
+GO:MF,GO:0036094,small molecule binding,5.0476718580331823e-05
+GO:MF,GO:0043167,ion binding,6.125946481152424e-05
+GO:MF,GO:0046872,metal ion binding,0.0052055526704934685
+GO:MF,GO:0043169,cation binding,0.008240453916155679
+GO:MF,GO:0003676,nucleic acid binding,0.01954004392489964
+GO:MF,GO:0003824,catalytic activity,0.03289353607984901
+KEGG,KEGG:00000,KEGG root term,0.0004134715255398655
+KEGG,KEGG:04120,Ubiquitin mediated proteolysis,0.016630890709018954
+KEGG,KEGG:04621,NOD-like receptor signaling pathway,0.01900686286880656

@@ -1,0 +1,46 @@
+source,native,name,p_value
+GO:BP,GO:0009987,cellular process,3.647817187789583e-12
+GO:BP,GO:0008150,biological_process,4.266498146145153e-12
+GO:BP,GO:0044238,primary metabolic process,5.579993779705752e-06
+GO:BP,GO:0008152,metabolic process,2.6580056931991785e-05
+GO:BP,GO:0065007,biological regulation,0.00018911176339998125
+GO:BP,GO:0043170,macromolecule metabolic process,0.00035095077850292184
+GO:BP,GO:0019538,protein metabolic process,0.0005340019217181797
+GO:BP,GO:0050789,regulation of biological process,0.0009977369433171264
+GO:BP,GO:0043412,macromolecule modification,0.001359686410390787
+GO:BP,GO:0009058,biosynthetic process,0.0019164306909654693
+GO:BP,GO:0050794,regulation of cellular process,0.0020126506041014403
+GO:BP,GO:0044419,biological process involved in interspecies interaction between organisms,0.012751720856937515
+GO:BP,GO:0016050,vesicle organization,0.013791791987361671
+GO:BP,GO:0009607,response to biotic stimulus,0.01699336196624443
+GO:BP,GO:0033552,response to vitamin B3,0.025563567656468746
+GO:BP,GO:0009059,macromolecule biosynthetic process,0.026739265288099504
+GO:BP,GO:0050896,response to stimulus,0.03187200158764244
+GO:BP,GO:0051707,response to other organism,0.04789673530951632
+GO:BP,GO:0043207,response to external biotic stimulus,0.04884660748989239
+GO:CC,GO:0005575,cellular_component,8.148923775300498e-15
+GO:CC,GO:0110165,cellular anatomical structure,4.064673989145906e-14
+GO:CC,GO:0005622,intracellular anatomical structure,1.2228528603100656e-13
+GO:CC,GO:0043229,intracellular organelle,5.437089806034661e-11
+GO:CC,GO:0043226,organelle,7.553085032264113e-11
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,2.527925431796309e-09
+GO:CC,GO:0043227,membrane-bounded organelle,3.3037182798433188e-09
+GO:CC,GO:0005737,cytoplasm,1.4619832626895932e-08
+GO:CC,GO:0048471,perinuclear region of cytoplasm,0.0005226253070167798
+GO:CC,GO:0005829,cytosol,0.0014459000616994287
+GO:CC,GO:1990682,CSF1-CSF1R complex,0.0036721146909844604
+GO:CC,GO:0005634,nucleus,0.005143903948525338
+GO:CC,GO:0031410,cytoplasmic vesicle,0.006696307721595029
+GO:CC,GO:0097708,intracellular vesicle,0.006970372933922382
+GO:CC,GO:0032991,protein-containing complex,0.013845011335848059
+GO:CC,GO:0031974,membrane-enclosed lumen,0.01591188670104355
+GO:CC,GO:0070013,intracellular organelle lumen,0.01591188670104355
+GO:CC,GO:0043233,organelle lumen,0.01591188670104355
+GO:CC,GO:0140535,intracellular protein-containing complex,0.03439121423656222
+GO:MF,GO:0003674,molecular_function,7.402879861022733e-16
+GO:MF,GO:0005488,binding,2.908935392438858e-15
+GO:MF,GO:0005515,protein binding,2.2432847426438084e-09
+GO:MF,GO:0003824,catalytic activity,2.5386665633274398e-05
+GO:MF,GO:0036094,small molecule binding,0.005702160364071095
+GO:MF,GO:1901363,heterocyclic compound binding,0.04047643195961126
+KEGG,KEGG:00000,KEGG root term,0.015268059404482767

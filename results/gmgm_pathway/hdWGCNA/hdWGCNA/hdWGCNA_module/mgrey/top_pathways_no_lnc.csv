@@ -1,0 +1,81 @@
+source,native,name,p_value
+GO:BP,GO:0065007,biological regulation,5e-324
+GO:BP,GO:0009987,cellular process,5e-324
+GO:BP,GO:0008150,biological_process,5e-324
+GO:BP,GO:0050789,regulation of biological process,4.233019707e-315
+GO:BP,GO:0008152,metabolic process,1.9175641800776e-310
+GO:BP,GO:0050794,regulation of cellular process,4.639076104621839e-303
+GO:BP,GO:0044238,primary metabolic process,3.2102703386947116e-270
+GO:BP,GO:0043170,macromolecule metabolic process,3.8956926587340595e-219
+GO:BP,GO:0009058,biosynthetic process,5.6772640354159295e-158
+GO:BP,GO:0019222,regulation of metabolic process,8.136351353782658e-155
+GO:BP,GO:0016043,cellular component organization,2.1897920633167106e-144
+GO:BP,GO:0080090,regulation of primary metabolic process,1.4205288058190917e-141
+GO:BP,GO:0050896,response to stimulus,2.6553487480557294e-140
+GO:BP,GO:0071840,cellular component organization or biogenesis,4.815705641018677e-140
+GO:BP,GO:0060255,regulation of macromolecule metabolic process,3.6583640854058663e-137
+GO:BP,GO:0009059,macromolecule biosynthetic process,6.038827322938544e-130
+GO:BP,GO:0009889,regulation of biosynthetic process,1.9948220700861704e-116
+GO:BP,GO:0006139,nucleobase-containing compound metabolic process,7.587342416190625e-116
+GO:BP,GO:0051716,cellular response to stimulus,6.25882728642516e-115
+GO:BP,GO:0010556,regulation of macromolecule biosynthetic process,1.6662096868830243e-113
+GO:CC,GO:0005737,cytoplasm,5e-324
+GO:CC,GO:0005622,intracellular anatomical structure,5e-324
+GO:CC,GO:0005575,cellular_component,5e-324
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,5e-324
+GO:CC,GO:0043227,membrane-bounded organelle,5e-324
+GO:CC,GO:0043226,organelle,5e-324
+GO:CC,GO:0043229,intracellular organelle,5e-324
+GO:CC,GO:0110165,cellular anatomical structure,5e-324
+GO:CC,GO:0005634,nucleus,5.749871531931225e-203
+GO:CC,GO:0016020,membrane,6.562689897772134e-179
+GO:CC,GO:0005829,cytosol,3.8812913485226855e-129
+GO:CC,GO:0012505,endomembrane system,4.6782055009231847e-113
+GO:CC,GO:0031974,membrane-enclosed lumen,6.769055058163166e-97
+GO:CC,GO:0043233,organelle lumen,6.769055058163166e-97
+GO:CC,GO:0070013,intracellular organelle lumen,6.769055058163166e-97
+GO:CC,GO:0031090,organelle membrane,4.7692675001101773e-94
+GO:CC,GO:0043228,membraneless organelle,1.2205940318881749e-85
+GO:CC,GO:0043232,intracellular membraneless organelle,1.2205940318881749e-85
+GO:CC,GO:0031981,nuclear lumen,4.788249713488704e-79
+GO:CC,GO:0005654,nucleoplasm,5.985949354330835e-79
+GO:MF,GO:0005515,protein binding,5e-324
+GO:MF,GO:0003674,molecular_function,5e-324
+GO:MF,GO:0005488,binding,5e-324
+GO:MF,GO:0036094,small molecule binding,1.9488467943827e-205
+GO:MF,GO:0043167,ion binding,5.041708554052477e-203
+GO:MF,GO:0043169,cation binding,7.789664441967921e-157
+GO:MF,GO:0046872,metal ion binding,4.472383399749965e-156
+GO:MF,GO:0003824,catalytic activity,3.4204744378206196e-153
+GO:MF,GO:0003677,DNA binding,7.671822879596735e-75
+GO:MF,GO:0140096,"catalytic activity, acting on a protein",1.4676662151970454e-72
+GO:MF,GO:0003676,nucleic acid binding,1.2930315307807058e-69
+GO:MF,GO:0140110,transcription regulator activity,2.350744670969499e-67
+GO:MF,GO:0016787,hydrolase activity,4.547424868112543e-63
+GO:MF,GO:0016740,transferase activity,4.730267574713194e-59
+GO:MF,GO:0003700,DNA-binding transcription factor activity,6.587730690358758e-56
+GO:MF,GO:0043565,sequence-specific DNA binding,2.4381469221625178e-54
+GO:MF,GO:0003690,double-stranded DNA binding,3.1402876514563757e-54
+GO:MF,GO:0000977,RNA polymerase II transcription regulatory region sequence-specific DNA binding,1.168116762669378e-53
+GO:MF,GO:0000976,transcription cis-regulatory region binding,4.933954567038451e-52
+GO:MF,GO:0001067,transcription regulatory region nucleic acid binding,6.3393658707297716e-52
+KEGG,KEGG:00000,KEGG root term,8.234179809840198e-113
+KEGG,KEGG:05168,Herpes simplex virus 1 infection,6.863527961996698e-37
+KEGG,KEGG:01100,Metabolic pathways,4.0015355003761e-17
+KEGG,KEGG:04140,Autophagy - animal,5.216760479681632e-10
+KEGG,KEGG:04146,Peroxisome,2.2984809166008918e-08
+KEGG,KEGG:04144,Endocytosis,2.4984900351977847e-08
+KEGG,KEGG:05132,Salmonella infection,7.801707354637249e-08
+KEGG,KEGG:00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,4.710486230264171e-07
+KEGG,KEGG:05200,Pathways in cancer,8.253510897296347e-07
+KEGG,KEGG:05034,Alcoholism,9.332378617734538e-07
+KEGG,KEGG:04010,MAPK signaling pathway,1.4697184851932069e-06
+KEGG,KEGG:05165,Human papillomavirus infection,6.709270438113577e-06
+KEGG,KEGG:04962,Vasopressin-regulated water reabsorption,1.394095840443787e-05
+KEGG,KEGG:04070,Phosphatidylinositol signaling system,3.150863873199982e-05
+KEGG,KEGG:04360,Axon guidance,3.382837375060656e-05
+KEGG,KEGG:04151,PI3K-Akt signaling pathway,9.750401903865299e-05
+KEGG,KEGG:04926,Relaxin signaling pathway,0.00018927735639890348
+KEGG,KEGG:04390,Hippo signaling pathway,0.00025876911371142477
+KEGG,KEGG:04120,Ubiquitin mediated proteolysis,0.0002604019279375
+KEGG,KEGG:04660,T cell receptor signaling pathway,0.00027116412314677425

@@ -1,0 +1,11 @@
+source,native,name,p_value
+GO:BP,GO:0050907,detection of chemical stimulus involved in sensory perception,6.035366079996609e-12
+GO:BP,GO:0050911,detection of chemical stimulus involved in sensory perception of smell,1.7833184367423948e-11
+GO:BP,GO:0009593,detection of chemical stimulus,7.484518028575835e-06
+GO:BP,GO:0007606,sensory perception of chemical stimulus,8.585269261669423e-05
+GO:BP,GO:0007608,sensory perception of smell,0.0003665005918213501
+GO:BP,GO:0050906,detection of stimulus involved in sensory perception,0.005706553716810723
+GO:MF,GO:0004984,olfactory receptor activity,7.018237562795988e-12
+GO:MF,GO:0004930,G protein-coupled receptor activity,7.581099914466109e-08
+GO:MF,GO:0005179,hormone activity,1.994322515374053e-06
+KEGG,KEGG:04080,Neuroactive ligand-receptor interaction,0.000158838365008893

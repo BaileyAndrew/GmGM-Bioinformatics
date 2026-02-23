@@ -1,0 +1,3 @@
+source,native,name,p_value
+GO:CC,GO:0043229,intracellular organelle,0.036805306479507194
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,0.03904110524174121

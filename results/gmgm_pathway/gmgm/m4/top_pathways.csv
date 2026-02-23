@@ -1,0 +1,73 @@
+source,native,name,p_value
+GO:BP,GO:0030198,extracellular matrix organization,1.0714838943763527e-17
+GO:BP,GO:0045229,external encapsulating structure organization,1.1824643241581328e-17
+GO:BP,GO:0043062,extracellular structure organization,1.1824643241581328e-17
+GO:BP,GO:0007166,cell surface receptor signaling pathway,1.7498492507447159e-16
+GO:BP,GO:0032501,multicellular organismal process,7.255394317417848e-16
+GO:BP,GO:0048731,system development,7.677983763878755e-16
+GO:BP,GO:0001568,blood vessel development,2.897112291637745e-14
+GO:BP,GO:0048856,anatomical structure development,4.012579187532458e-14
+GO:BP,GO:0001944,vasculature development,1.230693189206193e-13
+GO:BP,GO:0072359,circulatory system development,1.2428435663910592e-13
+GO:BP,GO:0009653,anatomical structure morphogenesis,1.9064499746783083e-13
+GO:BP,GO:0032502,developmental process,4.884407163730231e-13
+GO:BP,GO:0035239,tube morphogenesis,6.6201844766699e-13
+GO:BP,GO:0048583,regulation of response to stimulus,7.035245872159842e-13
+GO:BP,GO:0007275,multicellular organism development,1.0805924620006894e-12
+GO:BP,GO:0007155,cell adhesion,1.4038770044330297e-12
+GO:BP,GO:0023051,regulation of signaling,1.220351852772322e-11
+GO:BP,GO:0010646,regulation of cell communication,1.3348704576578463e-11
+GO:BP,GO:0007154,cell communication,1.5115857241952205e-11
+GO:BP,GO:0031589,cell-substrate adhesion,1.566464350899416e-11
+GO:CC,GO:0062023,collagen-containing extracellular matrix,1.7103957802302805e-24
+GO:CC,GO:0031012,extracellular matrix,4.555164970032412e-24
+GO:CC,GO:0030312,external encapsulating structure,4.965498195178538e-24
+GO:CC,GO:0071944,cell periphery,8.383870060903309e-22
+GO:CC,GO:0005576,extracellular region,9.897865016817729e-17
+GO:CC,GO:0005615,extracellular space,1.0589453487238647e-12
+GO:CC,GO:0005581,collagen trimer,6.544881084335711e-11
+GO:CC,GO:0005604,basement membrane,6.006180635929423e-10
+GO:CC,GO:0005886,plasma membrane,2.734513615744414e-09
+GO:CC,GO:0070161,anchoring junction,4.939839953247438e-09
+GO:CC,GO:0005575,cellular_component,2.0534867991330283e-08
+GO:CC,GO:0005788,endoplasmic reticulum lumen,3.567532530136177e-08
+GO:CC,GO:0030055,cell-substrate junction,3.708955553710243e-08
+GO:CC,GO:0110165,cellular anatomical structure,3.808575746021204e-08
+GO:CC,GO:0030054,cell junction,1.2008463734768245e-07
+GO:CC,GO:0005925,focal adhesion,1.338148285715058e-07
+GO:CC,GO:0043235,receptor complex,4.1658737644608727e-07
+GO:CC,GO:0009986,cell surface,1.8752386569059674e-05
+GO:CC,GO:0098644,complex of collagen trimers,3.313452440039181e-05
+GO:CC,GO:0031982,vesicle,4.3720292653670606e-05
+GO:MF,GO:0005201,extracellular matrix structural constituent,1.895532927617059e-26
+GO:MF,GO:0005539,glycosaminoglycan binding,3.4863439501868145e-12
+GO:MF,GO:0005198,structural molecule activity,1.7016774580518826e-10
+GO:MF,GO:0019838,growth factor binding,3.470115670983522e-09
+GO:MF,GO:0030020,extracellular matrix structural constituent conferring tensile strength,1.694055932173168e-08
+GO:MF,GO:0005102,signaling receptor binding,5.693609956558285e-08
+GO:MF,GO:0048407,platelet-derived growth factor binding,3.121614275154078e-07
+GO:MF,GO:0008201,heparin binding,3.97002619332385e-07
+GO:MF,GO:1901681,sulfur compound binding,7.072944903992496e-07
+GO:MF,GO:0005518,collagen binding,1.3535535413919518e-06
+GO:MF,GO:0005178,integrin binding,5.020510399216587e-06
+GO:MF,GO:0003674,molecular_function,5.849438819805336e-06
+GO:MF,GO:0038023,signaling receptor activity,7.195739668263583e-06
+GO:MF,GO:0060089,molecular transducer activity,7.195739668263583e-06
+GO:MF,GO:0005515,protein binding,1.1125332824690994e-05
+GO:MF,GO:0005488,binding,6.164508740773397e-05
+GO:MF,GO:0050839,cell adhesion molecule binding,0.00035233272768342227
+GO:MF,GO:0043394,proteoglycan binding,0.010285748113968242
+GO:MF,GO:0050840,extracellular matrix binding,0.021478558223973536
+GO:MF,GO:0002020,protease binding,0.025258710806451153
+KEGG,KEGG:04510,Focal adhesion,8.084389567197093e-11
+KEGG,KEGG:05146,Amoebiasis,5.530518130684245e-10
+KEGG,KEGG:04151,PI3K-Akt signaling pathway,6.760775757678522e-10
+KEGG,KEGG:04512,ECM-receptor interaction,8.89228285663873e-10
+KEGG,KEGG:04974,Protein digestion and absorption,2.5690511313311258e-08
+KEGG,KEGG:05165,Human papillomavirus infection,2.949301344283543e-05
+KEGG,KEGG:04926,Relaxin signaling pathway,0.0006785562186199605
+KEGG,KEGG:05205,Proteoglycans in cancer,0.005128937513701381
+KEGG,KEGG:05222,Small cell lung cancer,0.0059905359535415885
+KEGG,KEGG:05030,Cocaine addiction,0.016158750019899693
+KEGG,KEGG:05200,Pathways in cancer,0.030744829414803315
+KEGG,KEGG:05410,Hypertrophic cardiomyopathy,0.04588283094365519

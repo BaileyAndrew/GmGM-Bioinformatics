@@ -1,0 +1,30 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,1.6180017610205674e-10
+GO:BP,GO:0009987,cellular process,1.6016497930588878e-07
+GO:BP,GO:0065007,biological regulation,2.7284121830676845e-05
+GO:BP,GO:0051641,cellular localization,0.0029888909088440587
+GO:BP,GO:0071840,cellular component organization or biogenesis,0.0035262124514300434
+GO:BP,GO:0050789,regulation of biological process,0.004110466302119824
+GO:BP,GO:0050794,regulation of cellular process,0.004562572213617015
+GO:BP,GO:0016043,cellular component organization,0.015967693599030015
+GO:BP,GO:0006996,organelle organization,0.017640612792360497
+GO:CC,GO:0005575,cellular_component,5.116872460828281e-10
+GO:CC,GO:0110165,cellular anatomical structure,2.943852030311153e-09
+GO:CC,GO:0005622,intracellular anatomical structure,6.0459868717055195e-09
+GO:CC,GO:0043229,intracellular organelle,1.4074571645925429e-07
+GO:CC,GO:0043226,organelle,3.395235467082815e-07
+GO:CC,GO:0043227,membrane-bounded organelle,2.2188275861583953e-06
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,2.3646253170817678e-05
+GO:CC,GO:0005737,cytoplasm,0.001498802688797295
+GO:CC,GO:0043228,membraneless organelle,0.005828836110325361
+GO:CC,GO:0043232,intracellular membraneless organelle,0.005828836110325361
+GO:CC,GO:0005634,nucleus,0.006950057050875866
+GO:CC,GO:0005829,cytosol,0.02683208481781363
+GO:MF,GO:0005488,binding,1.003746602122006e-10
+GO:MF,GO:0003674,molecular_function,5.505594733309617e-10
+GO:MF,GO:0005515,protein binding,3.008033103578628e-08
+GO:MF,GO:0017111,ribonucleoside triphosphate phosphatase activity,0.01960302726702793
+GO:MF,GO:0016462,pyrophosphatase activity,0.031157386930611396
+GO:MF,GO:0016817,"hydrolase activity, acting on acid anhydrides",0.0314039540711197
+GO:MF,GO:0016818,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides",0.0314039540711197
+KEGG,KEGG:04530,Tight junction,0.04653116093005688

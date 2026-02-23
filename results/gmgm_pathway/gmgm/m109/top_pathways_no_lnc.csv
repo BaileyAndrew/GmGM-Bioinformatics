@@ -1,0 +1,15 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,5.9021246037513443e-08
+GO:BP,GO:0009987,cellular process,1.3513666202839378e-07
+GO:BP,GO:0006996,organelle organization,0.04070602284186265
+GO:CC,GO:0110165,cellular anatomical structure,6.323862230850136e-10
+GO:CC,GO:0005575,cellular_component,9.693546001548238e-10
+GO:CC,GO:0043227,membrane-bounded organelle,1.297166311323381e-07
+GO:CC,GO:0043226,organelle,1.473093858581213e-06
+GO:CC,GO:0005622,intracellular anatomical structure,2.7670550191889008e-06
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,4.057564056397525e-06
+GO:CC,GO:0043229,intracellular organelle,1.9043692932697445e-05
+GO:CC,GO:0005634,nucleus,0.0006353636193419014
+GO:MF,GO:0003674,molecular_function,1.5220499389178837e-08
+GO:MF,GO:0005488,binding,3.435847166797789e-07
+GO:MF,GO:0005515,protein binding,6.974287837809316e-05

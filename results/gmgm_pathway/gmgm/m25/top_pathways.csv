@@ -1,0 +1,12 @@
+source,native,name,p_value
+GO:BP,GO:0032501,multicellular organismal process,0.0001862109413747498
+GO:BP,GO:0098742,cell-cell adhesion via plasma-membrane adhesion molecules,0.005693695462420165
+GO:BP,GO:0060004,reflex,0.016360317178324247
+GO:BP,GO:0060013,righting reflex,0.02801849245510897
+GO:BP,GO:0032502,developmental process,0.036223567781755804
+GO:BP,GO:0022008,neurogenesis,0.0392212346788053
+GO:BP,GO:0007399,nervous system development,0.0398715805608964
+GO:BP,GO:0007275,multicellular organism development,0.0420481288453225
+GO:BP,GO:0051239,regulation of multicellular organismal process,0.046187065982635236
+GO:CC,GO:0071944,cell periphery,0.02500075828030188
+GO:MF,GO:0005488,binding,0.021042812113945306

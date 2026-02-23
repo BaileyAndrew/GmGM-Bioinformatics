@@ -1,0 +1,33 @@
+source,native,name,p_value
+GO:BP,GO:0043170,macromolecule metabolic process,9.558167815594403e-05
+GO:BP,GO:0044238,primary metabolic process,0.00025550472638458685
+GO:BP,GO:0008152,metabolic process,0.0011993917781831427
+GO:BP,GO:0043412,macromolecule modification,0.001283382340582181
+GO:BP,GO:0006366,transcription by RNA polymerase II,0.0051149550625119306
+GO:BP,GO:0006357,regulation of transcription by RNA polymerase II,0.005156184029600315
+GO:BP,GO:0008150,biological_process,0.006081357195554737
+GO:BP,GO:0030522,intracellular receptor signaling pathway,0.0082482998373844
+GO:BP,GO:0016070,RNA metabolic process,0.008443090556559448
+GO:BP,GO:0030521,androgen receptor signaling pathway,0.009192323436080507
+GO:BP,GO:0090304,nucleic acid metabolic process,0.009216230413824642
+GO:BP,GO:0009987,cellular process,0.011150589873469384
+GO:BP,GO:0060255,regulation of macromolecule metabolic process,0.02407067379426217
+GO:BP,GO:0060765,regulation of androgen receptor signaling pathway,0.028107869313180354
+GO:BP,GO:0019222,regulation of metabolic process,0.03394359228838012
+GO:BP,GO:0036211,protein modification process,0.03867679979924401
+GO:BP,GO:0006139,nucleobase-containing compound metabolic process,0.039557184806213355
+GO:CC,GO:0005575,cellular_component,0.003328084041005638
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,0.008051062205062753
+GO:CC,GO:0110165,cellular anatomical structure,0.017294329166413505
+GO:CC,GO:1990234,transferase complex,0.018195668258639133
+GO:CC,GO:0043226,organelle,0.02384373393965056
+GO:CC,GO:0055087,Ski complex,0.03357340415039179
+GO:CC,GO:0043227,membrane-bounded organelle,0.03663010993816538
+GO:CC,GO:0043229,intracellular organelle,0.046816444909691494
+GO:MF,GO:0005488,binding,0.0009125536155740865
+GO:MF,GO:0003674,molecular_function,0.0027723459978433525
+GO:MF,GO:0005515,protein binding,0.004670364069225575
+GO:MF,GO:0050681,nuclear androgen receptor binding,0.005360324740648631
+GO:MF,GO:0016740,transferase activity,0.014878039086781026
+GO:MF,GO:0043167,ion binding,0.03825957613598872
+GO:MF,GO:0036094,small molecule binding,0.041816888661507706

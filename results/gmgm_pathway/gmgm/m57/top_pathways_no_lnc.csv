@@ -1,0 +1,32 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,4.266498146145153e-12
+GO:BP,GO:0009987,cellular process,8.396191090466795e-10
+GO:BP,GO:0044238,primary metabolic process,5.4737704180281476e-05
+GO:BP,GO:0008152,metabolic process,8.07356252884673e-05
+GO:BP,GO:0071840,cellular component organization or biogenesis,0.001405881105039989
+GO:BP,GO:0016043,cellular component organization,0.001497542922956085
+GO:BP,GO:0050789,regulation of biological process,0.0026558237124931798
+GO:BP,GO:0065007,biological regulation,0.0038359613078037726
+GO:BP,GO:0050794,regulation of cellular process,0.013028134672118132
+GO:BP,GO:0006996,organelle organization,0.016836257990732968
+GO:BP,GO:0044085,cellular component biogenesis,0.025503324368173687
+GO:BP,GO:0043170,macromolecule metabolic process,0.040754173997454984
+GO:BP,GO:0051179,localization,0.04107486836122869
+GO:BP,GO:0051234,establishment of localization,0.045716067667361554
+GO:CC,GO:0005575,cellular_component,1.7421603522291352e-19
+GO:CC,GO:0110165,cellular anatomical structure,2.7308557965283953e-17
+GO:CC,GO:0005622,intracellular anatomical structure,1.2228528603100656e-13
+GO:CC,GO:0005737,cytoplasm,9.294743069763779e-10
+GO:CC,GO:0043226,organelle,1.5875342496162807e-09
+GO:CC,GO:0043229,intracellular organelle,4.614213497077623e-09
+GO:CC,GO:0043227,membrane-bounded organelle,1.324227184354759e-08
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,1.5461019050890934e-06
+GO:CC,GO:0031974,membrane-enclosed lumen,0.01591188670104355
+GO:CC,GO:0043233,organelle lumen,0.01591188670104355
+GO:CC,GO:0070013,intracellular organelle lumen,0.01591188670104355
+GO:MF,GO:0003674,molecular_function,7.402879861022733e-16
+GO:MF,GO:0005488,binding,2.0604041327856526e-13
+GO:MF,GO:0005515,protein binding,4.0951917064218926e-08
+GO:MF,GO:0036094,small molecule binding,3.2344217402455786e-05
+GO:MF,GO:0043167,ion binding,4.2006909299178065e-05
+GO:MF,GO:0003824,catalytic activity,0.00022644123367890259

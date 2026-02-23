@@ -1,0 +1,13 @@
+source,native,name,p_value
+GO:BP,GO:0033552,response to vitamin B3,0.04930645885872942
+GO:CC,GO:0005622,intracellular anatomical structure,0.002480272160432424
+GO:CC,GO:1990682,CSF1-CSF1R complex,0.007363951647732316
+GO:CC,GO:0043229,intracellular organelle,0.0076047141396392405
+GO:CC,GO:0048471,perinuclear region of cytoplasm,0.011473732152212568
+GO:CC,GO:0043226,organelle,0.017745790535258526
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,0.019258142562872786
+GO:CC,GO:0005575,cellular_component,0.029896670294551703
+GO:CC,GO:0110165,cellular anatomical structure,0.04151922522610236
+GO:CC,GO:0043227,membrane-bounded organelle,0.04950595199380593
+GO:MF,GO:0005488,binding,0.0027242898862289548
+GO:MF,GO:0003674,molecular_function,0.008727558401595146

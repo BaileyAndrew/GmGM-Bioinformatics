@@ -1,0 +1,3 @@
+source,native,name,p_value
+GO:CC,GO:0005622,intracellular anatomical structure,0.013931280307138633
+GO:MF,GO:0003976,UDP-N-acetylglucosamine-lysosomal-enzyme N-acetylglucosaminephosphotransferase activity,0.04985425175526612

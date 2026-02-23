@@ -1,0 +1,36 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,1.4448170995079605e-08
+GO:BP,GO:0009987,cellular process,7.878361266342848e-07
+GO:BP,GO:0044238,primary metabolic process,0.00015409954661947637
+GO:BP,GO:0008152,metabolic process,0.0006885728833210653
+GO:BP,GO:0043170,macromolecule metabolic process,0.003176817994422901
+GO:BP,GO:0050789,regulation of biological process,0.012029681084062665
+GO:BP,GO:0065007,biological regulation,0.012406089540150024
+GO:BP,GO:0051050,positive regulation of transport,0.013558166824459546
+GO:BP,GO:0050794,regulation of cellular process,0.03499001382653062
+GO:CC,GO:0005622,intracellular anatomical structure,1.0265796252918549e-11
+GO:CC,GO:0005575,cellular_component,6.399443240224735e-11
+GO:CC,GO:0043229,intracellular organelle,3.678487024619801e-10
+GO:CC,GO:0110165,cellular anatomical structure,3.774760426488142e-10
+GO:CC,GO:0043226,organelle,6.005860493498966e-09
+GO:CC,GO:0005737,cytoplasm,1.0005666461574716e-06
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,2.0801292634412645e-06
+GO:CC,GO:0043227,membrane-bounded organelle,1.3396748706005122e-05
+GO:CC,GO:0043232,intracellular membraneless organelle,5.270695196646541e-05
+GO:CC,GO:0043228,membraneless organelle,5.270695196646541e-05
+GO:CC,GO:0032991,protein-containing complex,0.0003668194870757552
+GO:CC,GO:0005634,nucleus,0.00041858944172076617
+GO:CC,GO:0031974,membrane-enclosed lumen,0.004025314303703797
+GO:CC,GO:0043233,organelle lumen,0.004025314303703797
+GO:CC,GO:0070013,intracellular organelle lumen,0.004025314303703797
+GO:CC,GO:0031981,nuclear lumen,0.005033927430335064
+GO:CC,GO:0005654,nucleoplasm,0.025847907829018753
+GO:CC,GO:1902494,catalytic complex,0.04865000923726591
+GO:MF,GO:0003674,molecular_function,5.2542421832321896e-12
+GO:MF,GO:0005515,protein binding,3.9912023529797437e-10
+GO:MF,GO:0005488,binding,7.331808096992881e-10
+GO:MF,GO:0016788,"hydrolase activity, acting on ester bonds",0.00018465829330786856
+GO:MF,GO:0003824,catalytic activity,0.0006691199968464491
+GO:MF,GO:0042578,phosphoric ester hydrolase activity,0.015438035986002354
+GO:MF,GO:0140640,"catalytic activity, acting on a nucleic acid",0.02169513466315492
+GO:MF,GO:0052659,"inositol-1,3,4,5-tetrakisphosphate 5-phosphatase activity",0.049951596214851346

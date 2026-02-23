@@ -1,0 +1,61 @@
+source,native,name,p_value
+GO:BP,GO:0048856,anatomical structure development,1.0346492366177734e-25
+GO:BP,GO:0032502,developmental process,3.8734978779841803e-25
+GO:BP,GO:0007275,multicellular organism development,1.6971119015307427e-22
+GO:BP,GO:0003341,cilium movement,1.0545002631249542e-21
+GO:BP,GO:0030030,cell projection organization,2.4426670204818e-21
+GO:BP,GO:0120036,plasma membrane bounded cell projection organization,4.859301660186825e-21
+GO:BP,GO:0048731,system development,2.5405207610951502e-20
+GO:BP,GO:0007018,microtubule-based movement,5.430868734238101e-20
+GO:BP,GO:0030154,cell differentiation,1.5221808405011467e-19
+GO:BP,GO:0048869,cellular developmental process,1.5640039402156316e-19
+GO:BP,GO:0032501,multicellular organismal process,7.566481281906347e-19
+GO:BP,GO:0008150,biological_process,1.9062471927256563e-17
+GO:BP,GO:0007017,microtubule-based process,2.1572377871785645e-16
+GO:BP,GO:0009987,cellular process,5.044600092326425e-16
+GO:BP,GO:0044782,cilium organization,1.0747862001367015e-15
+GO:BP,GO:0009653,anatomical structure morphogenesis,1.6007169510482272e-15
+GO:BP,GO:0060294,cilium movement involved in cell motility,2.5816402598301865e-15
+GO:BP,GO:0048513,animal organ development,3.671445358961068e-15
+GO:BP,GO:0001539,cilium or flagellum-dependent cell motility,4.028106007744782e-15
+GO:BP,GO:0060285,cilium-dependent cell motility,4.028106007744782e-15
+GO:CC,GO:0005929,cilium,7.764527216032233e-21
+GO:CC,GO:0005930,axoneme,1.1238442538376442e-19
+GO:CC,GO:0097014,ciliary plasm,1.3390668127172069e-19
+GO:CC,GO:0120025,plasma membrane bounded cell projection,2.4691260741099436e-18
+GO:CC,GO:0042995,cell projection,4.275924491403374e-18
+GO:CC,GO:0032838,plasma membrane bounded cell projection cytoplasm,4.664358076235855e-18
+GO:CC,GO:0110165,cellular anatomical structure,5.602288104283064e-18
+GO:CC,GO:0005575,cellular_component,6.20802896608651e-18
+GO:CC,GO:0031514,motile cilium,1.470414632255271e-16
+GO:CC,GO:0099568,cytoplasmic region,2.590787296056633e-16
+GO:CC,GO:0097729,9+2 motile cilium,1.5166772237148748e-14
+GO:CC,GO:0005856,cytoskeleton,5.1511874227312804e-14
+GO:CC,GO:0036126,sperm flagellum,6.965645104463723e-11
+GO:CC,GO:0071944,cell periphery,4.921992769506244e-09
+GO:CC,GO:0043232,intracellular membraneless organelle,5.5369882186426844e-08
+GO:CC,GO:0043228,membraneless organelle,5.5369882186426844e-08
+GO:CC,GO:0005737,cytoplasm,7.542546220246677e-08
+GO:CC,GO:0005622,intracellular anatomical structure,9.72342693540683e-08
+GO:CC,GO:0043226,organelle,1.0971529761938591e-07
+GO:CC,GO:0005886,plasma membrane,3.0172347260870744e-07
+GO:MF,GO:0003674,molecular_function,3.7709398416588707e-17
+GO:MF,GO:0005488,binding,2.600134654794325e-16
+GO:MF,GO:0005515,protein binding,1.3703201005929372e-13
+GO:MF,GO:0043167,ion binding,2.5806580962145443e-06
+GO:MF,GO:0036094,small molecule binding,6.429186550735504e-06
+GO:MF,GO:0043169,cation binding,0.00021534449158703528
+GO:MF,GO:0046872,metal ion binding,0.0003741425413560578
+GO:MF,GO:0008013,beta-catenin binding,0.0032749127111119263
+GO:MF,GO:0060089,molecular transducer activity,0.003990489718709895
+GO:MF,GO:0038023,signaling receptor activity,0.003990489718709895
+GO:MF,GO:0032559,adenyl ribonucleotide binding,0.011339916591154428
+GO:MF,GO:0043168,anion binding,0.01431958336656267
+GO:MF,GO:0030554,adenyl nucleotide binding,0.014463390855232407
+GO:MF,GO:0008373,sialyltransferase activity,0.017444816729444708
+GO:MF,GO:0005524,ATP binding,0.02205566849856681
+GO:MF,GO:0097367,carbohydrate derivative binding,0.024613815108446162
+KEGG,KEGG:04310,Wnt signaling pathway,1.1886857387464056e-05
+KEGG,KEGG:04390,Hippo signaling pathway,0.0008993108125511125
+KEGG,KEGG:04360,Axon guidance,0.0050375810614497855
+KEGG,KEGG:04550,Signaling pathways regulating pluripotency of stem cells,0.021964067049882623

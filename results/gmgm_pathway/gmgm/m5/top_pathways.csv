@@ -1,0 +1,67 @@
+source,native,name,p_value
+GO:BP,GO:0022402,cell cycle process,1.6119631125941265e-81
+GO:BP,GO:1903047,mitotic cell cycle process,4.252509231934722e-79
+GO:BP,GO:0000278,mitotic cell cycle,1.1948566106712812e-77
+GO:BP,GO:0007049,cell cycle,1.3501243509741591e-77
+GO:BP,GO:0007059,chromosome segregation,3.3666773515033445e-77
+GO:BP,GO:0051301,cell division,1.1598320809361416e-73
+GO:BP,GO:0000280,nuclear division,4.0791593903771576e-73
+GO:BP,GO:0140014,mitotic nuclear division,2.8783296486904e-72
+GO:BP,GO:0048285,organelle fission,1.1125920343479078e-70
+GO:BP,GO:0098813,nuclear chromosome segregation,1.7673501657675176e-69
+GO:BP,GO:0000070,mitotic sister chromatid segregation,9.989855553040295e-66
+GO:BP,GO:0000819,sister chromatid segregation,5.13005018870194e-65
+GO:BP,GO:0051276,chromosome organization,3.7571849676716005e-60
+GO:BP,GO:0010564,regulation of cell cycle process,1.5537208215126528e-50
+GO:BP,GO:0006996,organelle organization,5.087671061614454e-49
+GO:BP,GO:1902850,microtubule cytoskeleton organization involved in mitosis,8.486398831289463e-48
+GO:BP,GO:0051726,regulation of cell cycle,5.309961770362442e-47
+GO:BP,GO:0000226,microtubule cytoskeleton organization,5.639572090643648e-45
+GO:BP,GO:0007051,spindle organization,1.4067983161826814e-40
+GO:BP,GO:0007017,microtubule-based process,1.1633589111156917e-39
+GO:CC,GO:0005819,spindle,3.237537388422524e-60
+GO:CC,GO:0015630,microtubule cytoskeleton,1.9347090282416797e-57
+GO:CC,GO:0043228,membraneless organelle,2.724089685244387e-51
+GO:CC,GO:0043232,intracellular membraneless organelle,2.724089685244387e-51
+GO:CC,GO:0005856,cytoskeleton,6.683178559984591e-48
+GO:CC,GO:0005813,centrosome,9.60354701169442e-44
+GO:CC,GO:0000793,condensed chromosome,4.0364695643432135e-43
+GO:CC,GO:0000775,"chromosome, centromeric region",4.930649899033495e-42
+GO:CC,GO:0005815,microtubule organizing center,9.541657584161854e-41
+GO:CC,GO:0000779,"condensed chromosome, centromeric region",1.364068603850563e-40
+GO:CC,GO:0098687,chromosomal region,3.989192935802024e-39
+GO:CC,GO:0072686,mitotic spindle,1.0959893357205893e-36
+GO:CC,GO:0000776,kinetochore,6.015031530656693e-36
+GO:CC,GO:0000922,spindle pole,1.55683424917516e-35
+GO:CC,GO:0005622,intracellular anatomical structure,5.489777374029794e-35
+GO:CC,GO:0043229,intracellular organelle,1.3482706198999252e-34
+GO:CC,GO:0043226,organelle,7.458436970873673e-31
+GO:CC,GO:0099080,supramolecular complex,3.1067922786694405e-30
+GO:CC,GO:0005737,cytoplasm,5.210337168342204e-29
+GO:CC,GO:0005634,nucleus,6.231792004606589e-29
+GO:MF,GO:0008017,microtubule binding,6.257271063059083e-29
+GO:MF,GO:0015631,tubulin binding,9.448692543860556e-28
+GO:MF,GO:0005515,protein binding,7.540324661443305e-26
+GO:MF,GO:0005488,binding,2.6626329731093295e-25
+GO:MF,GO:0003674,molecular_function,1.060682951914726e-24
+GO:MF,GO:0008092,cytoskeletal protein binding,1.8717697770116103e-17
+GO:MF,GO:0003777,microtubule motor activity,1.5895577467827695e-10
+GO:MF,GO:0003824,catalytic activity,1.7689979417084672e-09
+GO:MF,GO:0003774,cytoskeletal motor activity,6.205541870712314e-09
+GO:MF,GO:0120544,polypeptide conformation or assembly isomerase activity,1.4758887409192498e-08
+GO:MF,GO:0032559,adenyl ribonucleotide binding,4.5514569464740885e-08
+GO:MF,GO:0010997,anaphase-promoting complex binding,5.611885059003423e-08
+GO:MF,GO:0005524,ATP binding,6.209011758598905e-08
+GO:MF,GO:0030554,adenyl nucleotide binding,1.0091806435902988e-07
+GO:MF,GO:0004674,protein serine/threonine kinase activity,1.6413840162420665e-07
+GO:MF,GO:0032555,purine ribonucleotide binding,3.1065242089622776e-07
+GO:MF,GO:0032553,ribonucleotide binding,4.0320546632673363e-07
+GO:MF,GO:0019900,kinase binding,4.4183989865341285e-07
+GO:MF,GO:0017076,purine nucleotide binding,5.462961261203889e-07
+GO:MF,GO:0019901,protein kinase binding,7.242211685000876e-07
+KEGG,KEGG:04110,Cell cycle,1.1620834645435783e-26
+KEGG,KEGG:04914,Progesterone-mediated oocyte maturation,1.6150029019722753e-10
+KEGG,KEGG:04114,Oocyte meiosis,3.2547649726702816e-10
+KEGG,KEGG:04814,Motor proteins,1.2733591265954614e-09
+KEGG,KEGG:05166,Human T-cell leukemia virus 1 infection,0.000243490581554724
+KEGG,KEGG:00000,KEGG root term,0.001773377399067506

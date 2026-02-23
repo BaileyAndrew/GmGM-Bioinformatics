@@ -1,0 +1,67 @@
+source,native,name,p_value
+GO:BP,GO:0006334,nucleosome assembly,1.4323275262782434e-68
+GO:BP,GO:0034728,nucleosome organization,1.6984572233434366e-67
+GO:BP,GO:0006338,chromatin remodeling,6.706137450511037e-61
+GO:BP,GO:0006325,chromatin organization,7.074227589893248e-58
+GO:BP,GO:0071824,protein-DNA complex organization,5.1834526624553546e-55
+GO:BP,GO:0065004,protein-DNA complex assembly,1.4852360986440173e-54
+GO:BP,GO:0040029,epigenetic regulation of gene expression,3.984864518131697e-26
+GO:BP,GO:0061644,protein localization to CENP-A containing chromatin,1.5335306667507696e-25
+GO:BP,GO:0051276,chromosome organization,5.3626702739097195e-24
+GO:BP,GO:0071168,protein localization to chromatin,1.036043634385493e-22
+GO:BP,GO:0065003,protein-containing complex assembly,3.3038282811738856e-22
+GO:BP,GO:0043933,protein-containing complex organization,1.2798598032164343e-21
+GO:BP,GO:0032200,telomere organization,3.7618063195891165e-21
+GO:BP,GO:0016043,cellular component organization,3.8364057221821683e-20
+GO:BP,GO:0071840,cellular component organization or biogenesis,2.3066715997434046e-19
+GO:BP,GO:0071459,"protein localization to chromosome, centromeric region",8.650493880404343e-19
+GO:BP,GO:0034502,protein localization to chromosome,2.496019317854456e-17
+GO:BP,GO:0031507,heterochromatin formation,3.649966271386372e-17
+GO:BP,GO:0045653,negative regulation of megakaryocyte differentiation,9.72331007910309e-17
+GO:BP,GO:0045814,"negative regulation of gene expression, epigenetic",4.2134240886760364e-15
+GO:CC,GO:0000786,nucleosome,8.723428925665873e-114
+GO:CC,GO:0032993,protein-DNA complex,1.584130544704e-94
+GO:CC,GO:0000785,chromatin,1.0120083094025405e-59
+GO:CC,GO:0005694,chromosome,2.817161312045221e-54
+GO:CC,GO:0043232,intracellular membraneless organelle,9.568116811103442e-30
+GO:CC,GO:0043228,membraneless organelle,9.568116811103442e-30
+GO:CC,GO:0005634,nucleus,3.186125785309157e-29
+GO:CC,GO:0070062,extracellular exosome,6.537637140673245e-29
+GO:CC,GO:0032991,protein-containing complex,9.239244045549989e-29
+GO:CC,GO:1903561,extracellular vesicle,1.1859174118325723e-28
+GO:CC,GO:0065010,extracellular membrane-bounded organelle,1.2131789930624167e-28
+GO:CC,GO:0043230,extracellular organelle,1.2131789930624167e-28
+GO:CC,GO:0061638,CENP-A containing chromatin,2.2274747114815647e-26
+GO:CC,GO:0043505,CENP-A containing nucleosome,2.2274747114815647e-26
+GO:CC,GO:0034506,"chromosome, centromeric core domain",8.889228739170227e-26
+GO:CC,GO:0005615,extracellular space,1.697810473478675e-25
+GO:CC,GO:0005654,nucleoplasm,6.911324613980225e-25
+GO:CC,GO:0031981,nuclear lumen,8.15448218167506e-23
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,2.0367429604665289e-22
+GO:CC,GO:0005576,extracellular region,2.916576583133646e-22
+GO:MF,GO:0030527,structural constituent of chromatin,3.7087787263767934e-125
+GO:MF,GO:0046982,protein heterodimerization activity,1.2685394564098032e-70
+GO:MF,GO:0005198,structural molecule activity,9.66275978286679e-64
+GO:MF,GO:0046983,protein dimerization activity,2.2444150111968352e-48
+GO:MF,GO:0003677,DNA binding,7.175200081683328e-46
+GO:MF,GO:0031492,nucleosomal DNA binding,5.178378181980965e-35
+GO:MF,GO:0003676,nucleic acid binding,2.811076774316507e-34
+GO:MF,GO:0031491,nucleosome binding,2.9377522378951857e-30
+GO:MF,GO:0031490,chromatin DNA binding,2.789675861248549e-26
+GO:MF,GO:0005515,protein binding,2.1923702995029597e-20
+GO:MF,GO:0005488,binding,4.546044418313895e-18
+GO:MF,GO:0003674,molecular_function,2.292220281399734e-17
+GO:MF,GO:0003682,chromatin binding,4.385647713851145e-17
+GO:MF,GO:0044877,protein-containing complex binding,2.5225252361590068e-12
+GO:MF,GO:0045296,cadherin binding,2.8896871304642757e-05
+GO:MF,GO:0050839,cell adhesion molecule binding,0.00033170990714272494
+GO:MF,GO:0003723,RNA binding,0.014856875426104157
+KEGG,KEGG:05322,Systemic lupus erythematosus,1.0312279254834715e-100
+KEGG,KEGG:04613,Neutrophil extracellular trap formation,1.3371148557087026e-88
+KEGG,KEGG:05034,Alcoholism,6.530512683850889e-86
+KEGG,KEGG:05203,Viral carcinogenesis,6.428083591202799e-35
+KEGG,KEGG:00000,KEGG root term,3.7356866187343764e-19
+KEGG,KEGG:03082,ATP-dependent chromatin remodeling,9.368292325652595e-18
+KEGG,KEGG:04217,Necroptosis,1.2174704445695695e-16
+KEGG,KEGG:05202,Transcriptional misregulation in cancer,3.0107896479105136e-09
+KEGG,KEGG:05131,Shigellosis,1.7015435807023288e-06

@@ -1,0 +1,42 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,3.539982326860278e-12
+GO:BP,GO:0009987,cellular process,1.5336127030539656e-11
+GO:BP,GO:0044238,primary metabolic process,3.4761960925961395e-07
+GO:BP,GO:0008152,metabolic process,7.885338880381472e-07
+GO:BP,GO:0043170,macromolecule metabolic process,5.834897393404061e-05
+GO:BP,GO:0050789,regulation of biological process,0.00010569670408909241
+GO:BP,GO:0065007,biological regulation,0.00017536565379567415
+GO:BP,GO:0050794,regulation of cellular process,0.00019934764548529266
+GO:BP,GO:0019222,regulation of metabolic process,0.0003522605640840387
+GO:BP,GO:0080090,regulation of primary metabolic process,0.001252767913643608
+GO:BP,GO:0019538,protein metabolic process,0.0014984750607135188
+GO:BP,GO:0009056,catabolic process,0.01569091679563374
+GO:BP,GO:0009059,macromolecule biosynthetic process,0.016017188513059565
+GO:BP,GO:0036211,protein modification process,0.01988889902642998
+GO:BP,GO:0043412,macromolecule modification,0.021080995231116832
+GO:BP,GO:0010467,gene expression,0.04028100754209956
+GO:CC,GO:0110165,cellular anatomical structure,7.757467692150406e-15
+GO:CC,GO:0005622,intracellular anatomical structure,8.35218930874492e-15
+GO:CC,GO:0005575,cellular_component,1.5693976144258143e-14
+GO:CC,GO:0043229,intracellular organelle,2.3763044823361397e-12
+GO:CC,GO:0043226,organelle,4.253813357540931e-12
+GO:CC,GO:0043227,membrane-bounded organelle,6.662528885140233e-10
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,5.536517357206998e-09
+GO:CC,GO:0005737,cytoplasm,7.476694566744866e-09
+GO:CC,GO:0005829,cytosol,8.63053614041749e-05
+GO:CC,GO:0005634,nucleus,0.0002962970157834337
+GO:CC,GO:0043233,organelle lumen,0.0034497590061014455
+GO:CC,GO:0070013,intracellular organelle lumen,0.0034497590061014455
+GO:CC,GO:0031974,membrane-enclosed lumen,0.0034497590061014455
+GO:CC,GO:1902494,catalytic complex,0.012151248445378028
+GO:CC,GO:0015630,microtubule cytoskeleton,0.036033600257067484
+GO:CC,GO:0032991,protein-containing complex,0.04100204534290027
+GO:MF,GO:0003674,molecular_function,6.5173571210458615e-19
+GO:MF,GO:0005488,binding,2.592521813992712e-18
+GO:MF,GO:0005515,protein binding,4.819502167445422e-12
+GO:MF,GO:0003824,catalytic activity,1.426343963358044e-05
+GO:MF,GO:0043167,ion binding,0.0033505192779968206
+GO:MF,GO:0036094,small molecule binding,0.006930372637519318
+GO:MF,GO:0140096,"catalytic activity, acting on a protein",0.00983857632105093
+KEGG,KEGG:04660,T cell receptor signaling pathway,0.00497009297769406
+KEGG,KEGG:04530,Tight junction,0.029401254308343044

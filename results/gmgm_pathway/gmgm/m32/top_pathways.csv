@@ -1,0 +1,16 @@
+source,native,name,p_value
+GO:BP,GO:0044238,primary metabolic process,0.0012761571955463322
+GO:BP,GO:0008152,metabolic process,0.002579160840447908
+GO:BP,GO:0009058,biosynthetic process,0.009064520062903998
+GO:BP,GO:0006139,nucleobase-containing compound metabolic process,0.01842144788865207
+GO:BP,GO:0034654,nucleobase-containing compound biosynthetic process,0.031071100417858585
+GO:CC,GO:0005622,intracellular anatomical structure,0.0003954275797973648
+GO:CC,GO:0043229,intracellular organelle,0.0035099403469540796
+GO:CC,GO:0043226,organelle,0.006464718521375416
+GO:CC,GO:0005575,cellular_component,0.013808726845673379
+GO:CC,GO:0110165,cellular anatomical structure,0.017294329166413505
+GO:CC,GO:0043227,membrane-bounded organelle,0.03663010993816538
+GO:MF,GO:0003674,molecular_function,0.0012789075291922373
+GO:MF,GO:0005488,binding,0.008423638409416397
+GO:MF,GO:0005515,protein binding,0.034696397985989495
+GO:MF,GO:0043167,ion binding,0.03825957613598872

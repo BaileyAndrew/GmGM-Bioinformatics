@@ -1,0 +1,67 @@
+source,native,name,p_value
+GO:BP,GO:0032501,multicellular organismal process,7.036275606219542e-27
+GO:BP,GO:0007399,nervous system development,8.029433073216078e-23
+GO:BP,GO:0007275,multicellular organism development,2.6315438397429095e-21
+GO:BP,GO:0008150,biological_process,7.14604852697898e-21
+GO:BP,GO:0065007,biological regulation,1.65873311994396e-20
+GO:BP,GO:0048731,system development,1.7253222103316736e-20
+GO:BP,GO:0048856,anatomical structure development,4.413782755622718e-20
+GO:BP,GO:0032502,developmental process,3.377201159362612e-19
+GO:BP,GO:0050789,regulation of biological process,8.087117657526504e-19
+GO:BP,GO:0009987,cellular process,2.0360813106837524e-18
+GO:BP,GO:0050794,regulation of cellular process,3.739846627577742e-17
+GO:BP,GO:0007417,central nervous system development,3.814364473881643e-14
+GO:BP,GO:0030154,cell differentiation,8.840500179570368e-14
+GO:BP,GO:0048869,cellular developmental process,8.950440885510366e-14
+GO:BP,GO:0048519,negative regulation of biological process,1.0420397060229806e-13
+GO:BP,GO:0022008,neurogenesis,5.153358997694986e-13
+GO:BP,GO:0048513,animal organ development,5.648272108149404e-13
+GO:BP,GO:0048699,generation of neurons,1.4479092917231082e-12
+GO:BP,GO:0048523,negative regulation of cellular process,1.4823837223021857e-12
+GO:BP,GO:0030182,neuron differentiation,1.5579356745080445e-12
+GO:CC,GO:0110165,cellular anatomical structure,1.778773767972602e-21
+GO:CC,GO:0005575,cellular_component,4.521816411088674e-21
+GO:CC,GO:0071944,cell periphery,4.62991649911133e-12
+GO:CC,GO:0005886,plasma membrane,4.759752368697023e-12
+GO:CC,GO:0016020,membrane,8.332577447274196e-10
+GO:CC,GO:0036477,somatodendritic compartment,6.008566721992091e-05
+GO:CC,GO:0030425,dendrite,0.00015703854193985565
+GO:CC,GO:0097447,dendritic tree,0.0001602913376132415
+GO:CC,GO:0005622,intracellular anatomical structure,0.0003119778823029888
+GO:CC,GO:0000785,chromatin,0.0006538639730254128
+GO:CC,GO:0043226,organelle,0.0010767719297988666
+GO:CC,GO:0045202,synapse,0.0016327390204670467
+GO:CC,GO:0043005,neuron projection,0.0021179771080228177
+GO:CC,GO:0043227,membrane-bounded organelle,0.006571425951666619
+GO:CC,GO:0042995,cell projection,0.008399140445770892
+GO:CC,GO:0045211,postsynaptic membrane,0.009148898294397599
+GO:CC,GO:0120025,plasma membrane bounded cell projection,0.009693268045710496
+GO:CC,GO:0043198,dendritic shaft,0.01760780835312445
+GO:CC,GO:0030054,cell junction,0.021932262954189815
+GO:CC,GO:0005694,chromosome,0.023177950691921658
+GO:MF,GO:0003674,molecular_function,1.8720897499174742e-23
+GO:MF,GO:0005488,binding,5.879834067319747e-14
+GO:MF,GO:0005515,protein binding,5.907723374699807e-10
+GO:MF,GO:0060089,molecular transducer activity,9.711842136213822e-07
+GO:MF,GO:0038023,signaling receptor activity,9.711842136213822e-07
+GO:MF,GO:0140110,transcription regulator activity,7.322669809241878e-05
+GO:MF,GO:0000981,"DNA-binding transcription factor activity, RNA polymerase II-specific",0.0009581494894368075
+GO:MF,GO:0000977,RNA polymerase II transcription regulatory region sequence-specific DNA binding,0.0016422586171282762
+GO:MF,GO:0003700,DNA-binding transcription factor activity,0.0026488807201536287
+GO:MF,GO:0005102,signaling receptor binding,0.0027787816742824815
+GO:MF,GO:0004888,transmembrane signaling receptor activity,0.0038613149991231365
+GO:MF,GO:0000976,transcription cis-regulatory region binding,0.004968792326239143
+GO:MF,GO:0001067,transcription regulatory region nucleic acid binding,0.005025289397315822
+GO:MF,GO:0008201,heparin binding,0.006103259903158271
+GO:MF,GO:1990837,sequence-specific double-stranded DNA binding,0.008900953494545522
+GO:MF,GO:0000978,RNA polymerase II cis-regulatory region sequence-specific DNA binding,0.010448668175600818
+GO:MF,GO:0000987,cis-regulatory region sequence-specific DNA binding,0.013682615466874434
+GO:MF,GO:0140677,molecular function activator activity,0.02022886292027268
+GO:MF,GO:0003690,double-stranded DNA binding,0.02231731036499804
+GO:MF,GO:0043565,sequence-specific DNA binding,0.02482971608889023
+KEGG,KEGG:04550,Signaling pathways regulating pluripotency of stem cells,1.510909606603812e-06
+KEGG,KEGG:04350,TGF-beta signaling pathway,7.256201918650188e-05
+KEGG,KEGG:04390,Hippo signaling pathway,0.0009446744426652232
+KEGG,KEGG:00000,KEGG root term,0.0041314205930384346
+KEGG,KEGG:05200,Pathways in cancer,0.012794072208170184
+KEGG,KEGG:04080,Neuroactive ligand-receptor interaction,0.03763469374512306

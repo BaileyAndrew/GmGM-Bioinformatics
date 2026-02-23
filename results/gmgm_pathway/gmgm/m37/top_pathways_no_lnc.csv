@@ -1,0 +1,48 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,5.7373951193292644e-18
+GO:BP,GO:0009987,cellular process,1.5253486378630692e-15
+GO:BP,GO:0065007,biological regulation,3.577930051893563e-11
+GO:BP,GO:0008152,metabolic process,1.4651535816102448e-10
+GO:BP,GO:0044238,primary metabolic process,4.3153108655482426e-09
+GO:BP,GO:0043170,macromolecule metabolic process,1.3367912991810682e-08
+GO:BP,GO:0050789,regulation of biological process,1.1202829420132712e-07
+GO:BP,GO:0050794,regulation of cellular process,1.7840331690219628e-07
+GO:BP,GO:0006139,nucleobase-containing compound metabolic process,7.113175393377865e-06
+GO:BP,GO:0009059,macromolecule biosynthetic process,1.1235096472739118e-05
+GO:BP,GO:0009058,biosynthetic process,1.70779501509566e-05
+GO:BP,GO:0030154,cell differentiation,2.676983856566113e-05
+GO:BP,GO:0048869,cellular developmental process,2.6978211521976846e-05
+GO:BP,GO:0010467,gene expression,6.461339598006697e-05
+GO:BP,GO:0048523,negative regulation of cellular process,7.799796978561767e-05
+GO:BP,GO:0048519,negative regulation of biological process,7.953758515563774e-05
+GO:BP,GO:0048518,positive regulation of biological process,0.0003845367680531354
+GO:BP,GO:0032502,developmental process,0.0005711053748809296
+GO:BP,GO:0019222,regulation of metabolic process,0.000577631983506602
+GO:BP,GO:0080090,regulation of primary metabolic process,0.0009563361394150864
+GO:CC,GO:0110165,cellular anatomical structure,4.542764211890887e-26
+GO:CC,GO:0005575,cellular_component,1.1681563821826113e-25
+GO:CC,GO:0005622,intracellular anatomical structure,2.1723302995069297e-23
+GO:CC,GO:0043226,organelle,4.617548147514671e-16
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,6.416088672554945e-16
+GO:CC,GO:0043227,membrane-bounded organelle,2.588391108230903e-15
+GO:CC,GO:0043229,intracellular organelle,4.1361655510069876e-15
+GO:CC,GO:0005737,cytoplasm,8.880818704527586e-14
+GO:CC,GO:0005634,nucleus,2.9637460380983773e-08
+GO:CC,GO:0005829,cytosol,2.6218648798566997e-06
+GO:CC,GO:0043233,organelle lumen,6.0837671399629944e-05
+GO:CC,GO:0031974,membrane-enclosed lumen,6.0837671399629944e-05
+GO:CC,GO:0070013,intracellular organelle lumen,6.0837671399629944e-05
+GO:CC,GO:0032991,protein-containing complex,0.0001341604480464342
+GO:CC,GO:0031981,nuclear lumen,0.0009239357540421332
+GO:CC,GO:0031410,cytoplasmic vesicle,0.0038600477440404904
+GO:CC,GO:0097708,intracellular vesicle,0.004040965695614134
+GO:CC,GO:0005768,endosome,0.017703897805384665
+GO:CC,GO:0005654,nucleoplasm,0.024374862389136224
+GO:CC,GO:0012505,endomembrane system,0.03563693370807071
+GO:MF,GO:0005488,binding,1.0176588751269771e-21
+GO:MF,GO:0003674,molecular_function,9.843930642464587e-21
+GO:MF,GO:0005515,protein binding,1.5112222125192635e-16
+GO:MF,GO:0019903,protein phosphatase binding,0.023378178528590268
+GO:MF,GO:0003824,catalytic activity,0.04253744544477909
+KEGG,KEGG:00000,KEGG root term,4.440294967209803e-06
+KEGG,KEGG:04152,AMPK signaling pathway,0.01377612998311683

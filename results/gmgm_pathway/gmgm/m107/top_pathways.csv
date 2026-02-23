@@ -1,0 +1,3 @@
+source,native,name,p_value
+GO:CC,GO:0005622,intracellular anatomical structure,0.03556478737781739
+GO:MF,GO:0005488,binding,0.0297324069132061

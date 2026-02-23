@@ -1,0 +1,47 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,2.5825034521550425e-12
+GO:BP,GO:0009987,cellular process,7.450155361248567e-12
+GO:BP,GO:0044238,primary metabolic process,6.562142329945575e-07
+GO:BP,GO:0008152,metabolic process,2.705976379943492e-06
+GO:BP,GO:0043170,macromolecule metabolic process,8.615283410395244e-06
+GO:BP,GO:0006139,nucleobase-containing compound metabolic process,3.973892449727492e-05
+GO:BP,GO:0090304,nucleic acid metabolic process,4.6732285499506556e-05
+GO:BP,GO:0044085,cellular component biogenesis,7.997392231518405e-05
+GO:BP,GO:0034654,nucleobase-containing compound biosynthetic process,0.00013781132100815793
+GO:BP,GO:0141187,nucleic acid biosynthetic process,0.0004962717622372785
+GO:BP,GO:0032774,RNA biosynthetic process,0.0011074561657966277
+GO:BP,GO:0022607,cellular component assembly,0.001359417598116998
+GO:BP,GO:0071840,cellular component organization or biogenesis,0.0015043917983186914
+GO:BP,GO:0016070,RNA metabolic process,0.0027446743363224455
+GO:BP,GO:0019219,regulation of nucleobase-containing compound metabolic process,0.006674282903662809
+GO:BP,GO:0009058,biosynthetic process,0.007048770897346248
+GO:BP,GO:0009059,macromolecule biosynthetic process,0.007127058717391435
+GO:BP,GO:0016043,cellular component organization,0.007396457723058517
+GO:BP,GO:0006996,organelle organization,0.010141827685250382
+GO:BP,GO:0010467,gene expression,0.015649150533403888
+GO:CC,GO:0005575,cellular_component,9.449765780338149e-12
+GO:CC,GO:0110165,cellular anatomical structure,7.994431665912507e-11
+GO:CC,GO:0043226,organelle,1.1681898031768225e-09
+GO:CC,GO:0043227,membrane-bounded organelle,2.436149492978253e-09
+GO:CC,GO:0005622,intracellular anatomical structure,1.915112020366865e-08
+GO:CC,GO:0043229,intracellular organelle,4.6797636788668885e-07
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,1.2773988851874864e-06
+GO:CC,GO:0043233,organelle lumen,0.00016765293397460164
+GO:CC,GO:0031974,membrane-enclosed lumen,0.00016765293397460164
+GO:CC,GO:0070013,intracellular organelle lumen,0.00016765293397460164
+GO:CC,GO:0005634,nucleus,0.001080309819940527
+GO:CC,GO:0005654,nucleoplasm,0.0018877938046708623
+GO:CC,GO:0031981,nuclear lumen,0.003130624691533212
+GO:CC,GO:0005737,cytoplasm,0.0041865625740678284
+GO:CC,GO:0016604,nuclear body,0.009342474537941963
+GO:CC,GO:0032991,protein-containing complex,0.014954684515829283
+GO:CC,GO:1990904,ribonucleoprotein complex,0.04398372672534768
+GO:CC,GO:0097165,nuclear stress granule,0.04663423105865378
+GO:CC,GO:0016020,membrane,0.04663666388518584
+GO:MF,GO:0003674,molecular_function,1.6207871666719525e-09
+GO:MF,GO:0005488,binding,2.1556824026337384e-08
+GO:MF,GO:0005515,protein binding,5.402838887374415e-07
+GO:MF,GO:0003676,nucleic acid binding,0.01423276212736568
+GO:MF,GO:0043167,ion binding,0.021445776026637466
+GO:MF,GO:0003723,RNA binding,0.033847680700558526
+GO:MF,GO:0036094,small molecule binding,0.0365775017063801

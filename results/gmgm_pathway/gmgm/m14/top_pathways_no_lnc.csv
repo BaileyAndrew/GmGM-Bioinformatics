@@ -1,0 +1,81 @@
+source,native,name,p_value
+GO:BP,GO:0009987,cellular process,5.651782797547619e-18
+GO:BP,GO:0008150,biological_process,7.940681805405035e-17
+GO:BP,GO:0048731,system development,1.439531457388521e-15
+GO:BP,GO:0007275,multicellular organism development,5.6482132485346007e-14
+GO:BP,GO:0032501,multicellular organismal process,2.713366098292204e-13
+GO:BP,GO:0032502,developmental process,6.279379821645698e-12
+GO:BP,GO:0048856,anatomical structure development,1.0279302218377522e-11
+GO:BP,GO:0030154,cell differentiation,2.7664313310649207e-11
+GO:BP,GO:0048869,cellular developmental process,2.7955879401048557e-11
+GO:BP,GO:0065007,biological regulation,4.846183194896327e-11
+GO:BP,GO:0050789,regulation of biological process,8.870007837837583e-11
+GO:BP,GO:0050896,response to stimulus,2.449437923273314e-10
+GO:BP,GO:0007399,nervous system development,2.3585466066771244e-09
+GO:BP,GO:0050794,regulation of cellular process,1.0189221454371176e-08
+GO:BP,GO:0007154,cell communication,3.308196538612061e-08
+GO:BP,GO:0048513,animal organ development,3.929573362801454e-08
+GO:BP,GO:0009653,anatomical structure morphogenesis,5.5526962892466285e-08
+GO:BP,GO:0048519,negative regulation of biological process,4.6340180334766294e-07
+GO:BP,GO:0051716,cellular response to stimulus,5.000311617929901e-07
+GO:BP,GO:0022008,neurogenesis,8.1293659836351e-07
+GO:CC,GO:0110165,cellular anatomical structure,4.575672729625158e-20
+GO:CC,GO:0005575,cellular_component,1.0434978709335371e-19
+GO:CC,GO:0005622,intracellular anatomical structure,1.4030058612173683e-10
+GO:CC,GO:0043226,organelle,7.851352042662774e-10
+GO:CC,GO:0071944,cell periphery,2.312279302018605e-09
+GO:CC,GO:0005886,plasma membrane,4.397052866247847e-09
+GO:CC,GO:0043229,intracellular organelle,5.6087613876002e-08
+GO:CC,GO:0016020,membrane,2.648880033564353e-07
+GO:CC,GO:0043227,membrane-bounded organelle,1.2907362017619994e-06
+GO:CC,GO:0005737,cytoplasm,5.308808799723427e-06
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,1.2723575903298112e-05
+GO:CC,GO:0005576,extracellular region,2.3361174322142705e-05
+GO:CC,GO:0030054,cell junction,0.0009630746179919639
+GO:CC,GO:0042995,cell projection,0.001009972554226859
+GO:CC,GO:0005615,extracellular space,0.0017051471164520853
+GO:CC,GO:0012505,endomembrane system,0.002455393252240957
+GO:CC,GO:0009986,cell surface,0.0038697958900296508
+GO:CC,GO:0045202,synapse,0.004112375614750958
+GO:CC,GO:0043005,neuron projection,0.008910843545994742
+GO:CC,GO:0120025,plasma membrane bounded cell projection,0.012596472832865841
+GO:MF,GO:0003674,molecular_function,9.122102404746221e-19
+GO:MF,GO:0005488,binding,6.8235139028122635e-15
+GO:MF,GO:0005515,protein binding,3.5348722331878375e-12
+GO:MF,GO:0000987,cis-regulatory region sequence-specific DNA binding,0.00023964534870022535
+GO:MF,GO:0043167,ion binding,0.0008044539842893994
+GO:MF,GO:0000978,RNA polymerase II cis-regulatory region sequence-specific DNA binding,0.0008365131904930944
+GO:MF,GO:0000976,transcription cis-regulatory region binding,0.0011764289053723467
+GO:MF,GO:0001067,transcription regulatory region nucleic acid binding,0.0011896945077083632
+GO:MF,GO:0003690,double-stranded DNA binding,0.0013883799948156328
+GO:MF,GO:0036094,small molecule binding,0.00179040609461745
+GO:MF,GO:1990837,sequence-specific double-stranded DNA binding,0.0020987679643758297
+GO:MF,GO:0043565,sequence-specific DNA binding,0.0058339536148582305
+GO:MF,GO:0000977,RNA polymerase II transcription regulatory region sequence-specific DNA binding,0.006784569982594259
+GO:MF,GO:0000981,"DNA-binding transcription factor activity, RNA polymerase II-specific",0.0167893380789745
+GO:MF,GO:0038023,signaling receptor activity,0.018430956834538548
+GO:MF,GO:0060089,molecular transducer activity,0.018430956834538548
+GO:MF,GO:0140110,transcription regulator activity,0.01936837384777661
+GO:MF,GO:0046872,metal ion binding,0.02654217999737937
+GO:MF,GO:0003700,DNA-binding transcription factor activity,0.037203677563448306
+GO:MF,GO:0043169,cation binding,0.04079620056931515
+KEGG,KEGG:00000,KEGG root term,0.00018068379839704542
+KEGG,KEGG:04916,Melanogenesis,0.00025089754081411797
+KEGG,KEGG:05200,Pathways in cancer,0.0005895697443499565
+KEGG,KEGG:05144,Malaria,0.0011759818487311698
+KEGG,KEGG:04912,GnRH signaling pathway,0.0027085535374820123
+KEGG,KEGG:04934,Cushing syndrome,0.0027777910932558457
+KEGG,KEGG:05165,Human papillomavirus infection,0.004026189579249567
+KEGG,KEGG:04022,cGMP-PKG signaling pathway,0.004054049753654538
+KEGG,KEGG:04020,Calcium signaling pathway,0.005460632208016755
+KEGG,KEGG:04015,Rap1 signaling pathway,0.018579358863729467
+KEGG,KEGG:04550,Signaling pathways regulating pluripotency of stem cells,0.01918321120471234
+KEGG,KEGG:04261,Adrenergic signaling in cardiomyocytes,0.029780576991859837
+KEGG,KEGG:04723,Retrograde endocannabinoid signaling,0.030747915344723903
+KEGG,KEGG:04714,Thermogenesis,0.03151066746787653
+KEGG,KEGG:04921,Oxytocin signaling pathway,0.03173880987364185
+KEGG,KEGG:04727,GABAergic synapse,0.038599306685966464
+KEGG,KEGG:05032,Morphine addiction,0.038599306685966464
+KEGG,KEGG:04925,Aldosterone synthesis and secretion,0.045941135888727974
+KEGG,KEGG:05225,Hepatocellular carcinoma,0.0482979996086105
+KEGG,KEGG:04750,Inflammatory mediator regulation of TRP channels,0.04996086480416078

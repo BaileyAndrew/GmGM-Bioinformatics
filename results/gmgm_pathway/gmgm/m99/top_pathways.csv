@@ -1,0 +1,8 @@
+source,native,name,p_value
+GO:CC,GO:0005622,intracellular anatomical structure,0.002540423730431012
+GO:CC,GO:0043229,intracellular organelle,0.0031310315988299763
+GO:CC,GO:0043228,membraneless organelle,0.01419335919722469
+GO:CC,GO:0043232,intracellular membraneless organelle,0.01419335919722469
+GO:CC,GO:0043226,organelle,0.022754603232157125
+GO:MF,GO:0016788,"hydrolase activity, acting on ester bonds",0.00489706356198977
+GO:MF,GO:0005515,protein binding,0.0180511542779465

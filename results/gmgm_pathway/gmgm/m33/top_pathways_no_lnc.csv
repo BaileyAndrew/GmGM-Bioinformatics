@@ -1,0 +1,51 @@
+source,native,name,p_value
+GO:BP,GO:0009987,cellular process,5.06783463996315e-17
+GO:BP,GO:0008150,biological_process,8.40968353543193e-17
+GO:BP,GO:0065007,biological regulation,1.4034671183299966e-11
+GO:BP,GO:0050789,regulation of biological process,2.3975852742505443e-11
+GO:BP,GO:0008152,metabolic process,9.844709513494884e-10
+GO:BP,GO:0044238,primary metabolic process,2.8305870580207797e-09
+GO:BP,GO:0050794,regulation of cellular process,9.66591203013776e-09
+GO:BP,GO:0043170,macromolecule metabolic process,3.8035820100007975e-08
+GO:BP,GO:0009058,biosynthetic process,2.1365572728469684e-05
+GO:BP,GO:0009059,macromolecule biosynthetic process,5.099095105832311e-05
+GO:BP,GO:0006139,nucleobase-containing compound metabolic process,0.00012395687770375347
+GO:BP,GO:0080090,regulation of primary metabolic process,0.00025732695710593395
+GO:BP,GO:0010467,gene expression,0.00031157860420582157
+GO:BP,GO:0090304,nucleic acid metabolic process,0.0003269625360669882
+GO:BP,GO:0010556,regulation of macromolecule biosynthetic process,0.0006650805160590656
+GO:BP,GO:0010468,regulation of gene expression,0.0009936480868664383
+GO:BP,GO:0009889,regulation of biosynthetic process,0.0016722554974673656
+GO:BP,GO:0016070,RNA metabolic process,0.0020305344694577653
+GO:BP,GO:0019953,sexual reproduction,0.0022654369629045734
+GO:BP,GO:0019222,regulation of metabolic process,0.002588964231503504
+GO:CC,GO:0005622,intracellular anatomical structure,5.216311769942413e-21
+GO:CC,GO:0043229,intracellular organelle,3.864431792053033e-19
+GO:CC,GO:0043226,organelle,9.70046031501342e-19
+GO:CC,GO:0110165,cellular anatomical structure,9.048636895853169e-17
+GO:CC,GO:0005575,cellular_component,1.9865782175780178e-16
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,1.763044347721221e-14
+GO:CC,GO:0043227,membrane-bounded organelle,2.7233895970427997e-13
+GO:CC,GO:0005737,cytoplasm,2.168199817677563e-12
+GO:CC,GO:0005634,nucleus,3.3883977321296495e-07
+GO:CC,GO:0031981,nuclear lumen,3.847818391986992e-06
+GO:CC,GO:0043233,organelle lumen,4.7389439106130756e-06
+GO:CC,GO:0070013,intracellular organelle lumen,4.7389439106130756e-06
+GO:CC,GO:0031974,membrane-enclosed lumen,4.7389439106130756e-06
+GO:CC,GO:0005654,nucleoplasm,7.147006126137924e-06
+GO:CC,GO:0043232,intracellular membraneless organelle,5.745270321052781e-05
+GO:CC,GO:0043228,membraneless organelle,5.745270321052781e-05
+GO:CC,GO:0012505,endomembrane system,0.002314850479911975
+GO:CC,GO:0005829,cytosol,0.005300039716138508
+GO:CC,GO:0090734,site of DNA damage,0.00680807945107639
+GO:CC,GO:0099080,supramolecular complex,0.009040957940119347
+GO:MF,GO:0003674,molecular_function,9.401510417806343e-21
+GO:MF,GO:0005488,binding,1.581388790432073e-17
+GO:MF,GO:0005515,protein binding,4.5995593651494745e-11
+GO:MF,GO:0003676,nucleic acid binding,7.204393371907951e-05
+GO:MF,GO:0003824,catalytic activity,0.0009106108114764283
+GO:MF,GO:0043167,ion binding,0.0027152329942685847
+GO:MF,GO:0036094,small molecule binding,0.005882061121737489
+GO:MF,GO:0140640,"catalytic activity, acting on a nucleic acid",0.01085588653742833
+GO:MF,GO:0003723,RNA binding,0.023864485558152564
+GO:MF,GO:0140098,"catalytic activity, acting on RNA",0.03626478952991458

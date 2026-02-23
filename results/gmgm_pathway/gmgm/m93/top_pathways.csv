@@ -1,0 +1,11 @@
+source,native,name,p_value
+GO:CC,GO:0005622,intracellular anatomical structure,0.00048135948807843205
+GO:CC,GO:0005575,cellular_component,0.0004842762988444447
+GO:CC,GO:0110165,cellular anatomical structure,0.000860621775521474
+GO:CC,GO:0043226,organelle,0.0015267528751752822
+GO:CC,GO:0043229,intracellular organelle,0.002194878968412662
+GO:CC,GO:0005737,cytoplasm,0.002938951478628623
+GO:CC,GO:0043227,membrane-bounded organelle,0.02066151081274458
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,0.027797799507251388
+GO:MF,GO:0003674,molecular_function,0.0035128868426007247
+GO:MF,GO:0005515,protein binding,0.013806596507548579

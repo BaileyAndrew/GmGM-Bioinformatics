@@ -1,0 +1,61 @@
+source,native,name,p_value
+GO:BP,GO:0006090,pyruvate metabolic process,4.0948833866946025e-11
+GO:BP,GO:0005996,monosaccharide metabolic process,4.263134381050506e-11
+GO:BP,GO:0008150,biological_process,1.5882561398222422e-09
+GO:BP,GO:0005975,carbohydrate metabolic process,1.6536652566033293e-09
+GO:BP,GO:0009154,purine ribonucleotide catabolic process,3.737873668231474e-09
+GO:BP,GO:0009261,ribonucleotide catabolic process,6.242401011179013e-09
+GO:BP,GO:0009987,cellular process,6.902327140472608e-09
+GO:BP,GO:0006195,purine nucleotide catabolic process,7.188401684520528e-09
+GO:BP,GO:0006096,glycolytic process,1.3298265783370402e-08
+GO:BP,GO:0019318,hexose metabolic process,1.5323922763009546e-08
+GO:BP,GO:0046032,ADP catabolic process,1.5989431665217997e-08
+GO:BP,GO:0019364,pyridine nucleotide catabolic process,1.9142965227506343e-08
+GO:BP,GO:0072523,purine-containing compound catabolic process,2.059583830055298e-08
+GO:BP,GO:0009137,purine nucleoside diphosphate catabolic process,2.091343603306879e-08
+GO:BP,GO:0009181,purine ribonucleoside diphosphate catabolic process,2.091343603306879e-08
+GO:BP,GO:0072526,pyridine-containing compound catabolic process,2.488647817917462e-08
+GO:BP,GO:0009191,ribonucleoside diphosphate catabolic process,2.7108415753488518e-08
+GO:BP,GO:0046031,ADP metabolic process,2.950108524721804e-08
+GO:BP,GO:0009166,nucleotide catabolic process,3.333711234989555e-08
+GO:BP,GO:0009134,nucleoside diphosphate catabolic process,3.484332499429133e-08
+GO:CC,GO:0110165,cellular anatomical structure,1.855278882246701e-12
+GO:CC,GO:0005575,cellular_component,2.8372085227746282e-12
+GO:CC,GO:0005622,intracellular anatomical structure,1.3948136159890642e-10
+GO:CC,GO:0043226,organelle,1.3643411156720176e-09
+GO:CC,GO:0043227,membrane-bounded organelle,5.91442191636954e-08
+GO:CC,GO:0005737,cytoplasm,6.508930766334392e-08
+GO:CC,GO:0043229,intracellular organelle,7.407012755172134e-08
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,1.882853920174148e-05
+GO:CC,GO:0030017,sarcomere,0.0005506009173728789
+GO:CC,GO:0005829,cytosol,0.0007132283258485854
+GO:CC,GO:0030016,myofibril,0.0009931480729594663
+GO:CC,GO:0043292,contractile muscle fiber,0.0012876620644838707
+GO:CC,GO:0005739,mitochondrion,0.001323078938166996
+GO:CC,GO:0031091,platelet alpha granule,0.00370059665898664
+GO:CC,GO:0016020,membrane,0.029664680923403717
+GO:CC,GO:0005615,extracellular space,0.033777896915930056
+GO:CC,GO:0031674,I band,0.03504355437882867
+GO:CC,GO:1990204,oxidoreductase complex,0.03813572526762407
+GO:CC,GO:0042383,sarcolemma,0.040303806009113326
+GO:CC,GO:0031093,platelet alpha granule lumen,0.044597478472931454
+GO:MF,GO:0003674,molecular_function,1.394254250962834e-10
+GO:MF,GO:0005488,binding,1.869637938206847e-09
+GO:MF,GO:0005515,protein binding,1.139511230992244e-07
+GO:MF,GO:0048029,monosaccharide binding,0.00011327373906271912
+GO:MF,GO:0030246,carbohydrate binding,0.0019575764021084073
+GO:MF,GO:0019200,carbohydrate kinase activity,0.0039842826588525225
+GO:MF,GO:0003873,6-phosphofructo-2-kinase activity,0.009756288764372015
+GO:MF,GO:0004331,"fructose-2,6-bisphosphate 2-phosphatase activity",0.01624006173955075
+GO:MF,GO:0016491,oxidoreductase activity,0.023652826575607917
+GO:MF,GO:0016861,"intramolecular oxidoreductase activity, interconverting aldoses and ketoses",0.034018545926939286
+GO:MF,GO:0008443,phosphofructokinase activity,0.034018545926939286
+GO:MF,GO:0050308,sugar-phosphatase activity,0.04530112406741052
+KEGG,KEGG:04066,HIF-1 signaling pathway,3.5746982140361786e-11
+KEGG,KEGG:00010,Glycolysis / Gluconeogenesis,1.1740805317608883e-09
+KEGG,KEGG:00051,Fructose and mannose metabolism,2.917738133530065e-09
+KEGG,KEGG:00000,KEGG root term,1.79793689694118e-07
+KEGG,KEGG:01200,Carbon metabolism,4.028872846608721e-06
+KEGG,KEGG:05230,Central carbon metabolism in cancer,1.4633054470172534e-05
+KEGG,KEGG:01100,Metabolic pathways,0.00016623449175553695
+KEGG,KEGG:01230,Biosynthesis of amino acids,0.000594187913859351

@@ -1,0 +1,18 @@
+source,native,name,p_value
+GO:BP,GO:0098534,centriole assembly,2.341956664979434e-08
+GO:BP,GO:1903251,multi-ciliated epithelial cell differentiation,8.723729180952576e-08
+GO:BP,GO:0007099,centriole replication,1.3195353945200671e-05
+GO:BP,GO:0097742,de novo centriole assembly,3.901879894472734e-05
+GO:BP,GO:0031023,microtubule organizing center organization,6.465723321696848e-05
+GO:BP,GO:0051298,centrosome duplication,0.000615487152760769
+GO:BP,GO:0007098,centrosome cycle,0.004211532885743756
+GO:BP,GO:0098535,de novo centriole assembly involved in multi-ciliated epithelial cell differentiation,0.004238136683746658
+GO:BP,GO:0046599,regulation of centriole replication,0.021197248299080547
+GO:BP,GO:0046601,positive regulation of centriole replication,0.034949617947795796
+GO:CC,GO:0005814,centriole,1.9181791321647134e-06
+GO:CC,GO:0098536,deuterosome,7.803759788945468e-06
+GO:CC,GO:0120099,procentriole replication complex,0.0016874509137097251
+GO:CC,GO:0005813,centrosome,0.005049345892202006
+GO:CC,GO:0005815,microtubule organizing center,0.011113516051479875
+GO:CC,GO:0120098,procentriole,0.041385350875854154
+GO:CC,GO:0005608,laminin-3 complex,0.041385350875854154

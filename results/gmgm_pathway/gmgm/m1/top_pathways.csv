@@ -1,0 +1,76 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,3.101229172112988e-29
+GO:BP,GO:0009987,cellular process,3.631537454247002e-29
+GO:BP,GO:0050896,response to stimulus,1.5630266456780105e-12
+GO:BP,GO:0007154,cell communication,8.523328216308261e-11
+GO:BP,GO:0065007,biological regulation,1.549320750602868e-10
+GO:BP,GO:0023052,signaling,1.578752564740413e-10
+GO:BP,GO:0055085,transmembrane transport,1.99009765893566e-10
+GO:BP,GO:0007165,signal transduction,1.0255204388059045e-09
+GO:BP,GO:0006955,immune response,1.5693053868966832e-09
+GO:BP,GO:0050789,regulation of biological process,2.0679810680849955e-09
+GO:BP,GO:0050794,regulation of cellular process,7.836806205465457e-09
+GO:BP,GO:0043207,response to external biotic stimulus,4.713171763178957e-08
+GO:BP,GO:0006811,monoatomic ion transport,6.04709517482617e-08
+GO:BP,GO:0051707,response to other organism,8.515338785998477e-08
+GO:BP,GO:0006810,transport,1.0071249909569338e-07
+GO:BP,GO:0051716,cellular response to stimulus,1.6314812108739248e-07
+GO:BP,GO:0009607,response to biotic stimulus,1.9750014534990842e-07
+GO:BP,GO:0032501,multicellular organismal process,2.774772466873938e-07
+GO:BP,GO:0002376,immune system process,4.2351266900882683e-07
+GO:BP,GO:0030001,metal ion transport,1.117753411061066e-06
+GO:CC,GO:0005575,cellular_component,6.541617678057203e-34
+GO:CC,GO:0110165,cellular anatomical structure,5.242635378491178e-33
+GO:CC,GO:0071944,cell periphery,1.4120397309984568e-27
+GO:CC,GO:0005886,plasma membrane,1.7453910081717147e-26
+GO:CC,GO:0016020,membrane,6.46893625549075e-23
+GO:CC,GO:0005622,intracellular anatomical structure,4.89290744394568e-10
+GO:CC,GO:0005737,cytoplasm,2.1314193718452133e-09
+GO:CC,GO:0043226,organelle,2.7842159467166993e-08
+GO:CC,GO:0043227,membrane-bounded organelle,9.823009345708739e-08
+GO:CC,GO:0098590,plasma membrane region,1.5859173830191478e-06
+GO:CC,GO:0005576,extracellular region,4.976156100027149e-06
+GO:CC,GO:0030687,"preribosome, large subunit precursor",1.0928223472033666e-05
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,2.3029493362170395e-05
+GO:CC,GO:0043229,intracellular organelle,6.026704636376527e-05
+GO:CC,GO:0031090,organelle membrane,7.564826433867538e-05
+GO:CC,GO:0030684,preribosome,8.799518253437436e-05
+GO:CC,GO:0031982,vesicle,0.00021714778336113472
+GO:CC,GO:0005615,extracellular space,0.00044244352462095377
+GO:CC,GO:0016323,basolateral plasma membrane,0.00045460852896436424
+GO:CC,GO:0009925,basal plasma membrane,0.0010077078302673163
+GO:MF,GO:0003674,molecular_function,6.568911952354913e-34
+GO:MF,GO:0005488,binding,1.2920774536014696e-24
+GO:MF,GO:0005515,protein binding,1.0697411434837748e-17
+GO:MF,GO:0005215,transporter activity,9.427275020126973e-11
+GO:MF,GO:0022857,transmembrane transporter activity,1.4704681431455455e-09
+GO:MF,GO:0004888,transmembrane signaling receptor activity,1.7874606006155924e-07
+GO:MF,GO:0060089,molecular transducer activity,3.4343467903975843e-07
+GO:MF,GO:0038023,signaling receptor activity,3.4343467903975843e-07
+GO:MF,GO:0003824,catalytic activity,9.191155543707978e-07
+GO:MF,GO:0046873,metal ion transmembrane transporter activity,1.570179782061137e-05
+GO:MF,GO:0001653,peptide receptor activity,3.688685885799911e-05
+GO:MF,GO:0008528,G protein-coupled peptide receptor activity,5.39934432665347e-05
+GO:MF,GO:0008514,organic anion transmembrane transporter activity,7.352960762860893e-05
+GO:MF,GO:0022890,inorganic cation transmembrane transporter activity,7.391894160609827e-05
+GO:MF,GO:0015081,sodium ion transmembrane transporter activity,0.00010335770678525162
+GO:MF,GO:0008324,monoatomic cation transmembrane transporter activity,0.00014777943177563373
+GO:MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,0.00017379291367466184
+GO:MF,GO:0005217,intracellularly ligand-gated monoatomic ion channel activity,0.0001761082651089258
+GO:MF,GO:0015075,monoatomic ion transmembrane transporter activity,0.00023183227900467642
+GO:MF,GO:0015267,channel activity,0.0002545909111049445
+KEGG,KEGG:00000,KEGG root term,8.002361719847102e-07
+KEGG,KEGG:04080,Neuroactive ligand-receptor interaction,3.080837230734643e-06
+KEGG,KEGG:04020,Calcium signaling pathway,7.340838533641714e-05
+KEGG,KEGG:05320,Autoimmune thyroid disease,0.0006733385096586891
+KEGG,KEGG:05416,Viral myocarditis,0.0024608354416011044
+KEGG,KEGG:05330,Allograft rejection,0.0029471630406701184
+KEGG,KEGG:04612,Antigen processing and presentation,0.004411909751956783
+KEGG,KEGG:04742,Taste transduction,0.005066647959179288
+KEGG,KEGG:04672,Intestinal immune network for IgA production,0.009340577510877019
+KEGG,KEGG:05310,Asthma,0.010929084037791165
+KEGG,KEGG:04640,Hematopoietic cell lineage,0.010936740521316856
+KEGG,KEGG:05332,Graft-versus-host disease,0.025315622299830358
+KEGG,KEGG:05164,Influenza A,0.03658330494680204
+KEGG,KEGG:05323,Rheumatoid arthritis,0.04350151835441041
+KEGG,KEGG:00790,Folate biosynthesis,0.046225008545621116

@@ -1,0 +1,51 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,2.295943811720122e-16
+GO:BP,GO:0009987,cellular process,5.8109163895587515e-15
+GO:BP,GO:0043170,macromolecule metabolic process,8.735909404359887e-12
+GO:BP,GO:0044238,primary metabolic process,1.0240957513066384e-11
+GO:BP,GO:0008152,metabolic process,1.8324256408330202e-11
+GO:BP,GO:0050789,regulation of biological process,5.8642046202653623e-08
+GO:BP,GO:0050794,regulation of cellular process,9.255507310022348e-08
+GO:BP,GO:0065007,biological regulation,1.3845270673838437e-07
+GO:BP,GO:0043412,macromolecule modification,1.7230983114904873e-06
+GO:BP,GO:0090304,nucleic acid metabolic process,2.1017148854021647e-06
+GO:BP,GO:0016070,RNA metabolic process,3.6640750241284142e-06
+GO:BP,GO:0019222,regulation of metabolic process,3.924492314967678e-06
+GO:BP,GO:0060255,regulation of macromolecule metabolic process,4.210595762231578e-06
+GO:BP,GO:0006139,nucleobase-containing compound metabolic process,9.329702649917363e-06
+GO:BP,GO:0006366,transcription by RNA polymerase II,1.8774458061117086e-05
+GO:BP,GO:0006357,regulation of transcription by RNA polymerase II,2.215357884669205e-05
+GO:BP,GO:0010556,regulation of macromolecule biosynthetic process,4.0521729613619224e-05
+GO:BP,GO:0009059,macromolecule biosynthetic process,4.3584158962939066e-05
+GO:BP,GO:0010468,regulation of gene expression,5.934693573284347e-05
+GO:BP,GO:0032774,RNA biosynthetic process,9.165932965722406e-05
+GO:CC,GO:0005575,cellular_component,1.0975449796253956e-17
+GO:CC,GO:0110165,cellular anatomical structure,2.5353210661682345e-15
+GO:CC,GO:0043226,organelle,6.789018601099966e-11
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,1.9580308262009144e-10
+GO:CC,GO:0043227,membrane-bounded organelle,7.706313014893449e-10
+GO:CC,GO:0005622,intracellular anatomical structure,1.0546722113875096e-09
+GO:CC,GO:0043229,intracellular organelle,1.1359017521851818e-09
+GO:CC,GO:0005634,nucleus,1.0459088241549004e-05
+GO:CC,GO:1990234,transferase complex,0.0008166679682997748
+GO:CC,GO:0031974,membrane-enclosed lumen,0.0014176596226524354
+GO:CC,GO:0043233,organelle lumen,0.0014176596226524354
+GO:CC,GO:0070013,intracellular organelle lumen,0.0014176596226524354
+GO:CC,GO:0031981,nuclear lumen,0.007465536957548126
+GO:CC,GO:1902494,catalytic complex,0.010998982242128882
+GO:CC,GO:0005654,nucleoplasm,0.012768806673707325
+GO:CC,GO:0005737,cytoplasm,0.014886655311483128
+GO:CC,GO:0032991,protein-containing complex,0.015385235134710691
+GO:CC,GO:0055087,Ski complex,0.019798224855887118
+GO:MF,GO:0003674,molecular_function,8.129507072411127e-18
+GO:MF,GO:0005488,binding,4.2224347710689986e-17
+GO:MF,GO:0005515,protein binding,4.2828048684191764e-13
+GO:MF,GO:0036094,small molecule binding,6.334678164470057e-06
+GO:MF,GO:0043167,ion binding,6.636128468359967e-06
+GO:MF,GO:0016740,transferase activity,8.984772478767386e-05
+GO:MF,GO:0003824,catalytic activity,0.00033625854239106243
+GO:MF,GO:0050681,nuclear androgen receptor binding,0.00259246731581602
+GO:MF,GO:0140110,transcription regulator activity,0.007988254010923967
+GO:MF,GO:0140096,"catalytic activity, acting on a protein",0.008285596791325388
+GO:MF,GO:0003677,DNA binding,0.02211553395894609
+GO:MF,GO:0003676,nucleic acid binding,0.03866299415963709

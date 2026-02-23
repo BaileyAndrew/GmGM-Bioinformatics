@@ -1,0 +1,47 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,4.411772727954067e-17
+GO:BP,GO:0009987,cellular process,2.0065131470393882e-15
+GO:BP,GO:0008152,metabolic process,4.4835460385917514e-10
+GO:BP,GO:0050794,regulation of cellular process,1.811813350989503e-08
+GO:BP,GO:0050789,regulation of biological process,3.383713746824315e-08
+GO:BP,GO:0065007,biological regulation,7.183642001903468e-08
+GO:BP,GO:0071840,cellular component organization or biogenesis,6.753108169148663e-07
+GO:BP,GO:0043170,macromolecule metabolic process,9.234989181594799e-07
+GO:BP,GO:0016043,cellular component organization,5.988090227585206e-06
+GO:BP,GO:0044238,primary metabolic process,7.175851789693721e-06
+GO:BP,GO:0048518,positive regulation of biological process,1.0515382337158822e-05
+GO:BP,GO:0090304,nucleic acid metabolic process,1.4303502961128365e-05
+GO:BP,GO:0006139,nucleobase-containing compound metabolic process,1.554258663994144e-05
+GO:BP,GO:0016070,RNA metabolic process,3.338993083759707e-05
+GO:BP,GO:0010467,gene expression,4.0264447915388834e-05
+GO:BP,GO:0141187,nucleic acid biosynthetic process,6.140744488915147e-05
+GO:BP,GO:0032774,RNA biosynthetic process,9.073185431263075e-05
+GO:BP,GO:0034654,nucleobase-containing compound biosynthetic process,0.00014127443225904878
+GO:BP,GO:0009059,macromolecule biosynthetic process,0.00014722429255408214
+GO:BP,GO:0010468,regulation of gene expression,0.00014997043590008936
+GO:CC,GO:0005622,intracellular anatomical structure,3.402433940292267e-22
+GO:CC,GO:0110165,cellular anatomical structure,3.592215337121347e-19
+GO:CC,GO:0005575,cellular_component,8.114612351926996e-19
+GO:CC,GO:0043226,organelle,8.845630399852073e-19
+GO:CC,GO:0043229,intracellular organelle,1.874323466700061e-17
+GO:CC,GO:0043227,membrane-bounded organelle,4.3914289217566383e-16
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,4.937995610304743e-15
+GO:CC,GO:0005737,cytoplasm,3.292365575201996e-12
+GO:CC,GO:0031974,membrane-enclosed lumen,1.4237364869212464e-08
+GO:CC,GO:0070013,intracellular organelle lumen,1.4237364869212464e-08
+GO:CC,GO:0043233,organelle lumen,1.4237364869212464e-08
+GO:CC,GO:0005634,nucleus,9.148270549540027e-08
+GO:CC,GO:0031981,nuclear lumen,1.357046412309971e-07
+GO:CC,GO:0005654,nucleoplasm,3.092875345022399e-06
+GO:CC,GO:0005829,cytosol,5.229367397917271e-05
+GO:CC,GO:0043232,intracellular membraneless organelle,0.0005214952000951538
+GO:CC,GO:0043228,membraneless organelle,0.0005214952000951538
+GO:CC,GO:0005730,nucleolus,0.010766208164074623
+GO:MF,GO:0003674,molecular_function,2.6717908692201784e-21
+GO:MF,GO:0005488,binding,7.278174451258837e-21
+GO:MF,GO:0005515,protein binding,3.7384533408362057e-16
+GO:MF,GO:0043167,ion binding,0.0004301894371167573
+GO:MF,GO:0003676,nucleic acid binding,0.0008625335044408613
+GO:MF,GO:0036094,small molecule binding,0.0009834440208594327
+KEGG,KEGG:00000,KEGG root term,1.5539550710406576e-05
+KEGG,KEGG:05168,Herpes simplex virus 1 infection,0.015558633991562357

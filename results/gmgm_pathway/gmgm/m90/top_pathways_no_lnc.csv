@@ -1,0 +1,61 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,1.94301588052685e-17
+GO:BP,GO:0009987,cellular process,4.714095159814764e-16
+GO:BP,GO:0050789,regulation of biological process,4.376084357216119e-11
+GO:BP,GO:0048731,system development,5.5349765534639667e-11
+GO:BP,GO:0065007,biological regulation,3.135061696328436e-10
+GO:BP,GO:0007275,multicellular organism development,4.5031929842904607e-10
+GO:BP,GO:0048856,anatomical structure development,4.701728534386163e-10
+GO:BP,GO:0050794,regulation of cellular process,7.888362821673597e-10
+GO:BP,GO:0032502,developmental process,2.6319366728810793e-09
+GO:BP,GO:0007399,nervous system development,9.817881425584582e-08
+GO:BP,GO:0030154,cell differentiation,1.0665932624970255e-07
+GO:BP,GO:0048869,cellular developmental process,1.0750277106884735e-07
+GO:BP,GO:0048699,generation of neurons,1.2083095392085244e-07
+GO:BP,GO:0048513,animal organ development,2.0958708661353583e-07
+GO:BP,GO:0032501,multicellular organismal process,3.881427012889339e-07
+GO:BP,GO:0044238,primary metabolic process,6.151131517543851e-07
+GO:BP,GO:0030182,neuron differentiation,1.4667316694780117e-06
+GO:BP,GO:0048522,positive regulation of cellular process,1.6933490239350793e-06
+GO:BP,GO:0022008,neurogenesis,2.0891775360605185e-06
+GO:BP,GO:0009653,anatomical structure morphogenesis,2.4350447250226458e-06
+GO:CC,GO:0110165,cellular anatomical structure,9.723468782994696e-23
+GO:CC,GO:0005575,cellular_component,2.031322911496981e-22
+GO:CC,GO:0043226,organelle,2.0867805280715038e-12
+GO:CC,GO:0005622,intracellular anatomical structure,2.2673538232115642e-12
+GO:CC,GO:0043227,membrane-bounded organelle,8.705347294529534e-12
+GO:CC,GO:0043229,intracellular organelle,3.2653810968423766e-10
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,1.2609472476199667e-09
+GO:CC,GO:0071944,cell periphery,1.3531380505518764e-05
+GO:CC,GO:0016020,membrane,4.6372084593706906e-05
+GO:CC,GO:0005634,nucleus,4.702163794245388e-05
+GO:CC,GO:0005737,cytoplasm,5.4636020104199796e-05
+GO:CC,GO:0005886,plasma membrane,0.000153238692148383
+GO:CC,GO:0098858,actin-based cell projection,0.0026800518380217003
+GO:CC,GO:0012505,endomembrane system,0.003512897961011466
+GO:CC,GO:0043232,intracellular membraneless organelle,0.005934048032271686
+GO:CC,GO:0043228,membraneless organelle,0.005934048032271686
+GO:CC,GO:0043233,organelle lumen,0.015287150332188623
+GO:CC,GO:0070013,intracellular organelle lumen,0.015287150332188623
+GO:CC,GO:0031974,membrane-enclosed lumen,0.015287150332188623
+GO:CC,GO:0031981,nuclear lumen,0.02332605037042151
+GO:MF,GO:0003674,molecular_function,3.3981369329765542e-15
+GO:MF,GO:0005488,binding,1.742475666722285e-12
+GO:MF,GO:0005515,protein binding,1.4574342947771842e-09
+GO:MF,GO:0036094,small molecule binding,1.19653076937627e-06
+GO:MF,GO:0043167,ion binding,1.6988606930711512e-06
+GO:MF,GO:0043169,cation binding,1.4305422493834087e-05
+GO:MF,GO:0046872,metal ion binding,2.9445751693579195e-05
+GO:MF,GO:0003677,DNA binding,5.040712450474987e-05
+GO:MF,GO:0003700,DNA-binding transcription factor activity,9.223277557817642e-05
+GO:MF,GO:0140110,transcription regulator activity,0.00013668536159666304
+GO:MF,GO:0000981,"DNA-binding transcription factor activity, RNA polymerase II-specific",0.00018484335911824785
+GO:MF,GO:0043565,sequence-specific DNA binding,0.0008651315887184094
+GO:MF,GO:0003676,nucleic acid binding,0.001916266788270235
+GO:MF,GO:0003690,double-stranded DNA binding,0.0033932314683140096
+GO:MF,GO:1990837,sequence-specific double-stranded DNA binding,0.006284000773761397
+GO:MF,GO:0000977,RNA polymerase II transcription regulatory region sequence-specific DNA binding,0.006805952123795739
+GO:MF,GO:0000976,transcription cis-regulatory region binding,0.016170798424422067
+GO:MF,GO:0001067,transcription regulatory region nucleic acid binding,0.01631469402176645
+GO:MF,GO:0000978,RNA polymerase II cis-regulatory region sequence-specific DNA binding,0.02323153880622367
+GO:MF,GO:0000987,cis-regulatory region sequence-specific DNA binding,0.028831354449138966

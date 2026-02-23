@@ -1,0 +1,35 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,3.367966287782141e-10
+GO:BP,GO:0009987,cellular process,1.7361693677653324e-09
+GO:BP,GO:0044238,primary metabolic process,1.9963046602082933e-08
+GO:BP,GO:0008152,metabolic process,2.3205762629719855e-08
+GO:BP,GO:0043170,macromolecule metabolic process,3.4071371469836925e-05
+GO:BP,GO:0006139,nucleobase-containing compound metabolic process,0.005415271344986617
+GO:BP,GO:0009058,biosynthetic process,0.0061585902157575275
+GO:BP,GO:0006796,phosphate-containing compound metabolic process,0.015477985422482644
+GO:BP,GO:0006793,phosphorus metabolic process,0.015806487712480406
+GO:BP,GO:0036211,protein modification process,0.018005074427926093
+GO:BP,GO:0080090,regulation of primary metabolic process,0.018096987103312034
+GO:BP,GO:0090304,nucleic acid metabolic process,0.02685602836896856
+GO:BP,GO:0065007,biological regulation,0.03956152255180564
+GO:BP,GO:0010467,gene expression,0.049338450210688514
+GO:CC,GO:0005575,cellular_component,7.58568574304277e-12
+GO:CC,GO:0110165,cellular anatomical structure,3.02550615280191e-11
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,1.7237563535876878e-10
+GO:CC,GO:0043229,intracellular organelle,2.3729993388329554e-10
+GO:CC,GO:0005622,intracellular anatomical structure,3.8928934792552057e-10
+GO:CC,GO:0043227,membrane-bounded organelle,7.804354466757444e-10
+GO:CC,GO:0043226,organelle,1.318464162957631e-09
+GO:CC,GO:0005737,cytoplasm,2.8589641121788805e-07
+GO:CC,GO:0005634,nucleus,0.00014112646250446397
+GO:CC,GO:0005829,cytosol,0.0029143841168746245
+GO:CC,GO:0031974,membrane-enclosed lumen,0.004679174658546145
+GO:CC,GO:0043233,organelle lumen,0.004679174658546145
+GO:CC,GO:0070013,intracellular organelle lumen,0.004679174658546145
+GO:CC,GO:0012505,endomembrane system,0.043952578960287536
+GO:CC,GO:0031090,organelle membrane,0.04957893005921793
+GO:MF,GO:0003674,molecular_function,4.607387071810111e-17
+GO:MF,GO:0005488,binding,4.4462135846725236e-15
+GO:MF,GO:0005515,protein binding,2.81333274864007e-10
+KEGG,KEGG:00000,KEGG root term,0.0006706284623619166
+KEGG,KEGG:00760,Nicotinate and nicotinamide metabolism,0.020015448896585457

@@ -1,0 +1,81 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,2.0469284530985487e-62
+GO:BP,GO:0009987,cellular process,9.909467960713907e-57
+GO:BP,GO:0050789,regulation of biological process,3.5335426910655833e-56
+GO:BP,GO:0050794,regulation of cellular process,3.467896610327312e-55
+GO:BP,GO:0065007,biological regulation,6.930403185063373e-54
+GO:BP,GO:0048731,system development,5.754419036184568e-43
+GO:BP,GO:0048856,anatomical structure development,4.1898048716650043e-41
+GO:BP,GO:0007275,multicellular organism development,3.3381191267408422e-40
+GO:BP,GO:0032502,developmental process,4.043803219942149e-40
+GO:BP,GO:0032501,multicellular organismal process,7.165194252154087e-38
+GO:BP,GO:0009653,anatomical structure morphogenesis,3.762342033496036e-36
+GO:BP,GO:0016043,cellular component organization,9.721974257147286e-36
+GO:BP,GO:0007399,nervous system development,1.0509166070322587e-35
+GO:BP,GO:0048513,animal organ development,2.4224708299372794e-35
+GO:BP,GO:0071840,cellular component organization or biogenesis,2.3337253535045045e-33
+GO:BP,GO:0030154,cell differentiation,9.569026923316381e-31
+GO:BP,GO:0048869,cellular developmental process,9.988577465105006e-31
+GO:BP,GO:0050896,response to stimulus,6.364730225654093e-30
+GO:BP,GO:0120036,plasma membrane bounded cell projection organization,8.023436717986953e-29
+GO:BP,GO:0030030,cell projection organization,1.2094488885557013e-28
+GO:CC,GO:0005575,cellular_component,2.777139378752567e-65
+GO:CC,GO:0110165,cellular anatomical structure,5.595193849495328e-63
+GO:CC,GO:0005622,intracellular anatomical structure,2.3617483125128178e-56
+GO:CC,GO:0043226,organelle,1.4561506996675163e-45
+GO:CC,GO:0043229,intracellular organelle,3.3580803200612e-42
+GO:CC,GO:0005737,cytoplasm,2.2809723986745174e-38
+GO:CC,GO:0043227,membrane-bounded organelle,7.662212197235595e-34
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,3.188503516945008e-27
+GO:CC,GO:0005856,cytoskeleton,9.99195420762411e-27
+GO:CC,GO:0120025,plasma membrane bounded cell projection,3.16809861769672e-25
+GO:CC,GO:0042995,cell projection,4.337209461879826e-24
+GO:CC,GO:0043228,membraneless organelle,5.878022118872472e-24
+GO:CC,GO:0043232,intracellular membraneless organelle,5.878022118872472e-24
+GO:CC,GO:0005634,nucleus,6.154691944332431e-20
+GO:CC,GO:0030054,cell junction,2.02455826456235e-19
+GO:CC,GO:0015630,microtubule cytoskeleton,2.530861162473677e-17
+GO:CC,GO:0005829,cytosol,5.203799919579353e-16
+GO:CC,GO:0043005,neuron projection,4.381473457761814e-15
+GO:CC,GO:0045202,synapse,2.393020391665676e-14
+GO:CC,GO:0005815,microtubule organizing center,1.564797019668927e-13
+GO:MF,GO:0003674,molecular_function,3.6306095391633593e-69
+GO:MF,GO:0005488,binding,3.778655745927735e-62
+GO:MF,GO:0005515,protein binding,7.64384819196705e-51
+GO:MF,GO:0043167,ion binding,5.792267350438428e-20
+GO:MF,GO:0036094,small molecule binding,1.1130053891774666e-18
+GO:MF,GO:0043169,cation binding,3.3888767038375903e-15
+GO:MF,GO:0046872,metal ion binding,1.0588766995845298e-14
+GO:MF,GO:0140110,transcription regulator activity,1.4074646944411577e-13
+GO:MF,GO:0003677,DNA binding,1.994763062129083e-12
+GO:MF,GO:0140096,"catalytic activity, acting on a protein",2.6954750771394468e-09
+GO:MF,GO:0003824,catalytic activity,3.1137484024452235e-09
+GO:MF,GO:0008092,cytoskeletal protein binding,1.0357022618649556e-08
+GO:MF,GO:0003690,double-stranded DNA binding,3.109615622356074e-08
+GO:MF,GO:0043565,sequence-specific DNA binding,4.639622984677969e-08
+GO:MF,GO:0000976,transcription cis-regulatory region binding,1.1786210325249862e-07
+GO:MF,GO:0001067,transcription regulatory region nucleic acid binding,1.22359184560093e-07
+GO:MF,GO:1990837,sequence-specific double-stranded DNA binding,3.595261891945693e-07
+GO:MF,GO:0030695,GTPase regulator activity,4.078229462433436e-07
+GO:MF,GO:0060589,nucleoside-triphosphatase regulator activity,4.078229462433436e-07
+GO:MF,GO:0003712,transcription coregulator activity,5.3638851677565e-07
+KEGG,KEGG:04360,Axon guidance,9.188670487737143e-09
+KEGG,KEGG:00000,KEGG root term,4.531563513538163e-06
+KEGG,KEGG:04310,Wnt signaling pathway,4.642434268817124e-06
+KEGG,KEGG:05226,Gastric cancer,3.519049306584833e-05
+KEGG,KEGG:05210,Colorectal cancer,0.00021757897600291188
+KEGG,KEGG:04340,Hedgehog signaling pathway,0.00044313375054750686
+KEGG,KEGG:04390,Hippo signaling pathway,0.0006958661396143894
+KEGG,KEGG:01522,Endocrine resistance,0.0007863151836184438
+KEGG,KEGG:04012,ErbB signaling pathway,0.0009742582100586472
+KEGG,KEGG:03083,Polycomb repressive complex,0.0011069343345704162
+KEGG,KEGG:05200,Pathways in cancer,0.001214226178483158
+KEGG,KEGG:04510,Focal adhesion,0.001724567780872863
+KEGG,KEGG:05212,Pancreatic cancer,0.0025531353583631944
+KEGG,KEGG:05220,Chronic myeloid leukemia,0.0025531353583631944
+KEGG,KEGG:05224,Breast cancer,0.0037062908119309037
+KEGG,KEGG:05225,Hepatocellular carcinoma,0.004454945001255545
+KEGG,KEGG:04010,MAPK signaling pathway,0.0045668874596649775
+KEGG,KEGG:04933,AGE-RAGE signaling pathway in diabetic complications,0.005471146254489245
+KEGG,KEGG:04722,Neurotrophin signaling pathway,0.0069983066508256565
+KEGG,KEGG:04150,mTOR signaling pathway,0.007647228578795417

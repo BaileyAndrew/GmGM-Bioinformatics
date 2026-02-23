@@ -1,0 +1,46 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,3.2686973881035608e-15
+GO:BP,GO:0009987,cellular process,1.4649488992355878e-14
+GO:BP,GO:0032501,multicellular organismal process,2.0839036824785703e-12
+GO:BP,GO:0032502,developmental process,3.862280754852485e-08
+GO:BP,GO:0065007,biological regulation,2.4082870419628255e-07
+GO:BP,GO:0007275,multicellular organism development,7.470489080303668e-07
+GO:BP,GO:0048856,anatomical structure development,7.688265169025547e-07
+GO:BP,GO:0050896,response to stimulus,7.6083078190779e-06
+GO:BP,GO:0051239,regulation of multicellular organismal process,1.9788172800836998e-05
+GO:BP,GO:0007399,nervous system development,2.054087237433067e-05
+GO:BP,GO:0050789,regulation of biological process,3.203835948831345e-05
+GO:BP,GO:0048731,system development,3.918264295849461e-05
+GO:BP,GO:0022008,neurogenesis,9.171171146142599e-05
+GO:BP,GO:0003008,system process,0.00013217113320760564
+GO:BP,GO:0009653,anatomical structure morphogenesis,0.0002905132558150118
+GO:BP,GO:0098742,cell-cell adhesion via plasma-membrane adhesion molecules,0.0003680487634652788
+GO:BP,GO:0016477,cell migration,0.0007817256265552011
+GO:BP,GO:0050794,regulation of cellular process,0.0009968720693436142
+GO:BP,GO:0030154,cell differentiation,0.0010287028157501136
+GO:BP,GO:0048869,cellular developmental process,0.0010354990916459686
+GO:CC,GO:0110165,cellular anatomical structure,3.592215337121347e-19
+GO:CC,GO:0005575,cellular_component,8.114612351926996e-19
+GO:CC,GO:0016020,membrane,1.0837239830739653e-09
+GO:CC,GO:0005622,intracellular anatomical structure,1.4120041963369617e-09
+GO:CC,GO:0043226,organelle,2.3540052407060868e-08
+GO:CC,GO:0071944,cell periphery,1.5269345053210437e-07
+GO:CC,GO:0043227,membrane-bounded organelle,2.548605892716162e-07
+GO:CC,GO:0005737,cytoplasm,3.6110395990150986e-07
+GO:CC,GO:0005886,plasma membrane,3.080732883497732e-06
+GO:CC,GO:0043229,intracellular organelle,3.225951468157274e-06
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,2.1311669844813724e-05
+GO:CC,GO:0005576,extracellular region,0.0023703244902876235
+GO:CC,GO:0005615,extracellular space,0.005867876218493528
+GO:CC,GO:0012505,endomembrane system,0.04263701315456972
+GO:MF,GO:0003674,molecular_function,2.6717908692201784e-21
+GO:MF,GO:0005488,binding,8.581705389025628e-20
+GO:MF,GO:0005515,protein binding,2.1348794278464638e-12
+GO:MF,GO:0003824,catalytic activity,0.0008886004082348217
+GO:MF,GO:0043169,cation binding,0.00122034482049085
+GO:MF,GO:0036094,small molecule binding,0.002453675121581179
+GO:MF,GO:0043167,ion binding,0.006694040835593378
+GO:MF,GO:0046872,metal ion binding,0.013539813228709235
+KEGG,KEGG:00000,KEGG root term,0.0006168728901530771
+KEGG,KEGG:04020,Calcium signaling pathway,0.04572201146883529
+KEGG,KEGG:04974,Protein digestion and absorption,0.04991723700669831

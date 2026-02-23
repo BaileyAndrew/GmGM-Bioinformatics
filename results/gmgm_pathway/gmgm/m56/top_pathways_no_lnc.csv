@@ -1,0 +1,56 @@
+source,native,name,p_value
+GO:BP,GO:0009987,cellular process,3.4941379280356974e-14
+GO:BP,GO:0008150,biological_process,3.0720437979148555e-13
+GO:BP,GO:0008152,metabolic process,9.580195191143688e-08
+GO:BP,GO:0044238,primary metabolic process,2.7207255105981367e-07
+GO:BP,GO:0009058,biosynthetic process,5.459347021695614e-07
+GO:BP,GO:0006139,nucleobase-containing compound metabolic process,3.7844981428833315e-05
+GO:BP,GO:0034654,nucleobase-containing compound biosynthetic process,9.344246523916161e-05
+GO:BP,GO:0043170,macromolecule metabolic process,0.00025767063245345543
+GO:BP,GO:0065007,biological regulation,0.000872635320859201
+GO:BP,GO:0009059,macromolecule biosynthetic process,0.00140986361120579
+GO:BP,GO:0050794,regulation of cellular process,0.003492051374958544
+GO:BP,GO:0010467,gene expression,0.004717582892876422
+GO:BP,GO:0055086,nucleobase-containing small molecule metabolic process,0.005195580051736032
+GO:BP,GO:0016070,RNA metabolic process,0.008463338416841822
+GO:BP,GO:0032774,RNA biosynthetic process,0.009216978319497618
+GO:BP,GO:0050789,regulation of biological process,0.011257819589393477
+GO:BP,GO:0141187,nucleic acid biosynthetic process,0.01618674683113022
+GO:BP,GO:0006366,transcription by RNA polymerase II,0.016816454098032844
+GO:BP,GO:0006351,DNA-templated transcription,0.01836617440898654
+GO:BP,GO:0006753,nucleoside phosphate metabolic process,0.02144924373777749
+GO:CC,GO:0005575,cellular_component,3.697738436115132e-14
+GO:CC,GO:0110165,cellular anatomical structure,1.8298546396228525e-13
+GO:CC,GO:0005622,intracellular anatomical structure,7.102129508225384e-13
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,9.566692535097492e-12
+GO:CC,GO:0043226,organelle,8.697866610722153e-11
+GO:CC,GO:0043229,intracellular organelle,3.2856049675124153e-10
+GO:CC,GO:0043227,membrane-bounded organelle,1.047291494417284e-09
+GO:CC,GO:0005737,cytoplasm,0.00025571751763289974
+GO:CC,GO:0005634,nucleus,0.0007798686566700477
+GO:CC,GO:0005829,cytosol,0.012228726713972248
+GO:CC,GO:0071944,cell periphery,0.02700048405397314
+GO:CC,GO:0005886,plasma membrane,0.02936112273843101
+GO:CC,GO:0016020,membrane,0.030399661925841367
+GO:MF,GO:0005488,binding,1.4799021839142653e-14
+GO:MF,GO:0003674,molecular_function,3.755306602179708e-14
+GO:MF,GO:0036094,small molecule binding,6.608496368033646e-08
+GO:MF,GO:0005515,protein binding,6.851994215015343e-07
+GO:MF,GO:0043167,ion binding,1.1910877598095101e-06
+GO:MF,GO:0046872,metal ion binding,4.068646879942814e-05
+GO:MF,GO:0043169,cation binding,7.012789889315961e-05
+GO:MF,GO:0000977,RNA polymerase II transcription regulatory region sequence-specific DNA binding,0.0006982362891340515
+GO:MF,GO:0003700,DNA-binding transcription factor activity,0.0010761568054876525
+GO:MF,GO:0140110,transcription regulator activity,0.0015100385462840176
+GO:MF,GO:0003690,double-stranded DNA binding,0.0018278724852768115
+GO:MF,GO:0000976,transcription cis-regulatory region binding,0.0019050141201309159
+GO:MF,GO:0001067,transcription regulatory region nucleic acid binding,0.0019247089448317927
+GO:MF,GO:0000981,"DNA-binding transcription factor activity, RNA polymerase II-specific",0.0020635986440333863
+GO:MF,GO:1990837,sequence-specific double-stranded DNA binding,0.0032408561452098054
+GO:MF,GO:0043565,sequence-specific DNA binding,0.008300089041519009
+GO:MF,GO:0003824,catalytic activity,0.011929865221738355
+GO:MF,GO:0000978,RNA polymerase II cis-regulatory region sequence-specific DNA binding,0.04377650769919137
+GO:MF,GO:0003676,nucleic acid binding,0.04932039398622746
+KEGG,KEGG:05168,Herpes simplex virus 1 infection,8.517508322651747e-07
+KEGG,KEGG:00000,KEGG root term,2.5201633289728375e-05
+KEGG,KEGG:01100,Metabolic pathways,0.01068008591110269

@@ -1,0 +1,50 @@
+source,native,name,p_value
+GO:BP,GO:0048731,system development,7.54097368732547e-15
+GO:BP,GO:0008150,biological_process,1.2096585535778406e-14
+GO:BP,GO:0009987,cellular process,1.0823930778732123e-13
+GO:BP,GO:0007275,multicellular organism development,4.0001493699978035e-12
+GO:BP,GO:0032501,multicellular organismal process,7.602166218798906e-12
+GO:BP,GO:0009653,anatomical structure morphogenesis,3.630809857123149e-11
+GO:BP,GO:0048856,anatomical structure development,3.9815292398717374e-11
+GO:BP,GO:0032502,developmental process,1.2737888422234404e-09
+GO:BP,GO:0050794,regulation of cellular process,8.79515430015104e-09
+GO:BP,GO:0050789,regulation of biological process,1.260378151525602e-08
+GO:BP,GO:0065007,biological regulation,7.926362344095087e-08
+GO:BP,GO:0007399,nervous system development,1.6480061113469432e-07
+GO:BP,GO:0030154,cell differentiation,3.408414230909063e-07
+GO:BP,GO:0048869,cellular developmental process,3.43546024773771e-07
+GO:BP,GO:0048513,animal organ development,3.8743706801022346e-07
+GO:BP,GO:0009887,animal organ morphogenesis,1.3612524015788871e-06
+GO:BP,GO:0000902,cell morphogenesis,2.9069969074914936e-06
+GO:BP,GO:0051239,regulation of multicellular organismal process,2.9180978588867555e-06
+GO:BP,GO:0048812,neuron projection morphogenesis,2.0024890889339768e-05
+GO:BP,GO:0120039,plasma membrane bounded cell projection morphogenesis,2.7824784767940197e-05
+GO:CC,GO:0110165,cellular anatomical structure,2.9898500589880286e-18
+GO:CC,GO:0005575,cellular_component,6.1522689183447755e-18
+GO:CC,GO:0016020,membrane,1.381022735446799e-06
+GO:CC,GO:0030054,cell junction,2.116062523730758e-06
+GO:CC,GO:0071944,cell periphery,3.9492940866250246e-05
+GO:CC,GO:0005622,intracellular anatomical structure,0.00010808438257777052
+GO:CC,GO:0005886,plasma membrane,0.00011426087734484366
+GO:CC,GO:0005576,extracellular region,0.00014328493425144891
+GO:CC,GO:0030424,axon,0.00015322066537891568
+GO:CC,GO:0045202,synapse,0.00033201955811779565
+GO:CC,GO:0005615,extracellular space,0.0022607233396891033
+GO:CC,GO:0034673,inhibin-betaglycan-ActRII complex,0.011087143626290309
+GO:CC,GO:0043226,organelle,0.01765689131039032
+GO:CC,GO:0009986,cell surface,0.019114235855070043
+GO:CC,GO:0005737,cytoplasm,0.04866400899220978
+GO:MF,GO:0005488,binding,5.296874677226219e-16
+GO:MF,GO:0003674,molecular_function,1.2841713579966328e-15
+GO:MF,GO:0005515,protein binding,6.0593610916084296e-12
+GO:MF,GO:0060089,molecular transducer activity,2.2611113525263e-08
+GO:MF,GO:0038023,signaling receptor activity,2.2611113525263e-08
+GO:MF,GO:0004888,transmembrane signaling receptor activity,0.0022009330871224256
+GO:MF,GO:0030546,signaling receptor activator activity,0.006555969310256241
+GO:MF,GO:0098772,molecular function regulator activity,0.00802479699721502
+GO:MF,GO:0030545,signaling receptor regulator activity,0.011529254328736306
+GO:MF,GO:0005102,signaling receptor binding,0.02839356238045312
+GO:MF,GO:0043167,ion binding,0.035038998557249006
+GO:MF,GO:0048018,receptor ligand activity,0.041730637523894464
+KEGG,KEGG:00000,KEGG root term,5.282904948770822e-05
+KEGG,KEGG:04360,Axon guidance,0.0003248886317840952

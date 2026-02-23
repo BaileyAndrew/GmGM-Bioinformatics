@@ -1,0 +1,6 @@
+source,native,name,p_value
+GO:CC,GO:0005622,intracellular anatomical structure,0.0017935836063853816
+GO:CC,GO:0005575,cellular_component,0.011073384436231001
+GO:CC,GO:0110165,cellular anatomical structure,0.01569377437544928
+GO:CC,GO:0043229,intracellular organelle,0.022946349315287783
+GO:CC,GO:0043226,organelle,0.02630253869234691

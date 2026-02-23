@@ -1,0 +1,54 @@
+source,native,name,p_value
+GO:BP,GO:0048646,anatomical structure formation involved in morphogenesis,0.00011198078823531129
+GO:BP,GO:0007267,cell-cell signaling,0.0001473537737997752
+GO:BP,GO:0007165,signal transduction,0.00016839513723208236
+GO:BP,GO:0007166,cell surface receptor signaling pathway,0.0001795043265700378
+GO:BP,GO:0009653,anatomical structure morphogenesis,0.0002259642492309818
+GO:BP,GO:0023052,signaling,0.00031584424586722
+GO:BP,GO:0007154,cell communication,0.00037178936126331443
+GO:BP,GO:0051094,positive regulation of developmental process,0.0012765498241810078
+GO:BP,GO:0009952,anterior/posterior pattern specification,0.002885394196017296
+GO:BP,GO:0009987,cellular process,0.0029426351062414166
+GO:BP,GO:0023051,regulation of signaling,0.0033278744556586343
+GO:BP,GO:0010646,regulation of cell communication,0.0034646198623943004
+GO:BP,GO:0060485,mesenchyme development,0.0037862346936697565
+GO:BP,GO:0003002,regionalization,0.005548846444807569
+GO:BP,GO:0051716,cellular response to stimulus,0.00713455468021518
+GO:BP,GO:0051240,positive regulation of multicellular organismal process,0.007293139591101376
+GO:BP,GO:0009887,animal organ morphogenesis,0.007739968805593368
+GO:BP,GO:0032501,multicellular organismal process,0.009433185599499988
+GO:BP,GO:0046649,lymphocyte activation,0.010092034889773496
+GO:BP,GO:0050794,regulation of cellular process,0.0140936450363193
+GO:CC,GO:0071944,cell periphery,9.813806437090518e-06
+GO:CC,GO:0098978,glutamatergic synapse,6.720502473057153e-05
+GO:CC,GO:0008074,"guanylate cyclase complex, soluble",8.010960479142095e-05
+GO:CC,GO:0110165,cellular anatomical structure,0.0001281770359488051
+GO:CC,GO:0005575,cellular_component,0.0002263130041109241
+GO:CC,GO:0005576,extracellular region,0.0003048333430162961
+GO:CC,GO:0005886,plasma membrane,0.0006259016628736923
+GO:CC,GO:0045202,synapse,0.007446432263448242
+GO:CC,GO:0031012,extracellular matrix,0.01389975242125361
+GO:CC,GO:0030312,external encapsulating structure,0.01418707863812419
+GO:CC,GO:0016020,membrane,0.016837263283905914
+GO:CC,GO:0005615,extracellular space,0.035064882753832176
+GO:MF,GO:0005102,signaling receptor binding,0.000449156524678533
+GO:MF,GO:0030545,signaling receptor regulator activity,0.0008620118991678057
+GO:MF,GO:0005109,frizzled binding,0.0008822919613870223
+GO:MF,GO:0060089,molecular transducer activity,0.0009651883415744877
+GO:MF,GO:0038023,signaling receptor activity,0.0009651883415744877
+GO:MF,GO:0048018,receptor ligand activity,0.001969822885619902
+GO:MF,GO:0005488,binding,0.0021265333792304573
+GO:MF,GO:0030546,signaling receptor activator activity,0.002381004094937838
+GO:MF,GO:0005125,cytokine activity,0.01667686824004982
+GO:MF,GO:0004419,hydroxymethylglutaryl-CoA lyase activity,0.018800321255478633
+GO:MF,GO:0003674,molecular_function,0.029721747559837263
+GO:MF,GO:0004383,guanylate cyclase activity,0.031539718824618264
+KEGG,KEGG:04310,Wnt signaling pathway,0.0007449927649763622
+KEGG,KEGG:04550,Signaling pathways regulating pluripotency of stem cells,0.0015140852240811851
+KEGG,KEGG:04924,Renin secretion,0.002637783843122111
+KEGG,KEGG:05217,Basal cell carcinoma,0.0031126714941808386
+KEGG,KEGG:04360,Axon guidance,0.011935240880636536
+KEGG,KEGG:05205,Proteoglycans in cancer,0.017753610132683874
+KEGG,KEGG:04390,Hippo signaling pathway,0.03444678225583795
+KEGG,KEGG:04730,Long-term depression,0.040420034629903775
+KEGG,KEGG:04660,T cell receptor signaling pathway,0.04589853302940516

@@ -1,0 +1,81 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,1.3204362525667497e-183
+GO:BP,GO:0009987,cellular process,4.557864539511349e-174
+GO:BP,GO:0065007,biological regulation,3.4033252998940834e-70
+GO:BP,GO:0050789,regulation of biological process,1.318669575076027e-64
+GO:BP,GO:0050794,regulation of cellular process,7.061606834996222e-61
+GO:BP,GO:0050896,response to stimulus,8.814213887298363e-57
+GO:BP,GO:0008152,metabolic process,1.2868165722070761e-51
+GO:BP,GO:0007154,cell communication,3.180182691256369e-43
+GO:BP,GO:0023052,signaling,1.4655252583151462e-42
+GO:BP,GO:0044238,primary metabolic process,1.884609181870732e-41
+GO:BP,GO:0051716,cellular response to stimulus,1.1796978047596907e-39
+GO:BP,GO:0032501,multicellular organismal process,9.69062858945062e-39
+GO:BP,GO:0007165,signal transduction,1.0665151190103618e-38
+GO:BP,GO:0043170,macromolecule metabolic process,4.2480456214636167e-32
+GO:BP,GO:0006810,transport,1.2331465124701467e-30
+GO:BP,GO:0032502,developmental process,3.1554525335319226e-29
+GO:BP,GO:0051234,establishment of localization,5.562763050016868e-29
+GO:BP,GO:0048518,positive regulation of biological process,7.990607065820454e-29
+GO:BP,GO:0051179,localization,1.4817569304295797e-28
+GO:BP,GO:0048856,anatomical structure development,5.734493010272831e-28
+GO:CC,GO:0005575,cellular_component,3.902108383273435e-225
+GO:CC,GO:0110165,cellular anatomical structure,2.9125182701089744e-219
+GO:CC,GO:0005622,intracellular anatomical structure,6.305831254770174e-91
+GO:CC,GO:0016020,membrane,1.4453322468131308e-84
+GO:CC,GO:0043226,organelle,1.1148644879423552e-77
+GO:CC,GO:0005737,cytoplasm,1.1575970385155336e-71
+GO:CC,GO:0071944,cell periphery,3.65250729153398e-71
+GO:CC,GO:0043227,membrane-bounded organelle,1.192823316618218e-69
+GO:CC,GO:0005886,plasma membrane,1.2530287227259808e-66
+GO:CC,GO:0043229,intracellular organelle,2.5674634856948063e-60
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,3.102159162187427e-55
+GO:CC,GO:0005576,extracellular region,1.7536884120604627e-23
+GO:CC,GO:0031090,organelle membrane,5.960959099460122e-22
+GO:CC,GO:0031982,vesicle,5.561154830264069e-21
+GO:CC,GO:0012505,endomembrane system,1.824233556828987e-19
+GO:CC,GO:0005615,extracellular space,3.222357541146544e-17
+GO:CC,GO:0098590,plasma membrane region,5.43845690310588e-16
+GO:CC,GO:0005829,cytosol,4.606855027171635e-12
+GO:CC,GO:0032991,protein-containing complex,4.737816173756451e-12
+GO:CC,GO:0043233,organelle lumen,6.904248238192996e-12
+GO:MF,GO:0003674,molecular_function,3.1486269340995095e-233
+GO:MF,GO:0005488,binding,4.735131925433769e-169
+GO:MF,GO:0005515,protein binding,1.5761579504986295e-121
+GO:MF,GO:0003824,catalytic activity,7.7691657465546e-37
+GO:MF,GO:0036094,small molecule binding,3.4888017741738373e-25
+GO:MF,GO:0043167,ion binding,3.171396291732438e-23
+GO:MF,GO:0005215,transporter activity,1.1854993556436216e-22
+GO:MF,GO:0022857,transmembrane transporter activity,2.364233152787005e-20
+GO:MF,GO:0060089,molecular transducer activity,1.4802071933250184e-17
+GO:MF,GO:0038023,signaling receptor activity,1.4802071933250184e-17
+GO:MF,GO:0043169,cation binding,5.834065791930067e-16
+GO:MF,GO:0046872,metal ion binding,2.5654673842393163e-15
+GO:MF,GO:0004888,transmembrane signaling receptor activity,3.188197436426039e-15
+GO:MF,GO:0016740,transferase activity,2.357757510734375e-12
+GO:MF,GO:0046873,metal ion transmembrane transporter activity,4.404059253842749e-11
+GO:MF,GO:0016787,hydrolase activity,5.2630983651999607e-11
+GO:MF,GO:0015075,monoatomic ion transmembrane transporter activity,6.176949406120058e-11
+GO:MF,GO:0022890,inorganic cation transmembrane transporter activity,6.211125674309503e-11
+GO:MF,GO:0015318,inorganic molecular entity transmembrane transporter activity,6.292420164291588e-11
+GO:MF,GO:0008324,monoatomic cation transmembrane transporter activity,1.1447660657288078e-10
+KEGG,KEGG:00000,KEGG root term,6.584373055335714e-40
+KEGG,KEGG:04080,Neuroactive ligand-receptor interaction,2.4276851846704816e-10
+KEGG,KEGG:04020,Calcium signaling pathway,3.027008082066384e-08
+KEGG,KEGG:05320,Autoimmune thyroid disease,4.9617442085243e-05
+KEGG,KEGG:01100,Metabolic pathways,6.912331381342564e-05
+KEGG,KEGG:05416,Viral myocarditis,8.022121081909649e-05
+KEGG,KEGG:04742,Taste transduction,0.00014343033198960337
+KEGG,KEGG:04612,Antigen processing and presentation,0.0001843124335974678
+KEGG,KEGG:05330,Allograft rejection,0.0002917012612448489
+KEGG,KEGG:04640,Hematopoietic cell lineage,0.0004025077159407165
+KEGG,KEGG:05164,Influenza A,0.0005407708730703607
+KEGG,KEGG:04672,Intestinal immune network for IgA production,0.0007748701294012242
+KEGG,KEGG:05169,Epstein-Barr virus infection,0.0008159988675927205
+KEGG,KEGG:05323,Rheumatoid arthritis,0.0018332853356365138
+KEGG,KEGG:05310,Asthma,0.001841901588582793
+KEGG,KEGG:04662,B cell receptor signaling pathway,0.003115120795896347
+KEGG,KEGG:05332,Graft-versus-host disease,0.0034618967527405174
+KEGG,KEGG:05152,Tuberculosis,0.004171097861018342
+KEGG,KEGG:05140,Leishmaniasis,0.005265405025220302
+KEGG,KEGG:04623,Cytosolic DNA-sensing pathway,0.006194113558108395

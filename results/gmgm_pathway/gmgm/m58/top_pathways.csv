@@ -1,0 +1,13 @@
+source,native,name,p_value
+GO:BP,GO:0032259,methylation,0.04328742943189599
+GO:CC,GO:0005622,intracellular anatomical structure,0.0002649858702752266
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,0.0005539828104703868
+GO:CC,GO:0005737,cytoplasm,0.0011805236429998742
+GO:CC,GO:0043229,intracellular organelle,0.0012947363804317524
+GO:CC,GO:0043227,membrane-bounded organelle,0.004467472627787907
+GO:CC,GO:0043226,organelle,0.007835700697983625
+GO:CC,GO:0110165,cellular anatomical structure,0.00974208162319985
+GO:CC,GO:0005575,cellular_component,0.014954312075581006
+GO:MF,GO:0017162,aryl hydrocarbon receptor binding,0.004633125797906943
+GO:MF,GO:0008168,methyltransferase activity,0.008300531073194508
+GO:MF,GO:0016741,"transferase activity, transferring one-carbon groups",0.011267968564857329

@@ -1,0 +1,27 @@
+source,native,name,p_value
+GO:BP,GO:0048731,system development,3.107312743090387e-08
+GO:BP,GO:0009653,anatomical structure morphogenesis,1.5795731750633389e-06
+GO:BP,GO:0007275,multicellular organism development,6.5365442434956994e-06
+GO:BP,GO:0048856,anatomical structure development,0.00012122997073617685
+GO:BP,GO:0032501,multicellular organismal process,0.00012156431555076402
+GO:BP,GO:0009887,animal organ morphogenesis,0.00030851387408597407
+GO:BP,GO:0000902,cell morphogenesis,0.000622744413450242
+GO:BP,GO:0007399,nervous system development,0.0008003382087586672
+GO:BP,GO:0098742,cell-cell adhesion via plasma-membrane adhesion molecules,0.0013200232455422578
+GO:BP,GO:0048812,neuron projection morphogenesis,0.0015040012996769072
+GO:BP,GO:0001503,ossification,0.0017019997352426075
+GO:BP,GO:0032502,developmental process,0.001862184613154063
+GO:BP,GO:0120039,plasma membrane bounded cell projection morphogenesis,0.002047491939526549
+GO:BP,GO:0048513,animal organ development,0.0020552803927898202
+GO:BP,GO:0048858,cell projection morphogenesis,0.002250396277887856
+GO:BP,GO:0001649,osteoblast differentiation,0.0033115886169056735
+GO:BP,GO:0035295,tube development,0.00524463981169846
+GO:BP,GO:0030154,cell differentiation,0.007622331263135806
+GO:BP,GO:0051239,regulation of multicellular organismal process,0.007666215864041634
+GO:BP,GO:0048869,cellular developmental process,0.007671372295631058
+GO:CC,GO:0030054,cell junction,0.0028097478345964553
+GO:CC,GO:0030424,axon,0.0064855277835264265
+GO:CC,GO:0034673,inhibin-betaglycan-ActRII complex,0.024970620853796154
+GO:MF,GO:0038023,signaling receptor activity,2.0892188723771998e-05
+GO:MF,GO:0060089,molecular transducer activity,2.0892188723771998e-05
+KEGG,KEGG:04360,Axon guidance,0.002691813282349942

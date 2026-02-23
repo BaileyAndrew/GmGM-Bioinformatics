@@ -1,0 +1,34 @@
+source,native,name,p_value
+GO:BP,GO:0045595,regulation of cell differentiation,0.00018501709427470083
+GO:BP,GO:0050793,regulation of developmental process,0.0002545226915753407
+GO:BP,GO:0009966,regulation of signal transduction,0.00037605748523440177
+GO:BP,GO:0045597,positive regulation of cell differentiation,0.0008072067602559943
+GO:BP,GO:0030154,cell differentiation,0.001126931785320377
+GO:BP,GO:0048869,cellular developmental process,0.0011355083982770243
+GO:BP,GO:0032502,developmental process,0.0011421443597906858
+GO:BP,GO:0007154,cell communication,0.001880552518639121
+GO:BP,GO:0007165,signal transduction,0.0023094930716497175
+GO:BP,GO:0051094,positive regulation of developmental process,0.002953870925430762
+GO:BP,GO:0010720,positive regulation of cell development,0.003048166441750263
+GO:BP,GO:0023052,signaling,0.0036857618632036076
+GO:BP,GO:0023051,regulation of signaling,0.004395740592501371
+GO:BP,GO:0010646,regulation of cell communication,0.004571848979729811
+GO:BP,GO:0030182,neuron differentiation,0.005232449426642009
+GO:BP,GO:2000026,regulation of multicellular organismal development,0.00530045803475873
+GO:BP,GO:0048583,regulation of response to stimulus,0.005831261401555152
+GO:BP,GO:0007548,sex differentiation,0.005873574280603024
+GO:BP,GO:0048731,system development,0.0060689688651159104
+GO:BP,GO:0050896,response to stimulus,0.006737143877806153
+GO:CC,GO:0031012,extracellular matrix,0.010686271555939264
+GO:CC,GO:0030312,external encapsulating structure,0.010908551144662253
+GO:CC,GO:0062023,collagen-containing extracellular matrix,0.013164019483797107
+GO:MF,GO:0043167,ion binding,0.014039788547641846
+GO:MF,GO:0008201,heparin binding,0.015306490957588624
+GO:MF,GO:0030695,GTPase regulator activity,0.019470326348197498
+GO:MF,GO:0060589,nucleoside-triphosphatase regulator activity,0.019470326348197498
+GO:MF,GO:0005488,binding,0.024378667546062674
+GO:MF,GO:0016817,"hydrolase activity, acting on acid anhydrides",0.02483696126476303
+GO:MF,GO:0016818,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides",0.02483696126476303
+GO:MF,GO:0036094,small molecule binding,0.03178242258474939
+GO:MF,GO:0017111,ribonucleoside triphosphate phosphatase activity,0.039862366976185754
+GO:MF,GO:0097367,carbohydrate derivative binding,0.0440687409511018

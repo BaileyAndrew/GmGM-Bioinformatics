@@ -1,0 +1,13 @@
+source,native,name,p_value
+GO:CC,GO:0031090,organelle membrane,0.00041323826862437986
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,0.0006693784177402453
+GO:CC,GO:0005739,mitochondrion,0.0013897416112229628
+GO:CC,GO:0005740,mitochondrial envelope,0.0032134364362546956
+GO:CC,GO:0043229,intracellular organelle,0.004080673763120977
+GO:CC,GO:0043227,membrane-bounded organelle,0.006274532318610901
+GO:CC,GO:0005622,intracellular anatomical structure,0.012499696965060574
+GO:CC,GO:0098574,cytoplasmic side of lysosomal membrane,0.013293005830459672
+GO:CC,GO:0031966,mitochondrial membrane,0.024752351789805453
+GO:CC,GO:0043226,organelle,0.024820235244006
+GO:CC,GO:0098588,bounding membrane of organelle,0.028403281210101224
+KEGG,KEGG:03060,Protein export,0.0484296179663525

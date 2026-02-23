@@ -1,0 +1,46 @@
+source,native,name,p_value
+GO:BP,GO:0048731,system development,1.819358435745087e-07
+GO:BP,GO:0007275,multicellular organism development,1.7406074443314931e-06
+GO:BP,GO:0008150,biological_process,2.087192264275427e-06
+GO:BP,GO:0009987,cellular process,4.355995369333894e-06
+GO:BP,GO:0048856,anatomical structure development,4.42391270809688e-06
+GO:BP,GO:0048699,generation of neurons,1.0459982542989521e-05
+GO:BP,GO:0050789,regulation of biological process,1.971174476500103e-05
+GO:BP,GO:0032502,developmental process,2.4049256452576033e-05
+GO:BP,GO:0007399,nervous system development,2.4866186008775625e-05
+GO:BP,GO:0048513,animal organ development,5.8099052291448265e-05
+GO:BP,GO:0030182,neuron differentiation,8.245044718123379e-05
+GO:BP,GO:0030154,cell differentiation,8.938180665166539e-05
+GO:BP,GO:0048869,cellular developmental process,9.001597735984086e-05
+GO:BP,GO:0050794,regulation of cellular process,0.00010071095042366828
+GO:BP,GO:0065007,biological regulation,0.00010087132081226684
+GO:BP,GO:0022008,neurogenesis,0.00015391906824791974
+GO:BP,GO:0007417,central nervous system development,0.00024609466949272263
+GO:BP,GO:0009653,anatomical structure morphogenesis,0.00035990573029939495
+GO:BP,GO:0060322,head development,0.0009644921002382284
+GO:BP,GO:0032501,multicellular organismal process,0.001277046401062029
+GO:CC,GO:0005575,cellular_component,5.242017846849008e-08
+GO:CC,GO:0110165,cellular anatomical structure,1.1784286970182575e-07
+GO:CC,GO:0043226,organelle,2.5228093447877386e-05
+GO:CC,GO:0043227,membrane-bounded organelle,2.664690200887109e-05
+GO:CC,GO:0005622,intracellular anatomical structure,5.939788735301229e-05
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,0.00024148737307419865
+GO:CC,GO:0043229,intracellular organelle,0.00024678599639562873
+GO:CC,GO:0071944,cell periphery,0.004821421313772964
+GO:CC,GO:0098858,actin-based cell projection,0.009740809464024888
+GO:CC,GO:0005634,nucleus,0.01672478015359141
+GO:CC,GO:0005886,plasma membrane,0.023563631203014784
+GO:MF,GO:0003674,molecular_function,7.900755226486527e-05
+GO:MF,GO:0005488,binding,0.0003186542813391402
+GO:MF,GO:0036094,small molecule binding,0.001569437644990012
+GO:MF,GO:0003700,DNA-binding transcription factor activity,0.001676515669567638
+GO:MF,GO:0043167,ion binding,0.0018308213106071622
+GO:MF,GO:0003677,DNA binding,0.002351188737676789
+GO:MF,GO:0000981,"DNA-binding transcription factor activity, RNA polymerase II-specific",0.002826553429235915
+GO:MF,GO:0043169,cation binding,0.003022323622373781
+GO:MF,GO:0140110,transcription regulator activity,0.003561759062399167
+GO:MF,GO:0005515,protein binding,0.004754573651812443
+GO:MF,GO:0046872,metal ion binding,0.005008454253919642
+GO:MF,GO:0043565,sequence-specific DNA binding,0.013579822949961512
+GO:MF,GO:0003690,double-stranded DNA binding,0.04271418946892885
+GO:MF,GO:0003676,nucleic acid binding,0.04353302896550749

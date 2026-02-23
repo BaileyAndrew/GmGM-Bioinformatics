@@ -1,0 +1,9 @@
+source,native,name,p_value
+GO:BP,GO:0009056,catabolic process,0.02496367512826097
+GO:CC,GO:0043227,membrane-bounded organelle,0.005951385679983677
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,0.019258142562872786
+GO:CC,GO:0005737,cytoplasm,0.0197587001118743
+GO:CC,GO:0005622,intracellular anatomical structure,0.023479617032456306
+GO:CC,GO:0043229,intracellular organelle,0.031543558254274205
+GO:CC,GO:0043226,organelle,0.03555589598834636
+GO:CC,GO:0110165,cellular anatomical structure,0.04151922522610236

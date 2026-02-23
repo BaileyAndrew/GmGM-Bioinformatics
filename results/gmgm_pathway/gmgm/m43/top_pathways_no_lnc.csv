@@ -1,0 +1,54 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,7.996040122248613e-18
+GO:BP,GO:0009987,cellular process,3.609624907567215e-15
+GO:BP,GO:0008152,metabolic process,2.9706157491124304e-12
+GO:BP,GO:0044238,primary metabolic process,3.31586781727071e-09
+GO:BP,GO:0006139,nucleobase-containing compound metabolic process,1.0975703841935193e-06
+GO:BP,GO:0009058,biosynthetic process,1.3274959007093744e-05
+GO:BP,GO:0043170,macromolecule metabolic process,4.906607958913832e-05
+GO:BP,GO:0006796,phosphate-containing compound metabolic process,0.0005157476745864107
+GO:BP,GO:0006793,phosphorus metabolic process,0.0005299668986354088
+GO:BP,GO:0090304,nucleic acid metabolic process,0.0009351878831183051
+GO:BP,GO:0043647,inositol phosphate metabolic process,0.001570714296479579
+GO:BP,GO:0019751,polyol metabolic process,0.010148520608539912
+GO:BP,GO:0044281,small molecule metabolic process,0.011561759521064115
+GO:BP,GO:0019637,organophosphate metabolic process,0.015657834277858013
+GO:BP,GO:0009059,macromolecule biosynthetic process,0.03439810844339382
+GO:BP,GO:0055086,nucleobase-containing small molecule metabolic process,0.044478790114149486
+GO:CC,GO:0005575,cellular_component,1.5405893144020765e-17
+GO:CC,GO:0110165,cellular anatomical structure,7.093861991421314e-17
+GO:CC,GO:0005622,intracellular anatomical structure,2.274210822123268e-16
+GO:CC,GO:0043226,organelle,4.799758092999501e-13
+GO:CC,GO:0043229,intracellular organelle,9.544080108532034e-13
+GO:CC,GO:0043227,membrane-bounded organelle,1.2902029527483022e-11
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,3.2354700429846934e-10
+GO:CC,GO:0005737,cytoplasm,1.868025059404357e-08
+GO:CC,GO:0005634,nucleus,4.092920187720093e-05
+GO:CC,GO:0005829,cytosol,0.000306342338587523
+GO:CC,GO:0031974,membrane-enclosed lumen,0.0017104845184697942
+GO:CC,GO:0070013,intracellular organelle lumen,0.0017104845184697942
+GO:CC,GO:0043233,organelle lumen,0.0017104845184697942
+GO:CC,GO:0031967,organelle envelope,0.028519640071630204
+GO:CC,GO:1902494,catalytic complex,0.030320426565422238
+GO:CC,GO:0012505,endomembrane system,0.0357202498867936
+GO:CC,GO:0032991,protein-containing complex,0.043963245454026884
+GO:CC,GO:0005739,mitochondrion,0.0474201869973979
+GO:MF,GO:0003674,molecular_function,4.379929019386614e-21
+GO:MF,GO:0005488,binding,1.5122789185368044e-18
+GO:MF,GO:0005515,protein binding,2.4103767848210082e-14
+GO:MF,GO:0003824,catalytic activity,9.041997035991777e-05
+GO:MF,GO:0036094,small molecule binding,0.0001004303264091904
+GO:MF,GO:0043167,ion binding,0.00011388745247752802
+GO:MF,GO:1901363,heterocyclic compound binding,0.005077343510458513
+GO:MF,GO:0005524,ATP binding,0.006994491612135607
+GO:MF,GO:0097367,carbohydrate derivative binding,0.008857050028181193
+GO:MF,GO:0043168,anion binding,0.009758964373909522
+GO:MF,GO:0016776,"phosphotransferase activity, phosphate group as acceptor",0.009818211038374606
+GO:MF,GO:0032559,adenyl ribonucleotide binding,0.010141225658076342
+GO:MF,GO:0003676,nucleic acid binding,0.013356580570956482
+GO:MF,GO:0000166,nucleotide binding,0.017058483447570442
+GO:MF,GO:0035639,purine ribonucleoside triphosphate binding,0.017554654007318
+GO:MF,GO:1901265,nucleoside phosphate binding,0.01918689614187875
+GO:MF,GO:0030554,adenyl nucleotide binding,0.022660316387668057
+GO:MF,GO:0032555,purine ribonucleotide binding,0.026679125520602167
+GO:MF,GO:0032553,ribonucleotide binding,0.029699672215140426

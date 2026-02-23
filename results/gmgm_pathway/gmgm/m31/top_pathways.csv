@@ -1,0 +1,9 @@
+source,native,name,p_value
+GO:CC,GO:0005634,nucleus,0.00915243574498889
+GO:CC,GO:0005654,nucleoplasm,0.029542429978572416
+GO:CC,GO:0110165,cellular anatomical structure,0.03340384853272629
+GO:CC,GO:0005783,endoplasmic reticulum,0.038605959813627626
+GO:CC,GO:0005622,intracellular anatomical structure,0.04956718499095677
+GO:MF,GO:0003674,molecular_function,0.0027723459978433525
+GO:MF,GO:0005488,binding,0.008423638409416397
+KEGG,KEGG:04141,Protein processing in endoplasmic reticulum,0.03549066675215292

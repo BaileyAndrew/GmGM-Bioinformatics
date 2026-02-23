@@ -1,0 +1,75 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,1.8104729150229913e-213
+GO:BP,GO:0009987,cellular process,3.0639896010785986e-202
+GO:BP,GO:0065007,biological regulation,7.325324725163341e-114
+GO:BP,GO:0008152,metabolic process,2.348049030439001e-109
+GO:BP,GO:0050789,regulation of biological process,1.3680036082296224e-108
+GO:BP,GO:0050794,regulation of cellular process,7.616323177917539e-106
+GO:BP,GO:0044238,primary metabolic process,1.4611801460216535e-97
+GO:BP,GO:0043170,macromolecule metabolic process,1.336911587193012e-78
+GO:BP,GO:0019222,regulation of metabolic process,3.55866834173775e-59
+GO:BP,GO:0080090,regulation of primary metabolic process,8.052344811768959e-57
+GO:BP,GO:0009058,biosynthetic process,1.0425797910265355e-54
+GO:BP,GO:0060255,regulation of macromolecule metabolic process,2.0018202905916897e-52
+GO:BP,GO:0016043,cellular component organization,2.3243331888697996e-50
+GO:BP,GO:0071840,cellular component organization or biogenesis,1.891840438914255e-46
+GO:BP,GO:0009059,macromolecule biosynthetic process,6.872161281311294e-46
+GO:BP,GO:0019219,regulation of nucleobase-containing compound metabolic process,4.721525455601481e-45
+GO:BP,GO:0006355,regulation of DNA-templated transcription,7.617186744580829e-45
+GO:BP,GO:0009889,regulation of biosynthetic process,9.317543295340675e-45
+GO:BP,GO:0051252,regulation of RNA metabolic process,1.0301041337373747e-44
+GO:BP,GO:0010556,regulation of macromolecule biosynthetic process,4.490174772953013e-44
+GO:CC,GO:0005575,cellular_component,3.318028986142355e-256
+GO:CC,GO:0110165,cellular anatomical structure,4.128860474015285e-255
+GO:CC,GO:0005622,intracellular anatomical structure,2.682012816028975e-240
+GO:CC,GO:0043226,organelle,5.739915607994899e-200
+GO:CC,GO:0043229,intracellular organelle,3.527541351016645e-192
+GO:CC,GO:0043227,membrane-bounded organelle,1.7391724744654898e-187
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,2.9326214077339036e-166
+GO:CC,GO:0005737,cytoplasm,2.681654110829665e-138
+GO:CC,GO:0005634,nucleus,7.27083897830427e-78
+GO:CC,GO:0016020,membrane,4.0829801783657956e-51
+GO:CC,GO:0005829,cytosol,1.0286843540034876e-47
+GO:CC,GO:0012505,endomembrane system,5.222144596125638e-43
+GO:CC,GO:0031090,organelle membrane,3.63202742789022e-37
+GO:CC,GO:0098588,bounding membrane of organelle,1.5892138299310385e-29
+GO:CC,GO:0043233,organelle lumen,5.399343668881243e-29
+GO:CC,GO:0031974,membrane-enclosed lumen,5.399343668881243e-29
+GO:CC,GO:0070013,intracellular organelle lumen,5.399343668881243e-29
+GO:CC,GO:0005654,nucleoplasm,5.452919176654328e-26
+GO:CC,GO:0043232,intracellular membraneless organelle,1.1406541586367555e-25
+GO:CC,GO:0043228,membraneless organelle,1.1406541586367555e-25
+GO:MF,GO:0003674,molecular_function,1.8671870475478982e-280
+GO:MF,GO:0005488,binding,3.5084416467562874e-262
+GO:MF,GO:0005515,protein binding,1.3546334528767685e-195
+GO:MF,GO:0043167,ion binding,1.050943039301233e-85
+GO:MF,GO:0036094,small molecule binding,1.2220296332902707e-85
+GO:MF,GO:0046872,metal ion binding,4.7356895255920454e-73
+GO:MF,GO:0043169,cation binding,9.568159716833556e-73
+GO:MF,GO:0003824,catalytic activity,3.235749397144254e-53
+GO:MF,GO:0003677,DNA binding,3.8370390658384976e-34
+GO:MF,GO:0140110,transcription regulator activity,2.6295689872238124e-33
+GO:MF,GO:0140096,"catalytic activity, acting on a protein",1.5449427553921976e-30
+GO:MF,GO:0003700,DNA-binding transcription factor activity,2.2727818355468606e-29
+GO:MF,GO:0000977,RNA polymerase II transcription regulatory region sequence-specific DNA binding,4.147156285408512e-28
+GO:MF,GO:0003690,double-stranded DNA binding,1.4969202782246952e-26
+GO:MF,GO:0043565,sequence-specific DNA binding,1.5346236264926478e-26
+GO:MF,GO:0000976,transcription cis-regulatory region binding,3.5656889026529505e-26
+GO:MF,GO:0001067,transcription regulatory region nucleic acid binding,4.328834120096832e-26
+GO:MF,GO:0000981,"DNA-binding transcription factor activity, RNA polymerase II-specific",7.467075410005243e-26
+GO:MF,GO:1990837,sequence-specific double-stranded DNA binding,1.1901179688328925e-25
+GO:MF,GO:0003676,nucleic acid binding,6.67343596150777e-24
+KEGG,KEGG:00000,KEGG root term,2.3271647460031702e-27
+KEGG,KEGG:05168,Herpes simplex virus 1 infection,3.651015245460546e-23
+KEGG,KEGG:04140,Autophagy - animal,8.711125027195269e-06
+KEGG,KEGG:04146,Peroxisome,1.7034660762754608e-05
+KEGG,KEGG:00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,1.8993860745702526e-05
+KEGG,KEGG:01100,Metabolic pathways,0.0007011859841435984
+KEGG,KEGG:04144,Endocytosis,0.0007274434810562644
+KEGG,KEGG:04962,Vasopressin-regulated water reabsorption,0.0007806052273237101
+KEGG,KEGG:05132,Salmonella infection,0.0014406623654099567
+KEGG,KEGG:05034,Alcoholism,0.00255592484835609
+KEGG,KEGG:04070,Phosphatidylinositol signaling system,0.008156266645487997
+KEGG,KEGG:04010,MAPK signaling pathway,0.023263296555006873
+KEGG,KEGG:00562,Inositol phosphate metabolism,0.03842007360616927
+KEGG,KEGG:04360,Axon guidance,0.04244920025849834

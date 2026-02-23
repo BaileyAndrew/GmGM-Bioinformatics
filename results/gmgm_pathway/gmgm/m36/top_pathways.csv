@@ -1,0 +1,6 @@
+source,native,name,p_value
+GO:BP,GO:1903322,positive regulation of protein modification by small protein conjugation or removal,0.013243821950444731
+GO:BP,GO:1901875,positive regulation of post-translational protein modification,0.013956460996326959
+GO:BP,GO:0090522,vesicle tethering involved in exocytosis,0.02550228003484841
+GO:BP,GO:0031398,positive regulation of protein ubiquitination,0.0456348059181284
+GO:CC,GO:0000145,exocyst,0.029195446493216683

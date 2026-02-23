@@ -1,0 +1,18 @@
+source,native,name,p_value
+GO:BP,GO:0008152,metabolic process,0.0017843740504279943
+GO:BP,GO:0043647,inositol phosphate metabolic process,0.0041909361578957045
+GO:BP,GO:0008150,biological_process,0.014045821377571072
+GO:BP,GO:0006139,nucleobase-containing compound metabolic process,0.01997229766498686
+GO:BP,GO:0044238,primary metabolic process,0.02299245313839591
+GO:BP,GO:0019751,polyol metabolic process,0.03352004784501833
+GO:CC,GO:0005622,intracellular anatomical structure,0.0010872110398297988
+GO:CC,GO:0043229,intracellular organelle,0.005928163550453111
+GO:CC,GO:0043226,organelle,0.009600779418640359
+GO:CC,GO:0043227,membrane-bounded organelle,0.01747518681743181
+GO:CC,GO:0005575,cellular_component,0.022584732490972433
+GO:CC,GO:0110165,cellular anatomical structure,0.028795511487770056
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,0.03062032673671972
+GO:MF,GO:0005488,binding,0.002364314351560423
+GO:MF,GO:0003674,molecular_function,0.0027168993147490893
+GO:MF,GO:0005515,protein binding,0.0077878228398918165
+GO:MF,GO:0016776,"phosphotransferase activity, phosphate group as acceptor",0.03201049900793694

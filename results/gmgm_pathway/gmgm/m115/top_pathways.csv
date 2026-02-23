@@ -1,0 +1,6 @@
+source,native,name,p_value
+GO:CC,GO:0005575,cellular_component,0.008742522289417905
+GO:CC,GO:0110165,cellular anatomical structure,0.019178560825194018
+GO:CC,GO:0098798,mitochondrial protein-containing complex,0.02688057481899461
+GO:CC,GO:0042721,TIM22 mitochondrial import inner membrane insertion complex,0.037431641069077565
+GO:MF,GO:0003674,molecular_function,0.03400119156961197

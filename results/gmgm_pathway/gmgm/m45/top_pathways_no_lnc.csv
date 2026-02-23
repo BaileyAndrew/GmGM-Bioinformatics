@@ -1,0 +1,52 @@
+source,native,name,p_value
+GO:BP,GO:0009987,cellular process,2.681203269546704e-16
+GO:BP,GO:0008150,biological_process,3.1359025587001673e-15
+GO:BP,GO:0008152,metabolic process,7.28603230445338e-08
+GO:BP,GO:0044238,primary metabolic process,3.4229640598963414e-07
+GO:BP,GO:0043170,macromolecule metabolic process,0.0001490060681197884
+GO:BP,GO:0009056,catabolic process,0.0022193433683216426
+GO:BP,GO:0016043,cellular component organization,0.004965553581541092
+GO:BP,GO:0071840,cellular component organization or biogenesis,0.005034181368232475
+GO:BP,GO:0006139,nucleobase-containing compound metabolic process,0.0068136092118383455
+GO:BP,GO:0034654,nucleobase-containing compound biosynthetic process,0.010545977041931467
+GO:BP,GO:0050789,regulation of biological process,0.01245366710956757
+GO:BP,GO:0006508,proteolysis,0.013978026912874315
+GO:BP,GO:0006996,organelle organization,0.016343609001264192
+GO:BP,GO:0065007,biological regulation,0.01936518258162127
+GO:BP,GO:0019538,protein metabolic process,0.02021056116529961
+GO:BP,GO:0050794,regulation of cellular process,0.02065483778431058
+GO:BP,GO:0033108,mitochondrial respiratory chain complex assembly,0.021000046768441066
+GO:BP,GO:0016256,N-glycan processing to lysosome,0.034693413248064756
+GO:CC,GO:0110165,cellular anatomical structure,2.6549397002823482e-17
+GO:CC,GO:0005575,cellular_component,5.643055731395778e-17
+GO:CC,GO:0005622,intracellular anatomical structure,2.4520886073217433e-15
+GO:CC,GO:0043226,organelle,6.331604286852408e-12
+GO:CC,GO:0043229,intracellular organelle,6.876831814781712e-11
+GO:CC,GO:0043227,membrane-bounded organelle,2.0220748113537013e-10
+GO:CC,GO:0005737,cytoplasm,5.621447375960171e-10
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,1.6237948811993228e-09
+GO:CC,GO:0005634,nucleus,3.333691565663563e-06
+GO:CC,GO:0032991,protein-containing complex,3.175173928548943e-05
+GO:CC,GO:0043233,organelle lumen,0.00011115736682763162
+GO:CC,GO:0031974,membrane-enclosed lumen,0.00011115736682763162
+GO:CC,GO:0070013,intracellular organelle lumen,0.00011115736682763162
+GO:CC,GO:1902494,catalytic complex,0.000323477895069905
+GO:CC,GO:0043232,intracellular membraneless organelle,0.0005680762538192986
+GO:CC,GO:0043228,membraneless organelle,0.0005680762538192986
+GO:CC,GO:0005829,cytosol,0.0011039761539189943
+GO:CC,GO:0031981,nuclear lumen,0.0014069863153373743
+GO:CC,GO:0005654,nucleoplasm,0.008637482922214161
+GO:CC,GO:0005694,chromosome,0.024896392511596786
+GO:MF,GO:0003674,molecular_function,2.6492691592293603e-13
+GO:MF,GO:0005488,binding,5.685565528472833e-11
+GO:MF,GO:0005515,protein binding,1.758012725729574e-10
+GO:MF,GO:0003824,catalytic activity,7.988819341629938e-05
+GO:MF,GO:0016787,hydrolase activity,0.005157836452258037
+GO:MF,GO:0008233,peptidase activity,0.007679317543034507
+GO:MF,GO:0043167,ion binding,0.01318341696074892
+GO:MF,GO:0003976,UDP-N-acetylglucosamine-lysosomal-enzyme N-acetylglucosaminephosphotransferase activity,0.02487034632782136
+GO:MF,GO:0036094,small molecule binding,0.026024490199987555
+GO:MF,GO:0060090,molecular adaptor activity,0.029402531958926344
+GO:MF,GO:0140096,"catalytic activity, acting on a protein",0.03727861240290723
+GO:MF,GO:0008234,cysteine-type peptidase activity,0.04413823359034303
+GO:MF,GO:0019786,protein-phosphatidylethanolamide deconjugating activity,0.049609987990878825

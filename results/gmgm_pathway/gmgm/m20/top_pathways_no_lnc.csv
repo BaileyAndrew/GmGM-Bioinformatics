@@ -1,0 +1,30 @@
+source,native,name,p_value
+GO:BP,GO:0008150,biological_process,2.8831839291214274e-09
+GO:BP,GO:0009987,cellular process,9.676582794366959e-09
+GO:BP,GO:0043170,macromolecule metabolic process,4.541305490853517e-05
+GO:BP,GO:0008152,metabolic process,0.00013030362802942595
+GO:BP,GO:0050794,regulation of cellular process,0.0026542649553301474
+GO:BP,GO:0019222,regulation of metabolic process,0.0030929175785345117
+GO:BP,GO:0065007,biological regulation,0.00556261897957421
+GO:BP,GO:0009059,macromolecule biosynthetic process,0.0068815378235901
+GO:BP,GO:0010467,gene expression,0.007255568909215963
+GO:BP,GO:0050789,regulation of biological process,0.009116522537863816
+GO:BP,GO:0044238,primary metabolic process,0.00969502357448351
+GO:BP,GO:0042492,gamma-delta T cell differentiation,0.02359762954260505
+GO:BP,GO:0060255,regulation of macromolecule metabolic process,0.03847612994231118
+GO:BP,GO:0090304,nucleic acid metabolic process,0.044489007596898146
+GO:CC,GO:0005575,cellular_component,3.661668474218965e-12
+GO:CC,GO:0110165,cellular anatomical structure,1.2690316643377722e-11
+GO:CC,GO:0043227,membrane-bounded organelle,1.7416184500781834e-07
+GO:CC,GO:0005622,intracellular anatomical structure,2.3557723133526547e-07
+GO:CC,GO:0043231,intracellular membrane-bounded organelle,3.5721569234004716e-07
+GO:CC,GO:0043226,organelle,4.0520547179289785e-07
+GO:CC,GO:0043229,intracellular organelle,7.999015718771478e-07
+GO:CC,GO:0005634,nucleus,0.00026455494886187445
+GO:CC,GO:0005737,cytoplasm,0.02183473439497621
+GO:MF,GO:0003674,molecular_function,3.2259746438252168e-12
+GO:MF,GO:0005488,binding,6.417750108617215e-08
+GO:MF,GO:0005515,protein binding,6.367161102532719e-05
+GO:MF,GO:0003723,RNA binding,0.0030810757335144523
+GO:MF,GO:0003676,nucleic acid binding,0.004143938189253406
+KEGG,KEGG:03015,mRNA surveillance pathway,0.0018769507099449976
