@@ -1,0 +1,35 @@
+source,native,name,p_value
+GO:BP,GO:0098609,cell-cell adhesion,1.038360170938178e-09
+GO:BP,GO:0006915,apoptotic process,3.0520658914366443e-09
+GO:BP,GO:0048522,positive regulation of cellular process,4.9510625398131045e-09
+GO:BP,GO:0012501,programmed cell death,7.043973086549191e-09
+GO:BP,GO:0008219,cell death,7.376154853537424e-09
+GO:BP,GO:0030036,actin cytoskeleton organization,1.4278886449638344e-08
+GO:BP,GO:0097435,supramolecular fiber organization,1.6775501507403408e-08
+GO:BP,GO:0048518,positive regulation of biological process,1.9419668557108596e-08
+GO:BP,GO:0006950,response to stress,3.870562044281142e-08
+GO:BP,GO:0033043,regulation of organelle organization,5.2409117193617475e-08
+GO:CC,GO:0070062,extracellular exosome,1.152137945989397e-08
+GO:CC,GO:1903561,extracellular vesicle,1.4829287404469497e-08
+GO:CC,GO:0065010,extracellular membrane-bounded organelle,1.4984958839052605e-08
+GO:CC,GO:0043230,extracellular organelle,1.4984958839052605e-08
+GO:CC,GO:0031982,vesicle,8.174850309178815e-06
+GO:CC,GO:0005615,extracellular space,8.392242882977724e-06
+GO:CC,GO:0005576,extracellular region,2.7627444351732908e-05
+GO:CC,GO:0015629,actin cytoskeleton,6.633055507713272e-05
+GO:CC,GO:0005737,cytoplasm,7.181886878731086e-05
+GO:CC,GO:0005884,actin filament,0.0003781619801040212
+GO:MF,GO:0045296,cadherin binding,4.735301415182872e-05
+GO:MF,GO:0003779,actin binding,6.542715965827722e-05
+GO:MF,GO:0048306,calcium-dependent protein binding,9.293078487499546e-05
+GO:MF,GO:0098641,cadherin binding involved in cell-cell adhesion,0.0001366269147723608
+GO:MF,GO:0008092,cytoskeletal protein binding,0.00019835621683307145
+GO:MF,GO:0050839,cell adhesion molecule binding,0.0006766479305228952
+GO:MF,GO:0098631,cell adhesion mediator activity,0.0011382272262267443
+GO:MF,GO:0051015,actin filament binding,0.0021090278273359344
+GO:MF,GO:0019904,protein domain specific binding,0.0029116232099502043
+GO:MF,GO:0004859,phospholipase inhibitor activity,0.0032964892854731318
+KEGG,KEGG:05132,Salmonella infection,2.8781673398819794e-06
+KEGG,KEGG:05130,Pathogenic Escherichia coli infection,0.0009571392643568384
+KEGG,KEGG:05135,Yersinia infection,0.016378605505043546
+KEGG,KEGG:05222,Small cell lung cancer,0.039598506604161095

@@ -1,0 +1,33 @@
+source,native,name,p_value
+GO:BP,GO:0048523,negative regulation of cellular process,4.6877403679290054e-05
+GO:BP,GO:0051172,negative regulation of nitrogen compound metabolic process,6.750907098335744e-05
+GO:BP,GO:0031324,negative regulation of cellular metabolic process,8.86974741433893e-05
+GO:BP,GO:0048519,negative regulation of biological process,0.0001711869406799371
+GO:BP,GO:0009892,negative regulation of metabolic process,0.00028562763997449906
+GO:BP,GO:0010605,negative regulation of macromolecule metabolic process,0.0005968607273105196
+GO:BP,GO:0051171,regulation of nitrogen compound metabolic process,0.00111989912822948
+GO:BP,GO:0080090,regulation of primary metabolic process,0.001921454388957321
+GO:BP,GO:0060255,regulation of macromolecule metabolic process,0.002370666671743678
+GO:BP,GO:0019222,regulation of metabolic process,0.0024064558123904362
+GO:CC,GO:0032993,protein-DNA complex,8.233201891240266e-07
+GO:CC,GO:0000785,chromatin,4.274144576032551e-06
+GO:CC,GO:0005694,chromosome,6.394800564990271e-06
+GO:CC,GO:0005667,transcription regulator complex,0.0049520742608758946
+GO:CC,GO:0035976,transcription factor AP-1 complex,0.006444189464703679
+GO:CC,GO:0000786,nucleosome,0.017832384157287055
+GO:CC,GO:0043232,intracellular non-membrane-bounded organelle,0.040722729746411244
+GO:CC,GO:0043228,non-membrane-bounded organelle,0.04082263893665552
+GO:CC,GO:0005654,nucleoplasm,0.04298944091210879
+GO:MF,GO:0003682,chromatin binding,0.00032660672056050434
+GO:MF,GO:0030527,structural constituent of chromatin,0.00036662510077809754
+GO:MF,GO:0003677,DNA binding,0.0008825697489499733
+GO:MF,GO:0000979,RNA polymerase II core promoter sequence-specific DNA binding,0.0020207258525912998
+GO:MF,GO:0044877,protein-containing complex binding,0.002106479370349523
+GO:MF,GO:0005515,protein binding,0.005960455259324162
+GO:MF,GO:0140297,DNA-binding transcription factor binding,0.008769298389987846
+GO:MF,GO:0061629,RNA polymerase II-specific DNA-binding transcription factor binding,0.013085933717002387
+GO:MF,GO:0031492,nucleosomal DNA binding,0.020080596608920198
+GO:MF,GO:0001046,core promoter sequence-specific DNA binding,0.021639414620844427
+KEGG,KEGG:04668,TNF signaling pathway,0.0006849196175039811
+KEGG,KEGG:04657,IL-17 signaling pathway,0.006293817544271787
+KEGG,KEGG:04217,Necroptosis,0.049993637454942015

@@ -1,0 +1,38 @@
+source,native,name,p_value
+GO:BP,GO:0051604,protein maturation,5.598010028801839e-07
+GO:BP,GO:0034976,response to endoplasmic reticulum stress,1.2722466014372825e-06
+GO:BP,GO:1901564,organonitrogen compound metabolic process,9.094521293318643e-06
+GO:BP,GO:0006457,protein folding,2.191732512812724e-05
+GO:BP,GO:0034975,protein folding in endoplasmic reticulum,4.053031179807254e-05
+GO:BP,GO:0006950,response to stress,0.00023634241158068122
+GO:BP,GO:0019538,protein metabolic process,0.0002504009608961492
+GO:BP,GO:0044419,biological process involved in interspecies interaction between organisms,0.0003362924776303579
+GO:BP,GO:0033554,cellular response to stress,0.0005073993126030302
+GO:BP,GO:0009607,response to biotic stimulus,0.0005105495777576289
+GO:CC,GO:0140534,endoplasmic reticulum protein-containing complex,4.252479281803955e-18
+GO:CC,GO:0005783,endoplasmic reticulum,3.46898252848724e-13
+GO:CC,GO:0070062,extracellular exosome,6.115571497895547e-12
+GO:CC,GO:1903561,extracellular vesicle,8.266687479167579e-12
+GO:CC,GO:0065010,extracellular membrane-bounded organelle,8.370443800014418e-12
+GO:CC,GO:0043230,extracellular organelle,8.370443800014418e-12
+GO:CC,GO:0034663,endoplasmic reticulum chaperone complex,6.558687698838292e-11
+GO:CC,GO:0005615,extracellular space,8.859890129595861e-11
+GO:CC,GO:0012505,endomembrane system,1.8569427721019966e-10
+GO:CC,GO:0005576,extracellular region,3.829582729454578e-09
+GO:MF,GO:0003756,protein disulfide isomerase activity,0.0001562618705215445
+GO:MF,GO:0016864,"intramolecular oxidoreductase activity, transposing S-S bonds",0.0001562618705215445
+GO:MF,GO:0019899,enzyme binding,0.00022948784629228515
+GO:MF,GO:0044389,ubiquitin-like protein ligase binding,0.00030505048162073647
+GO:MF,GO:0031625,ubiquitin protein ligase binding,0.0021544022223326242
+GO:MF,GO:0050839,cell adhesion molecule binding,0.0035133506790703604
+GO:MF,GO:0005515,protein binding,0.006950618055603149
+GO:MF,GO:0016853,isomerase activity,0.007285713530621596
+GO:MF,GO:0016860,intramolecular oxidoreductase activity,0.010933939030774166
+GO:MF,GO:0051082,unfolded protein binding,0.012867360601397433
+KEGG,KEGG:04141,Protein processing in endoplasmic reticulum,1.7683518193921178e-11
+KEGG,KEGG:03060,Protein export,5.6624371804292024e-05
+KEGG,KEGG:04145,Phagosome,0.0001120465590652625
+KEGG,KEGG:05012,Parkinson disease,0.0011318412119276228
+KEGG,KEGG:05020,Prion disease,0.0013540833201786057
+KEGG,KEGG:05014,Amyotrophic lateral sclerosis,0.013185236301053161
+KEGG,KEGG:04612,Antigen processing and presentation,0.047334698878625604

@@ -1,0 +1,36 @@
+source,native,name,p_value
+GO:BP,GO:0006955,immune response,9.487581822000121e-15
+GO:BP,GO:0002443,leukocyte mediated immunity,3.763527524596203e-14
+GO:BP,GO:0002376,immune system process,8.691701958397695e-14
+GO:BP,GO:0001906,cell killing,2.355708161891541e-13
+GO:BP,GO:0001909,leukocyte mediated cytotoxicity,3.812405486377237e-11
+GO:BP,GO:0098542,defense response to other organism,4.885046566928163e-11
+GO:BP,GO:0002252,immune effector process,5.289342263596311e-11
+GO:BP,GO:0001775,cell activation,6.651162580709642e-11
+GO:BP,GO:0140546,defense response to symbiont,9.654867783580994e-11
+GO:BP,GO:0006952,defense response,1.4075199364033828e-10
+GO:CC,GO:0044194,cytolytic granule,5.156013873741919e-08
+GO:CC,GO:0009897,external side of plasma membrane,1.2817013536197887e-05
+GO:CC,GO:0009986,cell surface,0.00010306921561674462
+GO:CC,GO:0098552,side of membrane,0.0005336958830117523
+GO:CC,GO:0005576,extracellular region,0.004309422416236589
+GO:CC,GO:0033001,Fc-gamma receptor III complex,0.005379160048020119
+GO:CC,GO:0032997,Fc receptor complex,0.017871086907044687
+GO:CC,GO:0071944,cell periphery,0.023427876492475908
+GO:CC,GO:0005886,plasma membrane,0.040761092446979126
+GO:MF,GO:0140375,immune receptor activity,2.1659251191176063e-06
+GO:MF,GO:0042287,MHC protein binding,3.285902080589891e-05
+GO:MF,GO:0032394,MHC class Ib receptor activity,0.00017070732300339742
+GO:MF,GO:0031726,CCR1 chemokine receptor binding,0.00017070732300339742
+GO:MF,GO:0031730,CCR5 chemokine receptor binding,0.00029817253536206537
+GO:MF,GO:0023024,MHC class I protein complex binding,0.00029817253536206537
+GO:MF,GO:0062082,HLA-E specific inhibitory MHC class Ib receptor activity,0.0033362089496117337
+GO:MF,GO:0062080,inhibitory MHC class Ib receptor activity,0.0033362089496117337
+GO:MF,GO:0042288,MHC class I protein binding,0.006808419593248555
+GO:MF,GO:0038023,signaling receptor activity,0.012428751074995494
+KEGG,KEGG:04650,Natural killer cell mediated cytotoxicity,5.16987177051029e-10
+KEGG,KEGG:05332,Graft-versus-host disease,0.0005526675114169566
+KEGG,KEGG:04612,Antigen processing and presentation,0.00668759823101036
+KEGG,KEGG:05340,Primary immunodeficiency,0.02042029506713968
+KEGG,KEGG:04061,Viral protein interaction with cytokine and cytokine receptor,0.026024040338965736
+KEGG,KEGG:04060,Cytokine-cytokine receptor interaction,0.03270968208900733

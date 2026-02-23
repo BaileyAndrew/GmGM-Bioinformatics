@@ -1,0 +1,21 @@
+source,native,name,p_value
+GO:BP,GO:0006880,intracellular sequestering of iron ion,0.008109402849515637
+GO:BP,GO:0097577,sequestering of iron ion,0.011348845144892459
+GO:BP,GO:0030837,negative regulation of actin filament polymerization,0.013793254005494781
+GO:BP,GO:0051651,maintenance of location in cell,0.017723141637220854
+GO:BP,GO:0051238,sequestering of metal ion,0.024291211663041285
+GO:BP,GO:0032272,negative regulation of protein polymerization,0.024629369619503724
+GO:BP,GO:0042989,sequestering of actin monomers,0.0296779651819336
+GO:CC,GO:0070288,ferritin complex,4.694657445464229e-05
+GO:CC,GO:0008043,intracellular ferritin complex,4.694657445464229e-05
+GO:CC,GO:0070062,extracellular exosome,0.00010441192325488037
+GO:CC,GO:1903561,extracellular vesicle,0.0001150133987281194
+GO:CC,GO:0065010,extracellular membrane-bounded organelle,0.00011547486413578116
+GO:CC,GO:0043230,extracellular organelle,0.00011547486413578116
+GO:CC,GO:0005576,extracellular region,0.00030919513428925936
+GO:CC,GO:0005615,extracellular space,0.00038800361733659096
+GO:CC,GO:0031982,vesicle,0.002328451764811003
+GO:CC,GO:0044754,autolysosome,0.0042536144461899975
+GO:MF,GO:0003785,actin monomer binding,0.00023441549742407719
+GO:MF,GO:0008199,ferric iron binding,0.0059845207748765615
+GO:MF,GO:0008198,ferrous iron binding,0.03515372606458301

@@ -1,0 +1,41 @@
+source,native,name,p_value
+GO:BP,GO:0002684,positive regulation of immune system process,8.312447090756487e-15
+GO:BP,GO:0050776,regulation of immune response,2.2909515286996268e-14
+GO:BP,GO:0002504,antigen processing and presentation of peptide or polysaccharide antigen via MHC class II,2.402531602869668e-14
+GO:BP,GO:0050778,positive regulation of immune response,5.138303931599931e-14
+GO:BP,GO:0002250,adaptive immune response,7.890230569665669e-14
+GO:BP,GO:0046649,lymphocyte activation,1.8634315793060795e-13
+GO:BP,GO:0006955,immune response,3.024974800588317e-13
+GO:BP,GO:0019886,antigen processing and presentation of exogenous peptide antigen via MHC class II,1.2399333431067716e-12
+GO:BP,GO:0002399,MHC class II protein complex assembly,2.2428779340397143e-12
+GO:BP,GO:0002503,peptide antigen assembly with MHC class II protein complex,2.2428779340397143e-12
+GO:CC,GO:0042613,MHC class II protein complex,2.446737731148388e-18
+GO:CC,GO:0042611,MHC protein complex,7.369011611095488e-17
+GO:CC,GO:0071753,IgM immunoglobulin complex,3.105832327358207e-09
+GO:CC,GO:0098553,lumenal side of endoplasmic reticulum membrane,9.831112110300344e-09
+GO:CC,GO:0098797,plasma membrane protein complex,1.3001731915342273e-08
+GO:CC,GO:0098576,lumenal side of membrane,6.920991713042476e-08
+GO:CC,GO:0005770,late endosome,1.7790060260464673e-07
+GO:CC,GO:0071755,IgM B cell receptor complex,2.1815796515135324e-07
+GO:CC,GO:0012507,ER to Golgi transport vesicle membrane,9.040522383638426e-07
+GO:CC,GO:0019814,immunoglobulin complex,2.2593045579956902e-06
+GO:MF,GO:0023026,MHC class II protein complex binding,6.802881913716222e-17
+GO:MF,GO:0023023,MHC protein complex binding,1.2776415361097483e-15
+GO:MF,GO:0003823,antigen binding,1.7713392981520474e-13
+GO:MF,GO:0042605,peptide antigen binding,9.304170050096941e-10
+GO:MF,GO:0042277,peptide binding,8.241661966044831e-06
+GO:MF,GO:0032395,MHC class II receptor activity,1.707219548943014e-05
+GO:MF,GO:0033218,amide binding,3.1584140832679375e-05
+GO:MF,GO:0140375,immune receptor activity,0.004376844806415443
+GO:MF,GO:0042609,CD4 receptor binding,0.00907589856740664
+GO:MF,GO:0044877,protein-containing complex binding,0.00960538332201535
+KEGG,KEGG:05310,Asthma,1.0003041104069386e-12
+KEGG,KEGG:05330,Allograft rejection,6.02038609834797e-12
+KEGG,KEGG:04612,Antigen processing and presentation,9.677582912949136e-12
+KEGG,KEGG:05332,Graft-versus-host disease,1.1489611579865431e-11
+KEGG,KEGG:04940,Type I diabetes mellitus,2.0747874815693862e-11
+KEGG,KEGG:04672,Intestinal immune network for IgA production,4.2487102948598145e-11
+KEGG,KEGG:05320,Autoimmune thyroid disease,9.47973035253445e-11
+KEGG,KEGG:04640,Hematopoietic cell lineage,1.0565832235027918e-10
+KEGG,KEGG:05321,Inflammatory bowel disease,5.361852935765016e-10
+KEGG,KEGG:05416,Viral myocarditis,6.0264529762606e-10
