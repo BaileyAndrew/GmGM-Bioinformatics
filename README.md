@@ -18,4 +18,4 @@ Figures 2 and 6 are generated in `synthetic_data.ipynb`
 
 Figure 7 and the data behind Tables 5 and 6 are generated in `coil.ipynb`.
 
-The data behind Table 4 is generated in `million-cell.ipynb`; the `million-cell` folder contains a module-by-module breakdown of the results.  This requires a lot of memory to run.
+The data behind Table 4 is generated in `million-cell.ipynb`; the `million-cell` folder already contains a module-by-module breakdown of the results of this file.  This requires a lot of memory to run.
