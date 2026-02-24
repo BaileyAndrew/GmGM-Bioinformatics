@@ -4,9 +4,9 @@ This contains the code used to generate the results in the GmGM paper.  To acqui
 
 ## Test dataset
 
-For the million-cell dataset, the data is available here: https://cellxgene.cziscience.com/collections/dde06e0f-ab3b-46be-96a2-a8082383c4a1
-The COIL dataset (only shown in supplementary material) is available here: https://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php
-If users want additional tests, the `scanpy` package allows easy download of many datasets that will already be in a format accepted by our methodology (AnnData): https://scanpy.readthedocs.io/en/stable/api/datasets.html
+* For the million-cell dataset, the data is available here: https://cellxgene.cziscience.com/collections/dde06e0f-ab3b-46be-96a2-a8082383c4a1
+* The COIL dataset (only shown in supplementary material) is available here: https://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php
+* If users want additional tests, the `scanpy` package allows easy download of many datasets that will already be in a format accepted by our methodology (AnnData): https://scanpy.readthedocs.io/en/stable/api/datasets.html
 
 ## lncRNA Experiments
 
